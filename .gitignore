@@ -2,6 +2,7 @@
 *.pyc
 .DS_Store
 *.npz
+models/
 sample/
 samples/
 checkpoint/
