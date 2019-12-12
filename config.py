@@ -4,6 +4,8 @@ import json
 config = edict()
 config.TRAIN = edict()
 
+## adversarial loss inclusive of LR vs fake LR
+config.DOWNSCALE_COMPARE = False
 ## Adam
 config.TRAIN.batch_size = 8 # [16] use 8 if your GPU memory is small, and use [2, 4] in tl.vis.save_images / use 16 for faster training
 config.TRAIN.lr_init = 1e-4
@@ -26,7 +28,7 @@ config.TRAIN.lr_img_path = 'DIV2K/DIV2K_train_LR_x8/'
 config.VALID = edict()
 ## test set location
 config.VALID.hr_img_path = 'DIV2K/DIV2K_valid_HR/'
-config.VALID.lr_img_path = 'DIV2K/DIV2K_valid_LR_x8/'
+config.VALID.lr_img_path = 'DIV2K/DIV2K_valid_LR_difficult/'
 
 def log_config(filename, cfg):
     with open(filename, 'w') as f:

@@ -59,7 +59,7 @@ def get_train_data():
         hr_patch = hr_patch / (255. / 2.)
         hr_patch = hr_patch - 1.
         hr_patch = tf.image.random_flip_left_right(hr_patch)
-        lr_patch = tf.image.resize(hr_patch, size=[96, 96])
+        lr_patch = downscale_hr_patches(hr_patch)
         return lr_patch, hr_patch
     train_ds = tf.data.Dataset.from_generator(generator_train, output_types=(tf.float32))
     train_ds = train_ds.map(_map_fn_train, num_parallel_calls=multiprocessing.cpu_count())
@@ -69,6 +69,9 @@ def get_train_data():
     train_ds = train_ds.batch(batch_size)
         # value = train_ds.make_one_shot_iterator().get_next()
     return train_ds
+
+def downscale_hr_patches(hr_patch):
+    return tf.image.resize(hr_patch, size=[96, 96])
 
 def train():
     G = get_G((batch_size, 96, 96, 3))
@@ -95,7 +98,15 @@ def train():
             step_time = time.time()
             with tf.GradientTape() as tape:
                 fake_hr_patchs = G(lr_patchs)
-                mse_loss = tl.cost.mean_squared_error(fake_hr_patchs, hr_patchs, is_mean=True)
+
+                mse_f_lr_p = 0.0
+                if config.DOWNSCALE_COMPARE : 
+                    fake_lr_patches = fake_hr_patchs.map(downscale_hr_patches, num_parallel_calls=multiprocessing.cpu_count())
+
+                    mse_f_lr_p = tl.cost.mean_squared_error(fake_lr_patches, lr_patchs, is_mean=True)
+
+                mse_loss = tl.cost.mean_squared_error(fake_hr_patchs, hr_patchs, is_mean=True) + mse_f_lr_p
+
             grad = tape.gradient(mse_loss, G.trainable_weights)
             g_optimizer_init.apply_gradients(zip(grad, G.trainable_weights))
             print("Epoch: [{}/{}] step: [{}/{}] time: {:.3f}s, mse: {:.3f} ".format(
@@ -120,7 +131,16 @@ def train():
                 d_loss2 = tl.cost.sigmoid_cross_entropy(logits_fake, tf.zeros_like(logits_fake))
                 d_loss = d_loss1 + d_loss2
                 g_gan_loss = 1e-3 * tl.cost.sigmoid_cross_entropy(logits_fake, tf.ones_like(logits_fake))
-                mse_loss = tl.cost.mean_squared_error(fake_patchs, hr_patchs, is_mean=True)
+
+                # mse_loss = tl.cost.mean_squared_error(fake_patchs, hr_patchs, is_mean=True)
+                mse_f_lr_p = 0.0
+                if config.DOWNSCALE_COMPARE: 
+                    fake_lr_patches = fake_hr_patchs.map(downscale_hr_patches, num_parallel_calls=multiprocessing.cpu_count())
+                    
+                    mse_f_lr_p = tl.cost.mean_squared_error(fake_lr_patches, lr_patchs, is_mean=True)
+
+                mse_loss = tl.cost.mean_squared_error(fake_hr_patchs, hr_patchs, is_mean=True) + mse_f_lr_p
+
                 vgg_loss = 2e-6 * tl.cost.mean_squared_error(feature_fake, feature_real, is_mean=True)
                 g_loss = mse_loss + vgg_loss + g_gan_loss
             grad = tape.gradient(g_loss, G.trainable_weights)
@@ -144,8 +164,6 @@ def train():
 
 def evaluate():
     ###====================== PRE-LOAD DATA ===========================###
-    # train_hr_img_list = sorted(tl.files.load_file_list(path=config.TRAIN.hr_img_path, regx='.*.png', printable=False))
-    # train_lr_img_list = sorted(tl.files.load_file_list(path=config.TRAIN.lr_img_path, regx='.*.png', printable=False))
     valid_hr_img_list = sorted(tl.files.load_file_list(path=config.VALID.hr_img_path, regx='.*.png', printable=False))
     valid_lr_img_list = sorted(tl.files.load_file_list(path=config.VALID.lr_img_path, regx='.*.png', printable=False))
 
