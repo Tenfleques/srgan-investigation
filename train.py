@@ -112,7 +112,7 @@ def train():
             print("Epoch: [{}/{}] step: [{}/{}] time: {:.3f}s, mse: {:.3f} ".format(
                 epoch, n_epoch_init, step, n_step_epoch, time.time() - step_time, mse_loss))
         if (epoch != 0) and (epoch % 10 == 0):
-            tl.vis.save_images(fake_hr_patchs.numpy(), [2, 4], os.path.join(save_dir, 'train_g_init_{}.png'.format(epoch)))
+            tl.vis.save_images(fake_hr_patchs.numpy(), [4, 4], os.path.join(save_dir, 'train_g_init_{}.png'.format(epoch)))
 
     ## adversarial learning (G, D)
     n_step_epoch = round(n_epoch // batch_size)
@@ -158,7 +158,7 @@ def train():
             print(log)
 
         if (epoch != 0) and (epoch % 10 == 0):
-            tl.vis.save_images(fake_patchs.numpy(), [2, 4], os.path.join(save_dir, 'train_g_{}.png'.format(epoch)))
+            tl.vis.save_images(fake_patchs.numpy(), [4, 4], os.path.join(save_dir, 'train_g_{}.png'.format(epoch)))
             G.save_weights(os.path.join(checkpoint_dir, 'g.h5'))
             D.save_weights(os.path.join(checkpoint_dir, 'd.h5'))
 
