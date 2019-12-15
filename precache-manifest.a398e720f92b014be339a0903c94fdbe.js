@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1781a408ce0d3967b73c0c183bb0bb99",
+    "revision": "34b020e0c6b9831ed9fda994e709326b",
     "url": "/srgan-investigation/index.html"
   },
   {
-    "revision": "1611b3c1fd8f79e7cae5",
+    "revision": "242ad0565ec2f919f4b7",
     "url": "/srgan-investigation/static/css/main.7e935d6b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/srgan-investigation/static/js/2.034fd358.chunk.js.LICENSE"
   },
   {
-    "revision": "1611b3c1fd8f79e7cae5",
-    "url": "/srgan-investigation/static/js/main.dabc6e8b.chunk.js"
+    "revision": "242ad0565ec2f919f4b7",
+    "url": "/srgan-investigation/static/js/main.81910272.chunk.js"
   },
   {
     "revision": "ae3e94eabf6308f19f33",
