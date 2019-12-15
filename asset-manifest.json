@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/srgan-investigation/static/css/main.7e935d6b.chunk.css",
-    "main.js": "/srgan-investigation/static/js/main.0d3b15bd.chunk.js",
-    "main.js.map": "/srgan-investigation/static/js/main.0d3b15bd.chunk.js.map",
+    "main.js": "/srgan-investigation/static/js/main.dabc6e8b.chunk.js",
+    "main.js.map": "/srgan-investigation/static/js/main.dabc6e8b.chunk.js.map",
     "runtime-main.js": "/srgan-investigation/static/js/runtime-main.75e29a06.js",
     "runtime-main.js.map": "/srgan-investigation/static/js/runtime-main.75e29a06.js.map",
     "static/js/2.034fd358.chunk.js": "/srgan-investigation/static/js/2.034fd358.chunk.js",
     "static/js/2.034fd358.chunk.js.map": "/srgan-investigation/static/js/2.034fd358.chunk.js.map",
     "index.html": "/srgan-investigation/index.html",
-    "precache-manifest.755e2f9163cfd3fa0a68f9c123adca51.js": "/srgan-investigation/precache-manifest.755e2f9163cfd3fa0a68f9c123adca51.js",
+    "precache-manifest.e2f5bfc6320dfa0955374f41e7247904.js": "/srgan-investigation/precache-manifest.e2f5bfc6320dfa0955374f41e7247904.js",
     "service-worker.js": "/srgan-investigation/service-worker.js",
     "static/css/main.7e935d6b.chunk.css.map": "/srgan-investigation/static/css/main.7e935d6b.chunk.css.map",
     "static/js/2.034fd358.chunk.js.LICENSE": "/srgan-investigation/static/js/2.034fd358.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.75e29a06.js",
     "static/js/2.034fd358.chunk.js",
     "static/css/main.7e935d6b.chunk.css",
-    "static/js/main.0d3b15bd.chunk.js"
+    "static/js/main.dabc6e8b.chunk.js"
   ]
 }
