@@ -1,0 +1,16 @@
+{
+    "appname" : "Fleques Super Resolution",
+    "description": "Investigations on image super resolution using GANs",
+    "repo" : "srgan-investigation",
+    "branch" : "images",
+    "path" :    "images/",
+    "models" : [
+        {
+            "name" : "stock-cyclic",
+            "caption" : "Stock Cyclic",
+            "version" : 1,
+            "major" : 0,
+            "minor" : 0
+        }
+    ]
+}
