@@ -3242,3 +3242,2096 @@ Epoch: [64/100] step: [40/6] time: 19.271s, mse: 0.026
 Epoch: [64/100] step: [41/6] time: 19.147s, mse: 0.018 
 Epoch: [64/100] step: [42/6] time: 19.172s, mse: 0.021 
 Epoch: [64/100] step: [43/6] time: 19.167s, mse: 0.022 
+Epoch: [64/100] step: [44/6] time: 19.221s, mse: 0.020 
+Epoch: [64/100] step: [45/6] time: 19.375s, mse: 0.025 
+Epoch: [64/100] step: [46/6] time: 19.429s, mse: 0.023 
+Epoch: [64/100] step: [47/6] time: 19.330s, mse: 0.014 
+Epoch: [64/100] step: [48/6] time: 19.377s, mse: 0.018 
+Epoch: [64/100] step: [49/6] time: 19.446s, mse: 0.023 
+Epoch: [65/100] step: [0/6] time: 19.347s, mse: 0.019 
+Epoch: [65/100] step: [1/6] time: 19.282s, mse: 0.023 
+Epoch: [65/100] step: [2/6] time: 19.544s, mse: 0.018 
+Epoch: [65/100] step: [3/6] time: 19.277s, mse: 0.028 
+Epoch: [65/100] step: [4/6] time: 19.245s, mse: 0.017 
+Epoch: [65/100] step: [5/6] time: 19.424s, mse: 0.036 
+Epoch: [65/100] step: [6/6] time: 19.184s, mse: 0.022 
+Epoch: [65/100] step: [7/6] time: 19.321s, mse: 0.020 
+Epoch: [65/100] step: [8/6] time: 19.258s, mse: 0.013 
+Epoch: [65/100] step: [9/6] time: 19.103s, mse: 0.017 
+Epoch: [65/100] step: [10/6] time: 19.135s, mse: 0.019 
+Epoch: [65/100] step: [11/6] time: 19.277s, mse: 0.010 
+Epoch: [65/100] step: [12/6] time: 19.244s, mse: 0.013 
+Epoch: [65/100] step: [13/6] time: 19.171s, mse: 0.026 
+Epoch: [65/100] step: [14/6] time: 19.227s, mse: 0.018 
+Epoch: [65/100] step: [15/6] time: 19.233s, mse: 0.037 
+Epoch: [65/100] step: [16/6] time: 19.404s, mse: 0.022 
+Epoch: [65/100] step: [17/6] time: 19.448s, mse: 0.019 
+Epoch: [65/100] step: [18/6] time: 19.185s, mse: 0.014 
+Epoch: [65/100] step: [19/6] time: 19.321s, mse: 0.027 
+Epoch: [65/100] step: [20/6] time: 19.303s, mse: 0.016 
+Epoch: [65/100] step: [21/6] time: 19.315s, mse: 0.016 
+Epoch: [65/100] step: [22/6] time: 19.183s, mse: 0.016 
+Epoch: [65/100] step: [23/6] time: 19.250s, mse: 0.021 
+Epoch: [65/100] step: [24/6] time: 19.106s, mse: 0.015 
+Epoch: [65/100] step: [25/6] time: 19.196s, mse: 0.019 
+Epoch: [65/100] step: [26/6] time: 19.241s, mse: 0.017 
+Epoch: [65/100] step: [27/6] time: 19.157s, mse: 0.014 
+Epoch: [65/100] step: [28/6] time: 19.432s, mse: 0.019 
+Epoch: [65/100] step: [29/6] time: 19.277s, mse: 0.018 
+Epoch: [65/100] step: [30/6] time: 18.991s, mse: 0.029 
+Epoch: [65/100] step: [31/6] time: 19.206s, mse: 0.018 
+Epoch: [65/100] step: [32/6] time: 19.043s, mse: 0.022 
+Epoch: [65/100] step: [33/6] time: 19.204s, mse: 0.025 
+Epoch: [65/100] step: [34/6] time: 19.225s, mse: 0.016 
+Epoch: [65/100] step: [35/6] time: 19.049s, mse: 0.020 
+Epoch: [65/100] step: [36/6] time: 19.251s, mse: 0.023 
+Epoch: [65/100] step: [37/6] time: 19.367s, mse: 0.020 
+Epoch: [65/100] step: [38/6] time: 19.250s, mse: 0.018 
+Epoch: [65/100] step: [39/6] time: 19.363s, mse: 0.020 
+Epoch: [65/100] step: [40/6] time: 19.145s, mse: 0.023 
+Epoch: [65/100] step: [41/6] time: 19.178s, mse: 0.023 
+Epoch: [65/100] step: [42/6] time: 19.286s, mse: 0.023 
+Epoch: [65/100] step: [43/6] time: 19.202s, mse: 0.018 
+Epoch: [65/100] step: [44/6] time: 19.104s, mse: 0.024 
+Epoch: [65/100] step: [45/6] time: 19.209s, mse: 0.020 
+Epoch: [65/100] step: [46/6] time: 19.087s, mse: 0.022 
+Epoch: [65/100] step: [47/6] time: 19.166s, mse: 0.044 
+Epoch: [65/100] step: [48/6] time: 19.225s, mse: 0.013 
+Epoch: [65/100] step: [49/6] time: 19.079s, mse: 0.018 
+Epoch: [66/100] step: [0/6] time: 19.344s, mse: 0.023 
+Epoch: [66/100] step: [1/6] time: 19.244s, mse: 0.019 
+Epoch: [66/100] step: [2/6] time: 19.242s, mse: 0.016 
+Epoch: [66/100] step: [3/6] time: 19.203s, mse: 0.016 
+Epoch: [66/100] step: [4/6] time: 19.455s, mse: 0.014 
+Epoch: [66/100] step: [5/6] time: 18.960s, mse: 0.022 
+Epoch: [66/100] step: [6/6] time: 19.221s, mse: 0.042 
+Epoch: [66/100] step: [7/6] time: 19.230s, mse: 0.026 
+Epoch: [66/100] step: [8/6] time: 19.201s, mse: 0.020 
+Epoch: [66/100] step: [9/6] time: 19.183s, mse: 0.019 
+Epoch: [66/100] step: [10/6] time: 19.341s, mse: 0.015 
+Epoch: [66/100] step: [11/6] time: 19.258s, mse: 0.021 
+Epoch: [66/100] step: [12/6] time: 19.026s, mse: 0.018 
+Epoch: [66/100] step: [13/6] time: 19.156s, mse: 0.030 
+Epoch: [66/100] step: [14/6] time: 19.209s, mse: 0.025 
+Epoch: [66/100] step: [15/6] time: 19.231s, mse: 0.019 
+Epoch: [66/100] step: [16/6] time: 19.232s, mse: 0.025 
+Epoch: [66/100] step: [17/6] time: 19.220s, mse: 0.026 
+Epoch: [66/100] step: [18/6] time: 19.272s, mse: 0.020 
+Epoch: [66/100] step: [19/6] time: 19.248s, mse: 0.022 
+Epoch: [66/100] step: [20/6] time: 19.241s, mse: 0.021 
+Epoch: [66/100] step: [21/6] time: 19.063s, mse: 0.019 
+Epoch: [66/100] step: [22/6] time: 19.125s, mse: 0.024 
+Epoch: [66/100] step: [23/6] time: 19.317s, mse: 0.020 
+Epoch: [66/100] step: [24/6] time: 19.072s, mse: 0.015 
+Epoch: [66/100] step: [25/6] time: 19.206s, mse: 0.023 
+Epoch: [66/100] step: [26/6] time: 19.179s, mse: 0.020 
+Epoch: [66/100] step: [27/6] time: 19.172s, mse: 0.019 
+Epoch: [66/100] step: [28/6] time: 19.238s, mse: 0.017 
+Epoch: [66/100] step: [29/6] time: 19.310s, mse: 0.037 
+Epoch: [66/100] step: [30/6] time: 19.132s, mse: 0.021 
+Epoch: [66/100] step: [31/6] time: 19.111s, mse: 0.023 
+Epoch: [66/100] step: [32/6] time: 19.368s, mse: 0.030 
+Epoch: [66/100] step: [33/6] time: 19.180s, mse: 0.017 
+Epoch: [66/100] step: [34/6] time: 19.218s, mse: 0.019 
+Epoch: [66/100] step: [35/6] time: 19.310s, mse: 0.027 
+Epoch: [66/100] step: [36/6] time: 19.114s, mse: 0.019 
+Epoch: [66/100] step: [37/6] time: 19.227s, mse: 0.017 
+Epoch: [66/100] step: [38/6] time: 19.281s, mse: 0.025 
+Epoch: [66/100] step: [39/6] time: 19.359s, mse: 0.015 
+Epoch: [66/100] step: [40/6] time: 19.128s, mse: 0.015 
+Epoch: [66/100] step: [41/6] time: 19.089s, mse: 0.024 
+Epoch: [66/100] step: [42/6] time: 19.271s, mse: 0.023 
+Epoch: [66/100] step: [43/6] time: 19.188s, mse: 0.028 
+Epoch: [66/100] step: [44/6] time: 18.973s, mse: 0.018 
+Epoch: [66/100] step: [45/6] time: 19.294s, mse: 0.021 
+Epoch: [66/100] step: [46/6] time: 19.022s, mse: 0.025 
+Epoch: [66/100] step: [47/6] time: 19.045s, mse: 0.020 
+Epoch: [66/100] step: [48/6] time: 19.034s, mse: 0.019 
+Epoch: [66/100] step: [49/6] time: 18.924s, mse: 0.013 
+Epoch: [67/100] step: [0/6] time: 19.139s, mse: 0.014 
+Epoch: [67/100] step: [1/6] time: 19.456s, mse: 0.023 
+Epoch: [67/100] step: [2/6] time: 19.176s, mse: 0.026 
+Epoch: [67/100] step: [3/6] time: 19.260s, mse: 0.022 
+Epoch: [67/100] step: [4/6] time: 19.406s, mse: 0.019 
+Epoch: [67/100] step: [5/6] time: 19.291s, mse: 0.020 
+Epoch: [67/100] step: [6/6] time: 19.211s, mse: 0.021 
+Epoch: [67/100] step: [7/6] time: 19.435s, mse: 0.020 
+Epoch: [67/100] step: [8/6] time: 19.155s, mse: 0.019 
+Epoch: [67/100] step: [9/6] time: 19.201s, mse: 0.014 
+Epoch: [67/100] step: [10/6] time: 19.443s, mse: 0.014 
+Epoch: [67/100] step: [11/6] time: 18.885s, mse: 0.018 
+Epoch: [67/100] step: [12/6] time: 19.362s, mse: 0.023 
+Epoch: [67/100] step: [13/6] time: 19.339s, mse: 0.030 
+Epoch: [67/100] step: [14/6] time: 19.137s, mse: 0.028 
+Epoch: [67/100] step: [15/6] time: 19.154s, mse: 0.023 
+Epoch: [67/100] step: [16/6] time: 19.578s, mse: 0.020 
+Epoch: [67/100] step: [17/6] time: 19.441s, mse: 0.019 
+Epoch: [67/100] step: [18/6] time: 19.201s, mse: 0.018 
+Epoch: [67/100] step: [19/6] time: 19.331s, mse: 0.020 
+Epoch: [67/100] step: [20/6] time: 19.283s, mse: 0.014 
+Epoch: [67/100] step: [21/6] time: 19.258s, mse: 0.017 
+Epoch: [67/100] step: [22/6] time: 19.280s, mse: 0.019 
+Epoch: [67/100] step: [23/6] time: 19.300s, mse: 0.018 
+Epoch: [67/100] step: [24/6] time: 19.097s, mse: 0.015 
+Epoch: [67/100] step: [25/6] time: 19.169s, mse: 0.020 
+Epoch: [67/100] step: [26/6] time: 19.324s, mse: 0.018 
+Epoch: [67/100] step: [27/6] time: 19.183s, mse: 0.023 
+Epoch: [67/100] step: [28/6] time: 19.272s, mse: 0.017 
+Epoch: [67/100] step: [29/6] time: 19.368s, mse: 0.025 
+Epoch: [67/100] step: [30/6] time: 19.234s, mse: 0.027 
+Epoch: [67/100] step: [31/6] time: 19.189s, mse: 0.017 
+Epoch: [67/100] step: [32/6] time: 19.434s, mse: 0.027 
+Epoch: [67/100] step: [33/6] time: 19.296s, mse: 0.025 
+Epoch: [67/100] step: [34/6] time: 19.210s, mse: 0.029 
+Epoch: [67/100] step: [35/6] time: 19.286s, mse: 0.020 
+Epoch: [67/100] step: [36/6] time: 19.150s, mse: 0.023 
+Epoch: [67/100] step: [37/6] time: 19.196s, mse: 0.024 
+Epoch: [67/100] step: [38/6] time: 19.130s, mse: 0.029 
+Epoch: [67/100] step: [39/6] time: 19.027s, mse: 0.014 
+Epoch: [67/100] step: [40/6] time: 19.376s, mse: 0.034 
+Epoch: [67/100] step: [41/6] time: 19.254s, mse: 0.018 
+Epoch: [67/100] step: [42/6] time: 19.159s, mse: 0.018 
+Epoch: [67/100] step: [43/6] time: 19.206s, mse: 0.017 
+Epoch: [67/100] step: [44/6] time: 19.128s, mse: 0.020 
+Epoch: [67/100] step: [45/6] time: 19.139s, mse: 0.016 
+Epoch: [67/100] step: [46/6] time: 19.100s, mse: 0.022 
+Epoch: [67/100] step: [47/6] time: 19.127s, mse: 0.025 
+Epoch: [67/100] step: [48/6] time: 19.181s, mse: 0.021 
+Epoch: [67/100] step: [49/6] time: 19.092s, mse: 0.023 
+Epoch: [68/100] step: [0/6] time: 19.262s, mse: 0.026 
+Epoch: [68/100] step: [1/6] time: 19.229s, mse: 0.019 
+Epoch: [68/100] step: [2/6] time: 19.265s, mse: 0.022 
+Epoch: [68/100] step: [3/6] time: 19.288s, mse: 0.015 
+Epoch: [68/100] step: [4/6] time: 19.288s, mse: 0.028 
+Epoch: [68/100] step: [5/6] time: 19.164s, mse: 0.029 
+Epoch: [68/100] step: [6/6] time: 19.271s, mse: 0.024 
+Epoch: [68/100] step: [7/6] time: 19.358s, mse: 0.026 
+Epoch: [68/100] step: [8/6] time: 19.379s, mse: 0.028 
+Epoch: [68/100] step: [9/6] time: 19.120s, mse: 0.030 
+Epoch: [68/100] step: [10/6] time: 19.574s, mse: 0.020 
+Epoch: [68/100] step: [11/6] time: 19.212s, mse: 0.011 
+Epoch: [68/100] step: [12/6] time: 19.434s, mse: 0.017 
+Epoch: [68/100] step: [13/6] time: 19.465s, mse: 0.025 
+Epoch: [68/100] step: [14/6] time: 19.374s, mse: 0.017 
+Epoch: [68/100] step: [15/6] time: 19.291s, mse: 0.029 
+Epoch: [68/100] step: [16/6] time: 19.413s, mse: 0.036 
+Epoch: [68/100] step: [17/6] time: 19.272s, mse: 0.018 
+Epoch: [68/100] step: [18/6] time: 19.222s, mse: 0.027 
+Epoch: [68/100] step: [19/6] time: 19.274s, mse: 0.025 
+Epoch: [68/100] step: [20/6] time: 19.257s, mse: 0.023 
+Epoch: [68/100] step: [21/6] time: 19.350s, mse: 0.021 
+Epoch: [68/100] step: [22/6] time: 19.312s, mse: 0.013 
+Epoch: [68/100] step: [23/6] time: 19.355s, mse: 0.023 
+Epoch: [68/100] step: [24/6] time: 19.265s, mse: 0.019 
+Epoch: [68/100] step: [25/6] time: 19.270s, mse: 0.021 
+Epoch: [68/100] step: [26/6] time: 19.188s, mse: 0.020 
+Epoch: [68/100] step: [27/6] time: 19.220s, mse: 0.025 
+Epoch: [68/100] step: [28/6] time: 19.194s, mse: 0.020 
+Epoch: [68/100] step: [29/6] time: 19.295s, mse: 0.023 
+Epoch: [68/100] step: [30/6] time: 19.269s, mse: 0.014 
+Epoch: [68/100] step: [31/6] time: 19.271s, mse: 0.020 
+Epoch: [68/100] step: [32/6] time: 19.202s, mse: 0.020 
+Epoch: [68/100] step: [33/6] time: 19.031s, mse: 0.019 
+Epoch: [68/100] step: [34/6] time: 19.216s, mse: 0.024 
+Epoch: [68/100] step: [35/6] time: 19.197s, mse: 0.024 
+Epoch: [68/100] step: [36/6] time: 19.167s, mse: 0.015 
+Epoch: [68/100] step: [37/6] time: 19.209s, mse: 0.016 
+Epoch: [68/100] step: [38/6] time: 19.363s, mse: 0.026 
+Epoch: [68/100] step: [39/6] time: 19.246s, mse: 0.018 
+Epoch: [68/100] step: [40/6] time: 19.185s, mse: 0.022 
+Epoch: [68/100] step: [41/6] time: 19.180s, mse: 0.020 
+Epoch: [68/100] step: [42/6] time: 19.281s, mse: 0.019 
+Epoch: [68/100] step: [43/6] time: 19.174s, mse: 0.022 
+Epoch: [68/100] step: [44/6] time: 19.016s, mse: 0.020 
+Epoch: [68/100] step: [45/6] time: 19.195s, mse: 0.015 
+Epoch: [68/100] step: [46/6] time: 19.114s, mse: 0.019 
+Epoch: [68/100] step: [47/6] time: 19.205s, mse: 0.022 
+Epoch: [68/100] step: [48/6] time: 19.110s, mse: 0.034 
+Epoch: [68/100] step: [49/6] time: 19.051s, mse: 0.030 
+Epoch: [69/100] step: [0/6] time: 19.226s, mse: 0.016 
+Epoch: [69/100] step: [1/6] time: 19.180s, mse: 0.013 
+Epoch: [69/100] step: [2/6] time: 19.220s, mse: 0.021 
+Epoch: [69/100] step: [3/6] time: 19.356s, mse: 0.020 
+Epoch: [69/100] step: [4/6] time: 19.239s, mse: 0.024 
+Epoch: [69/100] step: [5/6] time: 19.092s, mse: 0.024 
+Epoch: [69/100] step: [6/6] time: 19.219s, mse: 0.015 
+Epoch: [69/100] step: [7/6] time: 19.189s, mse: 0.020 
+Epoch: [69/100] step: [8/6] time: 19.324s, mse: 0.015 
+Epoch: [69/100] step: [9/6] time: 19.214s, mse: 0.021 
+Epoch: [69/100] step: [10/6] time: 19.146s, mse: 0.021 
+Epoch: [69/100] step: [11/6] time: 19.162s, mse: 0.018 
+Epoch: [69/100] step: [12/6] time: 19.432s, mse: 0.019 
+Epoch: [69/100] step: [13/6] time: 19.192s, mse: 0.020 
+Epoch: [69/100] step: [14/6] time: 19.252s, mse: 0.024 
+Epoch: [69/100] step: [15/6] time: 19.406s, mse: 0.018 
+Epoch: [69/100] step: [16/6] time: 19.291s, mse: 0.024 
+Epoch: [69/100] step: [17/6] time: 19.117s, mse: 0.030 
+Epoch: [69/100] step: [18/6] time: 19.125s, mse: 0.025 
+Epoch: [69/100] step: [19/6] time: 19.231s, mse: 0.022 
+Epoch: [69/100] step: [20/6] time: 19.277s, mse: 0.019 
+Epoch: [69/100] step: [21/6] time: 19.217s, mse: 0.022 
+Epoch: [69/100] step: [22/6] time: 19.351s, mse: 0.036 
+Epoch: [69/100] step: [23/6] time: 19.563s, mse: 0.023 
+Epoch: [69/100] step: [24/6] time: 19.266s, mse: 0.024 
+Epoch: [69/100] step: [25/6] time: 19.301s, mse: 0.011 
+Epoch: [69/100] step: [26/6] time: 19.387s, mse: 0.016 
+Epoch: [69/100] step: [27/6] time: 19.202s, mse: 0.019 
+Epoch: [69/100] step: [28/6] time: 19.320s, mse: 0.016 
+Epoch: [69/100] step: [29/6] time: 19.212s, mse: 0.026 
+Epoch: [69/100] step: [30/6] time: 19.110s, mse: 0.026 
+Epoch: [69/100] step: [31/6] time: 19.261s, mse: 0.022 
+Epoch: [69/100] step: [32/6] time: 19.317s, mse: 0.020 
+Epoch: [69/100] step: [33/6] time: 19.133s, mse: 0.020 
+Epoch: [69/100] step: [34/6] time: 19.289s, mse: 0.029 
+Epoch: [69/100] step: [35/6] time: 19.256s, mse: 0.020 
+Epoch: [69/100] step: [36/6] time: 19.154s, mse: 0.020 
+Epoch: [69/100] step: [37/6] time: 19.274s, mse: 0.017 
+Epoch: [69/100] step: [38/6] time: 19.240s, mse: 0.013 
+Epoch: [69/100] step: [39/6] time: 19.185s, mse: 0.021 
+Epoch: [69/100] step: [40/6] time: 19.345s, mse: 0.029 
+Epoch: [69/100] step: [41/6] time: 19.162s, mse: 0.021 
+Epoch: [69/100] step: [42/6] time: 19.191s, mse: 0.026 
+Epoch: [69/100] step: [43/6] time: 19.227s, mse: 0.022 
+Epoch: [69/100] step: [44/6] time: 19.053s, mse: 0.019 
+Epoch: [69/100] step: [45/6] time: 19.100s, mse: 0.026 
+Epoch: [69/100] step: [46/6] time: 19.163s, mse: 0.020 
+Epoch: [69/100] step: [47/6] time: 19.099s, mse: 0.020 
+Epoch: [69/100] step: [48/6] time: 19.197s, mse: 0.028 
+Epoch: [69/100] step: [49/6] time: 19.101s, mse: 0.020 
+Epoch: [70/100] step: [0/6] time: 19.054s, mse: 0.017 
+Epoch: [70/100] step: [1/6] time: 19.249s, mse: 0.014 
+Epoch: [70/100] step: [2/6] time: 19.323s, mse: 0.017 
+Epoch: [70/100] step: [3/6] time: 19.288s, mse: 0.020 
+Epoch: [70/100] step: [4/6] time: 19.430s, mse: 0.017 
+Epoch: [70/100] step: [5/6] time: 19.328s, mse: 0.020 
+Epoch: [70/100] step: [6/6] time: 19.350s, mse: 0.032 
+Epoch: [70/100] step: [7/6] time: 19.360s, mse: 0.020 
+Epoch: [70/100] step: [8/6] time: 19.146s, mse: 0.020 
+Epoch: [70/100] step: [9/6] time: 19.265s, mse: 0.028 
+Epoch: [70/100] step: [10/6] time: 19.326s, mse: 0.017 
+Epoch: [70/100] step: [11/6] time: 19.095s, mse: 0.028 
+Epoch: [70/100] step: [12/6] time: 19.268s, mse: 0.014 
+Epoch: [70/100] step: [13/6] time: 19.117s, mse: 0.034 
+Epoch: [70/100] step: [14/6] time: 19.329s, mse: 0.016 
+Epoch: [70/100] step: [15/6] time: 19.307s, mse: 0.022 
+Epoch: [70/100] step: [16/6] time: 19.285s, mse: 0.025 
+Epoch: [70/100] step: [17/6] time: 19.291s, mse: 0.029 
+Epoch: [70/100] step: [18/6] time: 19.292s, mse: 0.018 
+Epoch: [70/100] step: [19/6] time: 19.116s, mse: 0.015 
+Epoch: [70/100] step: [20/6] time: 19.096s, mse: 0.020 
+Epoch: [70/100] step: [21/6] time: 19.285s, mse: 0.015 
+Epoch: [70/100] step: [22/6] time: 19.281s, mse: 0.029 
+Epoch: [70/100] step: [23/6] time: 19.154s, mse: 0.020 
+Epoch: [70/100] step: [24/6] time: 19.319s, mse: 0.015 
+Epoch: [70/100] step: [25/6] time: 19.345s, mse: 0.019 
+Epoch: [70/100] step: [26/6] time: 19.171s, mse: 0.028 
+Epoch: [70/100] step: [27/6] time: 19.301s, mse: 0.021 
+Epoch: [70/100] step: [28/6] time: 19.114s, mse: 0.017 
+Epoch: [70/100] step: [29/6] time: 19.439s, mse: 0.026 
+Epoch: [70/100] step: [30/6] time: 19.382s, mse: 0.020 
+Epoch: [70/100] step: [31/6] time: 19.170s, mse: 0.029 
+Epoch: [70/100] step: [32/6] time: 19.173s, mse: 0.026 
+Epoch: [70/100] step: [33/6] time: 19.307s, mse: 0.023 
+Epoch: [70/100] step: [34/6] time: 19.227s, mse: 0.025 
+Epoch: [70/100] step: [35/6] time: 19.197s, mse: 0.021 
+Epoch: [70/100] step: [36/6] time: 19.165s, mse: 0.023 
+Epoch: [70/100] step: [37/6] time: 19.213s, mse: 0.032 
+Epoch: [70/100] step: [38/6] time: 19.140s, mse: 0.016 
+Epoch: [70/100] step: [39/6] time: 19.213s, mse: 0.013 
+Epoch: [70/100] step: [40/6] time: 19.233s, mse: 0.014 
+Epoch: [70/100] step: [41/6] time: 19.220s, mse: 0.028 
+Epoch: [70/100] step: [42/6] time: 19.150s, mse: 0.021 
+Epoch: [70/100] step: [43/6] time: 19.070s, mse: 0.021 
+Epoch: [70/100] step: [44/6] time: 19.305s, mse: 0.015 
+Epoch: [70/100] step: [45/6] time: 18.980s, mse: 0.020 
+Epoch: [70/100] step: [46/6] time: 19.221s, mse: 0.017 
+Epoch: [70/100] step: [47/6] time: 19.209s, mse: 0.026 
+Epoch: [70/100] step: [48/6] time: 19.182s, mse: 0.021 
+Epoch: [70/100] step: [49/6] time: 19.328s, mse: 0.017 
+Epoch: [71/100] step: [0/6] time: 19.308s, mse: 0.013 
+Epoch: [71/100] step: [1/6] time: 19.144s, mse: 0.019 
+Epoch: [71/100] step: [2/6] time: 19.123s, mse: 0.016 
+Epoch: [71/100] step: [3/6] time: 19.237s, mse: 0.021 
+Epoch: [71/100] step: [4/6] time: 19.251s, mse: 0.015 
+Epoch: [71/100] step: [5/6] time: 19.407s, mse: 0.019 
+Epoch: [71/100] step: [6/6] time: 19.241s, mse: 0.019 
+Epoch: [71/100] step: [7/6] time: 19.276s, mse: 0.023 
+Epoch: [71/100] step: [8/6] time: 19.311s, mse: 0.027 
+Epoch: [71/100] step: [9/6] time: 19.178s, mse: 0.028 
+Epoch: [71/100] step: [10/6] time: 19.294s, mse: 0.018 
+Epoch: [71/100] step: [11/6] time: 19.256s, mse: 0.023 
+Epoch: [71/100] step: [12/6] time: 19.255s, mse: 0.016 
+Epoch: [71/100] step: [13/6] time: 19.242s, mse: 0.026 
+Epoch: [71/100] step: [14/6] time: 19.261s, mse: 0.031 
+Epoch: [71/100] step: [15/6] time: 19.270s, mse: 0.031 
+Epoch: [71/100] step: [16/6] time: 19.303s, mse: 0.026 
+Epoch: [71/100] step: [17/6] time: 19.299s, mse: 0.023 
+Epoch: [71/100] step: [18/6] time: 18.965s, mse: 0.017 
+Epoch: [71/100] step: [19/6] time: 19.104s, mse: 0.021 
+Epoch: [71/100] step: [20/6] time: 19.303s, mse: 0.020 
+Epoch: [71/100] step: [21/6] time: 19.261s, mse: 0.023 
+Epoch: [71/100] step: [22/6] time: 19.245s, mse: 0.021 
+Epoch: [71/100] step: [23/6] time: 19.358s, mse: 0.035 
+Epoch: [71/100] step: [24/6] time: 19.356s, mse: 0.017 
+Epoch: [71/100] step: [25/6] time: 19.333s, mse: 0.025 
+Epoch: [71/100] step: [26/6] time: 19.125s, mse: 0.013 
+Epoch: [71/100] step: [27/6] time: 18.968s, mse: 0.028 
+Epoch: [71/100] step: [28/6] time: 19.219s, mse: 0.019 
+Epoch: [71/100] step: [29/6] time: 19.208s, mse: 0.024 
+Epoch: [71/100] step: [30/6] time: 19.230s, mse: 0.015 
+Epoch: [71/100] step: [31/6] time: 19.269s, mse: 0.018 
+Epoch: [71/100] step: [32/6] time: 19.094s, mse: 0.027 
+Epoch: [71/100] step: [33/6] time: 19.244s, mse: 0.027 
+Epoch: [71/100] step: [34/6] time: 19.275s, mse: 0.025 
+Epoch: [71/100] step: [35/6] time: 19.307s, mse: 0.021 
+Epoch: [71/100] step: [36/6] time: 19.339s, mse: 0.020 
+Epoch: [71/100] step: [37/6] time: 19.142s, mse: 0.028 
+Epoch: [71/100] step: [38/6] time: 19.238s, mse: 0.027 
+Epoch: [71/100] step: [39/6] time: 19.345s, mse: 0.014 
+Epoch: [71/100] step: [40/6] time: 19.151s, mse: 0.024 
+Epoch: [71/100] step: [41/6] time: 19.109s, mse: 0.028 
+Epoch: [71/100] step: [42/6] time: 19.218s, mse: 0.021 
+Epoch: [71/100] step: [43/6] time: 19.153s, mse: 0.030 
+Epoch: [71/100] step: [44/6] time: 19.162s, mse: 0.021 
+Epoch: [71/100] step: [45/6] time: 19.074s, mse: 0.016 
+Epoch: [71/100] step: [46/6] time: 19.133s, mse: 0.015 
+Epoch: [71/100] step: [47/6] time: 19.056s, mse: 0.017 
+Epoch: [71/100] step: [48/6] time: 19.230s, mse: 0.024 
+Epoch: [71/100] step: [49/6] time: 19.157s, mse: 0.028 
+Epoch: [72/100] step: [0/6] time: 19.309s, mse: 0.021 
+Epoch: [72/100] step: [1/6] time: 19.081s, mse: 0.011 
+Epoch: [72/100] step: [2/6] time: 19.243s, mse: 0.018 
+Epoch: [72/100] step: [3/6] time: 19.282s, mse: 0.023 
+Epoch: [72/100] step: [4/6] time: 19.385s, mse: 0.017 
+Epoch: [72/100] step: [5/6] time: 19.145s, mse: 0.018 
+Epoch: [72/100] step: [6/6] time: 19.154s, mse: 0.028 
+Epoch: [72/100] step: [7/6] time: 19.241s, mse: 0.021 
+Epoch: [72/100] step: [8/6] time: 19.332s, mse: 0.020 
+Epoch: [72/100] step: [9/6] time: 19.260s, mse: 0.018 
+Epoch: [72/100] step: [10/6] time: 19.234s, mse: 0.015 
+Epoch: [72/100] step: [11/6] time: 19.086s, mse: 0.022 
+Epoch: [72/100] step: [12/6] time: 19.202s, mse: 0.023 
+Epoch: [72/100] step: [13/6] time: 19.190s, mse: 0.020 
+Epoch: [72/100] step: [14/6] time: 19.212s, mse: 0.027 
+Epoch: [72/100] step: [15/6] time: 19.125s, mse: 0.020 
+Epoch: [72/100] step: [16/6] time: 19.195s, mse: 0.026 
+Epoch: [72/100] step: [17/6] time: 19.284s, mse: 0.017 
+Epoch: [72/100] step: [18/6] time: 19.204s, mse: 0.027 
+Epoch: [72/100] step: [19/6] time: 19.174s, mse: 0.020 
+Epoch: [72/100] step: [20/6] time: 19.299s, mse: 0.029 
+Epoch: [72/100] step: [21/6] time: 19.185s, mse: 0.026 
+Epoch: [72/100] step: [22/6] time: 19.200s, mse: 0.022 
+Epoch: [72/100] step: [23/6] time: 19.347s, mse: 0.019 
+Epoch: [72/100] step: [24/6] time: 19.187s, mse: 0.011 
+Epoch: [72/100] step: [25/6] time: 19.161s, mse: 0.024 
+Epoch: [72/100] step: [26/6] time: 19.299s, mse: 0.021 
+Epoch: [72/100] step: [27/6] time: 19.149s, mse: 0.023 
+Epoch: [72/100] step: [28/6] time: 19.221s, mse: 0.033 
+Epoch: [72/100] step: [29/6] time: 19.307s, mse: 0.018 
+Epoch: [72/100] step: [30/6] time: 19.139s, mse: 0.019 
+Epoch: [72/100] step: [31/6] time: 19.450s, mse: 0.021 
+Epoch: [72/100] step: [32/6] time: 19.207s, mse: 0.023 
+Epoch: [72/100] step: [33/6] time: 19.132s, mse: 0.021 
+Epoch: [72/100] step: [34/6] time: 19.244s, mse: 0.027 
+Epoch: [72/100] step: [35/6] time: 19.214s, mse: 0.017 
+Epoch: [72/100] step: [36/6] time: 19.289s, mse: 0.022 
+Epoch: [72/100] step: [37/6] time: 19.210s, mse: 0.019 
+Epoch: [72/100] step: [38/6] time: 19.158s, mse: 0.019 
+Epoch: [72/100] step: [39/6] time: 19.315s, mse: 0.016 
+Epoch: [72/100] step: [40/6] time: 19.344s, mse: 0.024 
+Epoch: [72/100] step: [41/6] time: 19.088s, mse: 0.026 
+Epoch: [72/100] step: [42/6] time: 19.113s, mse: 0.024 
+Epoch: [72/100] step: [43/6] time: 19.096s, mse: 0.027 
+Epoch: [72/100] step: [44/6] time: 19.064s, mse: 0.015 
+Epoch: [72/100] step: [45/6] time: 19.296s, mse: 0.021 
+Epoch: [72/100] step: [46/6] time: 18.972s, mse: 0.028 
+Epoch: [72/100] step: [47/6] time: 19.174s, mse: 0.024 
+Epoch: [72/100] step: [48/6] time: 19.323s, mse: 0.019 
+Epoch: [72/100] step: [49/6] time: 19.155s, mse: 0.029 
+Epoch: [73/100] step: [0/6] time: 19.144s, mse: 0.019 
+Epoch: [73/100] step: [1/6] time: 19.252s, mse: 0.020 
+Epoch: [73/100] step: [2/6] time: 19.144s, mse: 0.027 
+Epoch: [73/100] step: [3/6] time: 19.322s, mse: 0.029 
+Epoch: [73/100] step: [4/6] time: 19.404s, mse: 0.021 
+Epoch: [73/100] step: [5/6] time: 19.120s, mse: 0.018 
+Epoch: [73/100] step: [6/6] time: 19.247s, mse: 0.023 
+Epoch: [73/100] step: [7/6] time: 19.189s, mse: 0.020 
+Epoch: [73/100] step: [8/6] time: 19.219s, mse: 0.018 
+Epoch: [73/100] step: [9/6] time: 19.312s, mse: 0.019 
+Epoch: [73/100] step: [10/6] time: 19.355s, mse: 0.020 
+Epoch: [73/100] step: [11/6] time: 19.213s, mse: 0.022 
+Epoch: [73/100] step: [12/6] time: 19.281s, mse: 0.018 
+Epoch: [73/100] step: [13/6] time: 19.352s, mse: 0.016 
+Epoch: [73/100] step: [14/6] time: 19.067s, mse: 0.030 
+Epoch: [73/100] step: [15/6] time: 19.174s, mse: 0.016 
+Epoch: [73/100] step: [16/6] time: 19.111s, mse: 0.019 
+Epoch: [73/100] step: [17/6] time: 19.207s, mse: 0.025 
+Epoch: [73/100] step: [18/6] time: 19.122s, mse: 0.016 
+Epoch: [73/100] step: [19/6] time: 19.331s, mse: 0.033 
+Epoch: [73/100] step: [20/6] time: 19.215s, mse: 0.020 
+Epoch: [73/100] step: [21/6] time: 19.114s, mse: 0.028 
+Epoch: [73/100] step: [22/6] time: 19.193s, mse: 0.029 
+Epoch: [73/100] step: [23/6] time: 19.234s, mse: 0.018 
+Epoch: [73/100] step: [24/6] time: 19.125s, mse: 0.026 
+Epoch: [73/100] step: [25/6] time: 19.106s, mse: 0.037 
+Epoch: [73/100] step: [26/6] time: 19.251s, mse: 0.025 
+Epoch: [73/100] step: [27/6] time: 19.142s, mse: 0.027 
+Epoch: [73/100] step: [28/6] time: 19.197s, mse: 0.037 
+Epoch: [73/100] step: [29/6] time: 19.299s, mse: 0.015 
+Epoch: [73/100] step: [30/6] time: 19.153s, mse: 0.030 
+Epoch: [73/100] step: [31/6] time: 19.240s, mse: 0.021 
+Epoch: [73/100] step: [32/6] time: 19.209s, mse: 0.025 
+Epoch: [73/100] step: [33/6] time: 19.119s, mse: 0.019 
+Epoch: [73/100] step: [34/6] time: 19.167s, mse: 0.028 
+Epoch: [73/100] step: [35/6] time: 19.363s, mse: 0.017 
+Epoch: [73/100] step: [36/6] time: 19.122s, mse: 0.023 
+Epoch: [73/100] step: [37/6] time: 19.327s, mse: 0.023 
+Epoch: [73/100] step: [38/6] time: 19.084s, mse: 0.021 
+Epoch: [73/100] step: [39/6] time: 19.117s, mse: 0.018 
+Epoch: [73/100] step: [40/6] time: 19.211s, mse: 0.029 
+Epoch: [73/100] step: [41/6] time: 19.254s, mse: 0.022 
+Epoch: [73/100] step: [42/6] time: 18.742s, mse: 0.019 
+Epoch: [73/100] step: [43/6] time: 18.983s, mse: 0.017 
+Epoch: [73/100] step: [44/6] time: 19.094s, mse: 0.020 
+Epoch: [73/100] step: [45/6] time: 19.098s, mse: 0.023 
+Epoch: [73/100] step: [46/6] time: 18.965s, mse: 0.020 
+Epoch: [73/100] step: [47/6] time: 19.317s, mse: 0.020 
+Epoch: [73/100] step: [48/6] time: 19.188s, mse: 0.020 
+Epoch: [73/100] step: [49/6] time: 19.154s, mse: 0.031 
+Epoch: [74/100] step: [0/6] time: 19.034s, mse: 0.018 
+Epoch: [74/100] step: [1/6] time: 19.343s, mse: 0.020 
+Epoch: [74/100] step: [2/6] time: 19.187s, mse: 0.023 
+Epoch: [74/100] step: [3/6] time: 19.277s, mse: 0.025 
+Epoch: [74/100] step: [4/6] time: 19.118s, mse: 0.021 
+Epoch: [74/100] step: [5/6] time: 19.316s, mse: 0.020 
+Epoch: [74/100] step: [6/6] time: 19.228s, mse: 0.021 
+Epoch: [74/100] step: [7/6] time: 19.461s, mse: 0.016 
+Epoch: [74/100] step: [8/6] time: 19.057s, mse: 0.032 
+Epoch: [74/100] step: [9/6] time: 19.247s, mse: 0.030 
+Epoch: [74/100] step: [10/6] time: 19.243s, mse: 0.015 
+Epoch: [74/100] step: [11/6] time: 19.096s, mse: 0.021 
+Epoch: [74/100] step: [12/6] time: 19.123s, mse: 0.019 
+Epoch: [74/100] step: [13/6] time: 19.293s, mse: 0.013 
+Epoch: [74/100] step: [14/6] time: 19.195s, mse: 0.011 
+Epoch: [74/100] step: [15/6] time: 19.094s, mse: 0.021 
+Epoch: [74/100] step: [16/6] time: 19.278s, mse: 0.020 
+Epoch: [74/100] step: [17/6] time: 19.327s, mse: 0.020 
+Epoch: [74/100] step: [18/6] time: 19.267s, mse: 0.012 
+Epoch: [74/100] step: [19/6] time: 19.304s, mse: 0.032 
+Epoch: [74/100] step: [20/6] time: 19.130s, mse: 0.022 
+Epoch: [74/100] step: [21/6] time: 19.259s, mse: 0.017 
+Epoch: [74/100] step: [22/6] time: 19.197s, mse: 0.016 
+Epoch: [74/100] step: [23/6] time: 19.052s, mse: 0.022 
+Epoch: [74/100] step: [24/6] time: 19.280s, mse: 0.021 
+Epoch: [74/100] step: [25/6] time: 19.370s, mse: 0.018 
+Epoch: [74/100] step: [26/6] time: 19.095s, mse: 0.025 
+Epoch: [74/100] step: [27/6] time: 19.201s, mse: 0.027 
+Epoch: [74/100] step: [28/6] time: 19.308s, mse: 0.021 
+Epoch: [74/100] step: [29/6] time: 19.180s, mse: 0.020 
+Epoch: [74/100] step: [30/6] time: 19.179s, mse: 0.022 
+Epoch: [74/100] step: [31/6] time: 19.259s, mse: 0.028 
+Epoch: [74/100] step: [32/6] time: 19.301s, mse: 0.028 
+Epoch: [74/100] step: [33/6] time: 19.247s, mse: 0.020 
+Epoch: [74/100] step: [34/6] time: 19.284s, mse: 0.023 
+Epoch: [74/100] step: [35/6] time: 19.217s, mse: 0.023 
+Epoch: [74/100] step: [36/6] time: 19.189s, mse: 0.023 
+Epoch: [74/100] step: [37/6] time: 19.235s, mse: 0.022 
+Epoch: [74/100] step: [38/6] time: 19.127s, mse: 0.018 
+Epoch: [74/100] step: [39/6] time: 19.233s, mse: 0.016 
+Epoch: [74/100] step: [40/6] time: 19.313s, mse: 0.015 
+Epoch: [74/100] step: [41/6] time: 19.230s, mse: 0.020 
+Epoch: [74/100] step: [42/6] time: 19.150s, mse: 0.019 
+Epoch: [74/100] step: [43/6] time: 19.130s, mse: 0.024 
+Epoch: [74/100] step: [44/6] time: 19.189s, mse: 0.017 
+Epoch: [74/100] step: [45/6] time: 19.025s, mse: 0.019 
+Epoch: [74/100] step: [46/6] time: 19.085s, mse: 0.025 
+Epoch: [74/100] step: [47/6] time: 19.192s, mse: 0.017 
+Epoch: [74/100] step: [48/6] time: 19.103s, mse: 0.023 
+Epoch: [74/100] step: [49/6] time: 19.106s, mse: 0.027 
+Epoch: [75/100] step: [0/6] time: 19.299s, mse: 0.017 
+Epoch: [75/100] step: [1/6] time: 19.195s, mse: 0.017 
+Epoch: [75/100] step: [2/6] time: 19.129s, mse: 0.013 
+Epoch: [75/100] step: [3/6] time: 19.420s, mse: 0.019 
+Epoch: [75/100] step: [4/6] time: 19.153s, mse: 0.033 
+Epoch: [75/100] step: [5/6] time: 19.172s, mse: 0.013 
+Epoch: [75/100] step: [6/6] time: 19.344s, mse: 0.020 
+Epoch: [75/100] step: [7/6] time: 19.254s, mse: 0.025 
+Epoch: [75/100] step: [8/6] time: 19.056s, mse: 0.014 
+Epoch: [75/100] step: [9/6] time: 19.167s, mse: 0.013 
+Epoch: [75/100] step: [10/6] time: 19.102s, mse: 0.025 
+Epoch: [75/100] step: [11/6] time: 19.102s, mse: 0.023 
+Epoch: [75/100] step: [12/6] time: 19.267s, mse: 0.019 
+Epoch: [75/100] step: [13/6] time: 19.405s, mse: 0.016 
+Epoch: [75/100] step: [14/6] time: 19.125s, mse: 0.017 
+Epoch: [75/100] step: [15/6] time: 19.262s, mse: 0.026 
+Epoch: [75/100] step: [16/6] time: 19.317s, mse: 0.015 
+Epoch: [75/100] step: [17/6] time: 19.237s, mse: 0.024 
+Epoch: [75/100] step: [18/6] time: 19.221s, mse: 0.021 
+Epoch: [75/100] step: [19/6] time: 19.253s, mse: 0.017 
+Epoch: [75/100] step: [20/6] time: 19.202s, mse: 0.014 
+Epoch: [75/100] step: [21/6] time: 19.197s, mse: 0.025 
+Epoch: [75/100] step: [22/6] time: 19.287s, mse: 0.014 
+Epoch: [75/100] step: [23/6] time: 19.109s, mse: 0.022 
+Epoch: [75/100] step: [24/6] time: 19.212s, mse: 0.016 
+Epoch: [75/100] step: [25/6] time: 19.313s, mse: 0.022 
+Epoch: [75/100] step: [26/6] time: 19.145s, mse: 0.021 
+Epoch: [75/100] step: [27/6] time: 19.186s, mse: 0.016 
+Epoch: [75/100] step: [28/6] time: 19.329s, mse: 0.022 
+Epoch: [75/100] step: [29/6] time: 19.095s, mse: 0.014 
+Epoch: [75/100] step: [30/6] time: 19.259s, mse: 0.025 
+Epoch: [75/100] step: [31/6] time: 19.314s, mse: 0.011 
+Epoch: [75/100] step: [32/6] time: 19.200s, mse: 0.027 
+Epoch: [75/100] step: [33/6] time: 19.266s, mse: 0.031 
+Epoch: [75/100] step: [34/6] time: 19.350s, mse: 0.017 
+Epoch: [75/100] step: [35/6] time: 19.204s, mse: 0.016 
+Epoch: [75/100] step: [36/6] time: 19.225s, mse: 0.029 
+Epoch: [75/100] step: [37/6] time: 19.214s, mse: 0.020 
+Epoch: [75/100] step: [38/6] time: 19.050s, mse: 0.020 
+Epoch: [75/100] step: [39/6] time: 18.934s, mse: 0.025 
+Epoch: [75/100] step: [40/6] time: 19.285s, mse: 0.015 
+Epoch: [75/100] step: [41/6] time: 19.170s, mse: 0.022 
+Epoch: [75/100] step: [42/6] time: 19.028s, mse: 0.018 
+Epoch: [75/100] step: [43/6] time: 19.190s, mse: 0.021 
+Epoch: [75/100] step: [44/6] time: 19.256s, mse: 0.017 
+Epoch: [75/100] step: [45/6] time: 19.092s, mse: 0.021 
+Epoch: [75/100] step: [46/6] time: 19.085s, mse: 0.015 
+Epoch: [75/100] step: [47/6] time: 19.256s, mse: 0.023 
+Epoch: [75/100] step: [48/6] time: 18.952s, mse: 0.019 
+Epoch: [75/100] step: [49/6] time: 19.094s, mse: 0.017 
+Epoch: [76/100] step: [0/6] time: 19.246s, mse: 0.014 
+Epoch: [76/100] step: [1/6] time: 19.193s, mse: 0.025 
+Epoch: [76/100] step: [2/6] time: 19.081s, mse: 0.041 
+Epoch: [76/100] step: [3/6] time: 19.338s, mse: 0.015 
+Epoch: [76/100] step: [4/6] time: 19.097s, mse: 0.015 
+Epoch: [76/100] step: [5/6] time: 19.100s, mse: 0.014 
+Epoch: [76/100] step: [6/6] time: 19.275s, mse: 0.017 
+Epoch: [76/100] step: [7/6] time: 19.227s, mse: 0.026 
+Epoch: [76/100] step: [8/6] time: 19.212s, mse: 0.016 
+Epoch: [76/100] step: [9/6] time: 19.345s, mse: 0.020 
+Epoch: [76/100] step: [10/6] time: 19.188s, mse: 0.018 
+Epoch: [76/100] step: [11/6] time: 19.170s, mse: 0.019 
+Epoch: [76/100] step: [12/6] time: 19.273s, mse: 0.023 
+Epoch: [76/100] step: [13/6] time: 19.205s, mse: 0.014 
+Epoch: [76/100] step: [14/6] time: 19.302s, mse: 0.015 
+Epoch: [76/100] step: [15/6] time: 19.239s, mse: 0.023 
+Epoch: [76/100] step: [16/6] time: 19.142s, mse: 0.022 
+Epoch: [76/100] step: [17/6] time: 19.081s, mse: 0.021 
+Epoch: [76/100] step: [18/6] time: 19.171s, mse: 0.017 
+Epoch: [76/100] step: [19/6] time: 19.140s, mse: 0.022 
+Epoch: [76/100] step: [20/6] time: 19.232s, mse: 0.016 
+Epoch: [76/100] step: [21/6] time: 19.179s, mse: 0.018 
+Epoch: [76/100] step: [22/6] time: 19.161s, mse: 0.020 
+Epoch: [76/100] step: [23/6] time: 19.059s, mse: 0.014 
+Epoch: [76/100] step: [24/6] time: 19.247s, mse: 0.016 
+Epoch: [76/100] step: [25/6] time: 19.411s, mse: 0.016 
+Epoch: [76/100] step: [26/6] time: 19.223s, mse: 0.014 
+Epoch: [76/100] step: [27/6] time: 19.212s, mse: 0.022 
+Epoch: [76/100] step: [28/6] time: 19.235s, mse: 0.036 
+Epoch: [76/100] step: [29/6] time: 19.059s, mse: 0.019 
+Epoch: [76/100] step: [30/6] time: 19.203s, mse: 0.014 
+Epoch: [76/100] step: [31/6] time: 19.421s, mse: 0.028 
+Epoch: [76/100] step: [32/6] time: 19.138s, mse: 0.031 
+Epoch: [76/100] step: [33/6] time: 19.107s, mse: 0.028 
+Epoch: [76/100] step: [34/6] time: 19.202s, mse: 0.016 
+Epoch: [76/100] step: [35/6] time: 19.195s, mse: 0.025 
+Epoch: [76/100] step: [36/6] time: 19.266s, mse: 0.025 
+Epoch: [76/100] step: [37/6] time: 19.278s, mse: 0.022 
+Epoch: [76/100] step: [38/6] time: 19.143s, mse: 0.017 
+Epoch: [76/100] step: [39/6] time: 19.155s, mse: 0.016 
+Epoch: [76/100] step: [40/6] time: 19.316s, mse: 0.017 
+Epoch: [76/100] step: [41/6] time: 19.271s, mse: 0.013 
+Epoch: [76/100] step: [42/6] time: 19.178s, mse: 0.025 
+Epoch: [76/100] step: [43/6] time: 19.252s, mse: 0.013 
+Epoch: [76/100] step: [44/6] time: 18.964s, mse: 0.021 
+Epoch: [76/100] step: [45/6] time: 18.988s, mse: 0.022 
+Epoch: [76/100] step: [46/6] time: 19.245s, mse: 0.010 
+Epoch: [76/100] step: [47/6] time: 18.836s, mse: 0.023 
+Epoch: [76/100] step: [48/6] time: 18.988s, mse: 0.016 
+Epoch: [76/100] step: [49/6] time: 19.119s, mse: 0.023 
+Epoch: [77/100] step: [0/6] time: 19.309s, mse: 0.018 
+Epoch: [77/100] step: [1/6] time: 19.038s, mse: 0.014 
+Epoch: [77/100] step: [2/6] time: 19.303s, mse: 0.026 
+Epoch: [77/100] step: [3/6] time: 19.217s, mse: 0.018 
+Epoch: [77/100] step: [4/6] time: 19.290s, mse: 0.017 
+Epoch: [77/100] step: [5/6] time: 19.248s, mse: 0.027 
+Epoch: [77/100] step: [6/6] time: 19.341s, mse: 0.017 
+Epoch: [77/100] step: [7/6] time: 19.080s, mse: 0.019 
+Epoch: [77/100] step: [8/6] time: 19.206s, mse: 0.025 
+Epoch: [77/100] step: [9/6] time: 19.277s, mse: 0.034 
+Epoch: [77/100] step: [10/6] time: 19.211s, mse: 0.019 
+Epoch: [77/100] step: [11/6] time: 19.209s, mse: 0.015 
+Epoch: [77/100] step: [12/6] time: 19.310s, mse: 0.017 
+Epoch: [77/100] step: [13/6] time: 19.219s, mse: 0.025 
+Epoch: [77/100] step: [14/6] time: 19.167s, mse: 0.022 
+Epoch: [77/100] step: [15/6] time: 19.332s, mse: 0.021 
+Epoch: [77/100] step: [16/6] time: 19.320s, mse: 0.020 
+Epoch: [77/100] step: [17/6] time: 19.242s, mse: 0.019 
+Epoch: [77/100] step: [18/6] time: 19.300s, mse: 0.022 
+Epoch: [77/100] step: [19/6] time: 19.161s, mse: 0.017 
+Epoch: [77/100] step: [20/6] time: 19.074s, mse: 0.025 
+Epoch: [77/100] step: [21/6] time: 19.277s, mse: 0.022 
+Epoch: [77/100] step: [22/6] time: 19.339s, mse: 0.015 
+Epoch: [77/100] step: [23/6] time: 19.227s, mse: 0.022 
+Epoch: [77/100] step: [24/6] time: 19.240s, mse: 0.014 
+Epoch: [77/100] step: [25/6] time: 19.282s, mse: 0.023 
+Epoch: [77/100] step: [26/6] time: 19.201s, mse: 0.026 
+Epoch: [77/100] step: [27/6] time: 19.354s, mse: 0.017 
+Epoch: [77/100] step: [28/6] time: 19.225s, mse: 0.026 
+Epoch: [77/100] step: [29/6] time: 19.210s, mse: 0.025 
+Epoch: [77/100] step: [30/6] time: 19.406s, mse: 0.017 
+Epoch: [77/100] step: [31/6] time: 19.284s, mse: 0.036 
+Epoch: [77/100] step: [32/6] time: 19.237s, mse: 0.021 
+Epoch: [77/100] step: [33/6] time: 19.260s, mse: 0.024 
+Epoch: [77/100] step: [34/6] time: 19.245s, mse: 0.014 
+Epoch: [77/100] step: [35/6] time: 19.278s, mse: 0.031 
+Epoch: [77/100] step: [36/6] time: 19.244s, mse: 0.023 
+Epoch: [77/100] step: [37/6] time: 19.204s, mse: 0.014 
+Epoch: [77/100] step: [38/6] time: 19.278s, mse: 0.015 
+Epoch: [77/100] step: [39/6] time: 19.300s, mse: 0.019 
+Epoch: [77/100] step: [40/6] time: 19.410s, mse: 0.020 
+Epoch: [77/100] step: [41/6] time: 19.139s, mse: 0.017 
+Epoch: [77/100] step: [42/6] time: 19.180s, mse: 0.020 
+Epoch: [77/100] step: [43/6] time: 19.162s, mse: 0.020 
+Epoch: [77/100] step: [44/6] time: 19.182s, mse: 0.028 
+Epoch: [77/100] step: [45/6] time: 19.066s, mse: 0.013 
+Epoch: [77/100] step: [46/6] time: 19.261s, mse: 0.021 
+Epoch: [77/100] step: [47/6] time: 19.056s, mse: 0.022 
+Epoch: [77/100] step: [48/6] time: 18.909s, mse: 0.015 
+Epoch: [77/100] step: [49/6] time: 19.174s, mse: 0.022 
+Epoch: [78/100] step: [0/6] time: 19.197s, mse: 0.015 
+Epoch: [78/100] step: [1/6] time: 19.283s, mse: 0.018 
+Epoch: [78/100] step: [2/6] time: 19.188s, mse: 0.020 
+Epoch: [78/100] step: [3/6] time: 19.273s, mse: 0.017 
+Epoch: [78/100] step: [4/6] time: 19.322s, mse: 0.019 
+Epoch: [78/100] step: [5/6] time: 19.246s, mse: 0.021 
+Epoch: [78/100] step: [6/6] time: 19.302s, mse: 0.023 
+Epoch: [78/100] step: [7/6] time: 19.251s, mse: 0.020 
+Epoch: [78/100] step: [8/6] time: 19.288s, mse: 0.016 
+Epoch: [78/100] step: [9/6] time: 19.384s, mse: 0.017 
+Epoch: [78/100] step: [10/6] time: 19.304s, mse: 0.019 
+Epoch: [78/100] step: [11/6] time: 18.975s, mse: 0.013 
+Epoch: [78/100] step: [12/6] time: 19.213s, mse: 0.021 
+Epoch: [78/100] step: [13/6] time: 19.199s, mse: 0.028 
+Epoch: [78/100] step: [14/6] time: 19.048s, mse: 0.042 
+Epoch: [78/100] step: [15/6] time: 19.179s, mse: 0.020 
+Epoch: [78/100] step: [16/6] time: 19.174s, mse: 0.034 
+Epoch: [78/100] step: [17/6] time: 19.256s, mse: 0.020 
+Epoch: [78/100] step: [18/6] time: 19.163s, mse: 0.016 
+Epoch: [78/100] step: [19/6] time: 19.232s, mse: 0.022 
+Epoch: [78/100] step: [20/6] time: 19.161s, mse: 0.025 
+Epoch: [78/100] step: [21/6] time: 19.248s, mse: 0.021 
+Epoch: [78/100] step: [22/6] time: 19.428s, mse: 0.009 
+Epoch: [78/100] step: [23/6] time: 19.331s, mse: 0.017 
+Epoch: [78/100] step: [24/6] time: 19.269s, mse: 0.012 
+Epoch: [78/100] step: [25/6] time: 19.055s, mse: 0.019 
+Epoch: [78/100] step: [26/6] time: 19.165s, mse: 0.031 
+Epoch: [78/100] step: [27/6] time: 19.273s, mse: 0.027 
+Epoch: [78/100] step: [28/6] time: 19.267s, mse: 0.024 
+Epoch: [78/100] step: [29/6] time: 19.236s, mse: 0.018 
+Epoch: [78/100] step: [30/6] time: 19.247s, mse: 0.016 
+Epoch: [78/100] step: [31/6] time: 19.212s, mse: 0.027 
+Epoch: [78/100] step: [32/6] time: 19.011s, mse: 0.022 
+Epoch: [78/100] step: [33/6] time: 19.343s, mse: 0.014 
+Epoch: [78/100] step: [34/6] time: 19.249s, mse: 0.022 
+Epoch: [78/100] step: [35/6] time: 19.362s, mse: 0.015 
+Epoch: [78/100] step: [36/6] time: 19.475s, mse: 0.019 
+Epoch: [78/100] step: [37/6] time: 19.135s, mse: 0.020 
+Epoch: [78/100] step: [38/6] time: 19.293s, mse: 0.018 
+Epoch: [78/100] step: [39/6] time: 19.339s, mse: 0.023 
+Epoch: [78/100] step: [40/6] time: 19.249s, mse: 0.018 
+Epoch: [78/100] step: [41/6] time: 19.218s, mse: 0.028 
+Epoch: [78/100] step: [42/6] time: 19.358s, mse: 0.015 
+Epoch: [78/100] step: [43/6] time: 19.167s, mse: 0.021 
+Epoch: [78/100] step: [44/6] time: 19.147s, mse: 0.018 
+Epoch: [78/100] step: [45/6] time: 19.171s, mse: 0.015 
+Epoch: [78/100] step: [46/6] time: 19.108s, mse: 0.020 
+Epoch: [78/100] step: [47/6] time: 19.140s, mse: 0.026 
+Epoch: [78/100] step: [48/6] time: 19.250s, mse: 0.019 
+Epoch: [78/100] step: [49/6] time: 19.094s, mse: 0.030 
+Epoch: [79/100] step: [0/6] time: 19.350s, mse: 0.022 
+Epoch: [79/100] step: [1/6] time: 19.283s, mse: 0.024 
+Epoch: [79/100] step: [2/6] time: 19.315s, mse: 0.024 
+Epoch: [79/100] step: [3/6] time: 19.262s, mse: 0.029 
+Epoch: [79/100] step: [4/6] time: 19.234s, mse: 0.020 
+Epoch: [79/100] step: [5/6] time: 19.219s, mse: 0.021 
+Epoch: [79/100] step: [6/6] time: 19.238s, mse: 0.017 
+Epoch: [79/100] step: [7/6] time: 19.211s, mse: 0.020 
+Epoch: [79/100] step: [8/6] time: 19.408s, mse: 0.018 
+Epoch: [79/100] step: [9/6] time: 19.290s, mse: 0.026 
+Epoch: [79/100] step: [10/6] time: 19.118s, mse: 0.018 
+Epoch: [79/100] step: [11/6] time: 19.297s, mse: 0.017 
+Epoch: [79/100] step: [12/6] time: 19.144s, mse: 0.027 
+Epoch: [79/100] step: [13/6] time: 19.214s, mse: 0.016 
+Epoch: [79/100] step: [14/6] time: 19.205s, mse: 0.028 
+Epoch: [79/100] step: [15/6] time: 19.312s, mse: 0.019 
+Epoch: [79/100] step: [16/6] time: 19.200s, mse: 0.022 
+Epoch: [79/100] step: [17/6] time: 19.295s, mse: 0.026 
+Epoch: [79/100] step: [18/6] time: 19.214s, mse: 0.019 
+Epoch: [79/100] step: [19/6] time: 19.269s, mse: 0.025 
+Epoch: [79/100] step: [20/6] time: 19.281s, mse: 0.031 
+Epoch: [79/100] step: [21/6] time: 19.213s, mse: 0.020 
+Epoch: [79/100] step: [22/6] time: 19.243s, mse: 0.014 
+Epoch: [79/100] step: [23/6] time: 19.481s, mse: 0.032 
+Epoch: [79/100] step: [24/6] time: 19.410s, mse: 0.023 
+Epoch: [79/100] step: [25/6] time: 19.436s, mse: 0.022 
+Epoch: [79/100] step: [26/6] time: 19.291s, mse: 0.022 
+Epoch: [79/100] step: [27/6] time: 18.949s, mse: 0.036 
+Epoch: [79/100] step: [28/6] time: 19.264s, mse: 0.032 
+Epoch: [79/100] step: [29/6] time: 19.295s, mse: 0.026 
+Epoch: [79/100] step: [30/6] time: 19.330s, mse: 0.025 
+Epoch: [79/100] step: [31/6] time: 19.289s, mse: 0.023 
+Epoch: [79/100] step: [32/6] time: 19.392s, mse: 0.018 
+Epoch: [79/100] step: [33/6] time: 19.229s, mse: 0.023 
+Epoch: [79/100] step: [34/6] time: 19.204s, mse: 0.015 
+Epoch: [79/100] step: [35/6] time: 19.313s, mse: 0.026 
+Epoch: [79/100] step: [36/6] time: 19.165s, mse: 0.034 
+Epoch: [79/100] step: [37/6] time: 19.231s, mse: 0.021 
+Epoch: [79/100] step: [38/6] time: 19.127s, mse: 0.019 
+Epoch: [79/100] step: [39/6] time: 19.362s, mse: 0.019 
+Epoch: [79/100] step: [40/6] time: 19.227s, mse: 0.017 
+Epoch: [79/100] step: [41/6] time: 19.080s, mse: 0.026 
+Epoch: [79/100] step: [42/6] time: 19.209s, mse: 0.022 
+Epoch: [79/100] step: [43/6] time: 19.153s, mse: 0.024 
+Epoch: [79/100] step: [44/6] time: 19.064s, mse: 0.026 
+Epoch: [79/100] step: [45/6] time: 19.071s, mse: 0.019 
+Epoch: [79/100] step: [46/6] time: 19.033s, mse: 0.019 
+Epoch: [79/100] step: [47/6] time: 19.067s, mse: 0.020 
+Epoch: [79/100] step: [48/6] time: 19.217s, mse: 0.020 
+Epoch: [79/100] step: [49/6] time: 18.976s, mse: 0.018 
+Epoch: [80/100] step: [0/6] time: 19.246s, mse: 0.018 
+Epoch: [80/100] step: [1/6] time: 19.269s, mse: 0.020 
+Epoch: [80/100] step: [2/6] time: 19.203s, mse: 0.017 
+Epoch: [80/100] step: [3/6] time: 19.240s, mse: 0.016 
+Epoch: [80/100] step: [4/6] time: 19.278s, mse: 0.019 
+Epoch: [80/100] step: [5/6] time: 19.266s, mse: 0.021 
+Epoch: [80/100] step: [6/6] time: 19.313s, mse: 0.016 
+Epoch: [80/100] step: [7/6] time: 19.351s, mse: 0.019 
+Epoch: [80/100] step: [8/6] time: 19.304s, mse: 0.039 
+Epoch: [80/100] step: [9/6] time: 19.063s, mse: 0.014 
+Epoch: [80/100] step: [10/6] time: 19.379s, mse: 0.015 
+Epoch: [80/100] step: [11/6] time: 19.301s, mse: 0.023 
+Epoch: [80/100] step: [12/6] time: 19.253s, mse: 0.022 
+Epoch: [80/100] step: [13/6] time: 19.279s, mse: 0.017 
+Epoch: [80/100] step: [14/6] time: 19.134s, mse: 0.022 
+Epoch: [80/100] step: [15/6] time: 19.066s, mse: 0.022 
+Epoch: [80/100] step: [16/6] time: 19.295s, mse: 0.018 
+Epoch: [80/100] step: [17/6] time: 19.269s, mse: 0.016 
+Epoch: [80/100] step: [18/6] time: 19.234s, mse: 0.017 
+Epoch: [80/100] step: [19/6] time: 19.238s, mse: 0.023 
+Epoch: [80/100] step: [20/6] time: 19.394s, mse: 0.024 
+Epoch: [80/100] step: [21/6] time: 19.257s, mse: 0.012 
+Epoch: [80/100] step: [22/6] time: 19.156s, mse: 0.018 
+Epoch: [80/100] step: [23/6] time: 19.329s, mse: 0.020 
+Epoch: [80/100] step: [24/6] time: 19.176s, mse: 0.012 
+Epoch: [80/100] step: [25/6] time: 19.115s, mse: 0.020 
+Epoch: [80/100] step: [26/6] time: 19.109s, mse: 0.014 
+Epoch: [80/100] step: [27/6] time: 19.094s, mse: 0.023 
+Epoch: [80/100] step: [28/6] time: 19.211s, mse: 0.024 
+Epoch: [80/100] step: [29/6] time: 19.251s, mse: 0.020 
+Epoch: [80/100] step: [30/6] time: 19.276s, mse: 0.013 
+Epoch: [80/100] step: [31/6] time: 19.166s, mse: 0.014 
+Epoch: [80/100] step: [32/6] time: 19.224s, mse: 0.027 
+Epoch: [80/100] step: [33/6] time: 19.150s, mse: 0.023 
+Epoch: [80/100] step: [34/6] time: 19.322s, mse: 0.021 
+Epoch: [80/100] step: [35/6] time: 19.281s, mse: 0.022 
+Epoch: [80/100] step: [36/6] time: 19.184s, mse: 0.023 
+Epoch: [80/100] step: [37/6] time: 19.261s, mse: 0.018 
+Epoch: [80/100] step: [38/6] time: 19.388s, mse: 0.023 
+Epoch: [80/100] step: [39/6] time: 19.171s, mse: 0.022 
+Epoch: [80/100] step: [40/6] time: 19.187s, mse: 0.015 
+Epoch: [80/100] step: [41/6] time: 19.409s, mse: 0.014 
+Epoch: [80/100] step: [42/6] time: 19.169s, mse: 0.013 
+Epoch: [80/100] step: [43/6] time: 19.051s, mse: 0.026 
+Epoch: [80/100] step: [44/6] time: 19.187s, mse: 0.032 
+Epoch: [80/100] step: [45/6] time: 19.097s, mse: 0.026 
+Epoch: [80/100] step: [46/6] time: 19.171s, mse: 0.014 
+Epoch: [80/100] step: [47/6] time: 19.252s, mse: 0.026 
+Epoch: [80/100] step: [48/6] time: 19.255s, mse: 0.020 
+Epoch: [80/100] step: [49/6] time: 19.188s, mse: 0.024 
+Epoch: [81/100] step: [0/6] time: 19.344s, mse: 0.023 
+Epoch: [81/100] step: [1/6] time: 19.432s, mse: 0.020 
+Epoch: [81/100] step: [2/6] time: 19.456s, mse: 0.018 
+Epoch: [81/100] step: [3/6] time: 19.361s, mse: 0.014 
+Epoch: [81/100] step: [4/6] time: 19.272s, mse: 0.021 
+Epoch: [81/100] step: [5/6] time: 19.332s, mse: 0.016 
+Epoch: [81/100] step: [6/6] time: 19.086s, mse: 0.019 
+Epoch: [81/100] step: [7/6] time: 19.221s, mse: 0.020 
+Epoch: [81/100] step: [8/6] time: 19.193s, mse: 0.028 
+Epoch: [81/100] step: [9/6] time: 19.226s, mse: 0.014 
+Epoch: [81/100] step: [10/6] time: 19.155s, mse: 0.016 
+Epoch: [81/100] step: [11/6] time: 19.311s, mse: 0.024 
+Epoch: [81/100] step: [12/6] time: 19.227s, mse: 0.022 
+Epoch: [81/100] step: [13/6] time: 19.464s, mse: 0.027 
+Epoch: [81/100] step: [14/6] time: 19.170s, mse: 0.013 
+Epoch: [81/100] step: [15/6] time: 19.220s, mse: 0.014 
+Epoch: [81/100] step: [16/6] time: 19.183s, mse: 0.037 
+Epoch: [81/100] step: [17/6] time: 19.204s, mse: 0.018 
+Epoch: [81/100] step: [18/6] time: 19.176s, mse: 0.021 
+Epoch: [81/100] step: [19/6] time: 19.384s, mse: 0.019 
+Epoch: [81/100] step: [20/6] time: 19.209s, mse: 0.022 
+Epoch: [81/100] step: [21/6] time: 19.265s, mse: 0.020 
+Epoch: [81/100] step: [22/6] time: 19.299s, mse: 0.024 
+Epoch: [81/100] step: [23/6] time: 19.228s, mse: 0.016 
+Epoch: [81/100] step: [24/6] time: 19.196s, mse: 0.022 
+Epoch: [81/100] step: [25/6] time: 19.265s, mse: 0.016 
+Epoch: [81/100] step: [26/6] time: 19.202s, mse: 0.020 
+Epoch: [81/100] step: [27/6] time: 19.295s, mse: 0.016 
+Epoch: [81/100] step: [28/6] time: 19.298s, mse: 0.025 
+Epoch: [81/100] step: [29/6] time: 19.238s, mse: 0.026 
+Epoch: [81/100] step: [30/6] time: 19.249s, mse: 0.016 
+Epoch: [81/100] step: [31/6] time: 19.233s, mse: 0.028 
+Epoch: [81/100] step: [32/6] time: 19.276s, mse: 0.019 
+Epoch: [81/100] step: [33/6] time: 19.257s, mse: 0.035 
+Epoch: [81/100] step: [34/6] time: 19.337s, mse: 0.022 
+Epoch: [81/100] step: [35/6] time: 19.381s, mse: 0.023 
+Epoch: [81/100] step: [36/6] time: 19.164s, mse: 0.014 
+Epoch: [81/100] step: [37/6] time: 19.227s, mse: 0.022 
+Epoch: [81/100] step: [38/6] time: 19.282s, mse: 0.017 
+Epoch: [81/100] step: [39/6] time: 19.209s, mse: 0.016 
+Epoch: [81/100] step: [40/6] time: 19.200s, mse: 0.023 
+Epoch: [81/100] step: [41/6] time: 19.201s, mse: 0.021 
+Epoch: [81/100] step: [42/6] time: 19.077s, mse: 0.016 
+Epoch: [81/100] step: [43/6] time: 19.158s, mse: 0.021 
+Epoch: [81/100] step: [44/6] time: 19.188s, mse: 0.029 
+Epoch: [81/100] step: [45/6] time: 19.259s, mse: 0.030 
+Epoch: [81/100] step: [46/6] time: 19.251s, mse: 0.016 
+Epoch: [81/100] step: [47/6] time: 19.226s, mse: 0.023 
+Epoch: [81/100] step: [48/6] time: 19.104s, mse: 0.022 
+Epoch: [81/100] step: [49/6] time: 19.208s, mse: 0.017 
+Epoch: [82/100] step: [0/6] time: 19.279s, mse: 0.021 
+Epoch: [82/100] step: [1/6] time: 19.204s, mse: 0.020 
+Epoch: [82/100] step: [2/6] time: 19.167s, mse: 0.015 
+Epoch: [82/100] step: [3/6] time: 19.411s, mse: 0.015 
+Epoch: [82/100] step: [4/6] time: 19.362s, mse: 0.022 
+Epoch: [82/100] step: [5/6] time: 19.288s, mse: 0.025 
+Epoch: [82/100] step: [6/6] time: 19.372s, mse: 0.021 
+Epoch: [82/100] step: [7/6] time: 19.199s, mse: 0.024 
+Epoch: [82/100] step: [8/6] time: 19.222s, mse: 0.016 
+Epoch: [82/100] step: [9/6] time: 19.265s, mse: 0.015 
+Epoch: [82/100] step: [10/6] time: 19.384s, mse: 0.016 
+Epoch: [82/100] step: [11/6] time: 19.188s, mse: 0.021 
+Epoch: [82/100] step: [12/6] time: 19.384s, mse: 0.025 
+Epoch: [82/100] step: [13/6] time: 19.209s, mse: 0.019 
+Epoch: [82/100] step: [14/6] time: 19.225s, mse: 0.023 
+Epoch: [82/100] step: [15/6] time: 19.397s, mse: 0.020 
+Epoch: [82/100] step: [16/6] time: 19.192s, mse: 0.020 
+Epoch: [82/100] step: [17/6] time: 19.235s, mse: 0.027 
+Epoch: [82/100] step: [18/6] time: 19.417s, mse: 0.025 
+Epoch: [82/100] step: [19/6] time: 19.172s, mse: 0.019 
+Epoch: [82/100] step: [20/6] time: 19.234s, mse: 0.016 
+Epoch: [82/100] step: [21/6] time: 19.106s, mse: 0.019 
+Epoch: [82/100] step: [22/6] time: 19.229s, mse: 0.021 
+Epoch: [82/100] step: [23/6] time: 19.269s, mse: 0.021 
+Epoch: [82/100] step: [24/6] time: 19.215s, mse: 0.017 
+Epoch: [82/100] step: [25/6] time: 19.286s, mse: 0.019 
+Epoch: [82/100] step: [26/6] time: 19.246s, mse: 0.020 
+Epoch: [82/100] step: [27/6] time: 19.162s, mse: 0.014 
+Epoch: [82/100] step: [28/6] time: 19.261s, mse: 0.024 
+Epoch: [82/100] step: [29/6] time: 19.049s, mse: 0.020 
+Epoch: [82/100] step: [30/6] time: 19.339s, mse: 0.023 
+Epoch: [82/100] step: [31/6] time: 19.436s, mse: 0.018 
+Epoch: [82/100] step: [32/6] time: 19.195s, mse: 0.012 
+Epoch: [82/100] step: [33/6] time: 19.084s, mse: 0.029 
+Epoch: [82/100] step: [34/6] time: 19.133s, mse: 0.030 
+Epoch: [82/100] step: [35/6] time: 19.219s, mse: 0.023 
+Epoch: [82/100] step: [36/6] time: 19.041s, mse: 0.025 
+Epoch: [82/100] step: [37/6] time: 19.482s, mse: 0.013 
+Epoch: [82/100] step: [38/6] time: 19.137s, mse: 0.019 
+Epoch: [82/100] step: [39/6] time: 19.098s, mse: 0.027 
+Epoch: [82/100] step: [40/6] time: 19.260s, mse: 0.022 
+Epoch: [82/100] step: [41/6] time: 19.177s, mse: 0.016 
+Epoch: [82/100] step: [42/6] time: 19.142s, mse: 0.013 
+Epoch: [82/100] step: [43/6] time: 19.265s, mse: 0.025 
+Epoch: [82/100] step: [44/6] time: 19.178s, mse: 0.017 
+Epoch: [82/100] step: [45/6] time: 18.973s, mse: 0.013 
+Epoch: [82/100] step: [46/6] time: 19.273s, mse: 0.020 
+Epoch: [82/100] step: [47/6] time: 19.091s, mse: 0.027 
+Epoch: [82/100] step: [48/6] time: 19.192s, mse: 0.008 
+Epoch: [82/100] step: [49/6] time: 19.273s, mse: 0.021 
+Epoch: [83/100] step: [0/6] time: 19.151s, mse: 0.019 
+Epoch: [83/100] step: [1/6] time: 19.301s, mse: 0.016 
+Epoch: [83/100] step: [2/6] time: 19.251s, mse: 0.010 
+Epoch: [83/100] step: [3/6] time: 19.187s, mse: 0.020 
+Epoch: [83/100] step: [4/6] time: 19.319s, mse: 0.029 
+Epoch: [83/100] step: [5/6] time: 19.150s, mse: 0.029 
+Epoch: [83/100] step: [6/6] time: 19.315s, mse: 0.025 
+Epoch: [83/100] step: [7/6] time: 19.189s, mse: 0.012 
+Epoch: [83/100] step: [8/6] time: 19.297s, mse: 0.022 
+Epoch: [83/100] step: [9/6] time: 19.391s, mse: 0.021 
+Epoch: [83/100] step: [10/6] time: 19.280s, mse: 0.018 
+Epoch: [83/100] step: [11/6] time: 19.214s, mse: 0.019 
+Epoch: [83/100] step: [12/6] time: 19.436s, mse: 0.015 
+Epoch: [83/100] step: [13/6] time: 19.216s, mse: 0.021 
+Epoch: [83/100] step: [14/6] time: 19.248s, mse: 0.015 
+Epoch: [83/100] step: [15/6] time: 19.425s, mse: 0.021 
+Epoch: [83/100] step: [16/6] time: 19.219s, mse: 0.013 
+Epoch: [83/100] step: [17/6] time: 19.227s, mse: 0.022 
+Epoch: [83/100] step: [18/6] time: 19.319s, mse: 0.018 
+Epoch: [83/100] step: [19/6] time: 19.333s, mse: 0.010 
+Epoch: [83/100] step: [20/6] time: 19.340s, mse: 0.022 
+Epoch: [83/100] step: [21/6] time: 19.295s, mse: 0.016 
+Epoch: [83/100] step: [22/6] time: 19.141s, mse: 0.017 
+Epoch: [83/100] step: [23/6] time: 19.287s, mse: 0.029 
+Epoch: [83/100] step: [24/6] time: 19.366s, mse: 0.021 
+Epoch: [83/100] step: [25/6] time: 19.203s, mse: 0.017 
+Epoch: [83/100] step: [26/6] time: 19.168s, mse: 0.018 
+Epoch: [83/100] step: [27/6] time: 19.272s, mse: 0.023 
+Epoch: [83/100] step: [28/6] time: 19.228s, mse: 0.029 
+Epoch: [83/100] step: [29/6] time: 19.197s, mse: 0.018 
+Epoch: [83/100] step: [30/6] time: 19.472s, mse: 0.018 
+Epoch: [83/100] step: [31/6] time: 19.221s, mse: 0.026 
+Epoch: [83/100] step: [32/6] time: 19.166s, mse: 0.017 
+Epoch: [83/100] step: [33/6] time: 19.183s, mse: 0.019 
+Epoch: [83/100] step: [34/6] time: 19.174s, mse: 0.027 
+Epoch: [83/100] step: [35/6] time: 19.252s, mse: 0.018 
+Epoch: [83/100] step: [36/6] time: 19.141s, mse: 0.022 
+Epoch: [83/100] step: [37/6] time: 19.191s, mse: 0.031 
+Epoch: [83/100] step: [38/6] time: 19.210s, mse: 0.016 
+Epoch: [83/100] step: [39/6] time: 19.326s, mse: 0.011 
+Epoch: [83/100] step: [40/6] time: 19.330s, mse: 0.024 
+Epoch: [83/100] step: [41/6] time: 19.137s, mse: 0.023 
+Epoch: [83/100] step: [42/6] time: 19.100s, mse: 0.017 
+Epoch: [83/100] step: [43/6] time: 19.182s, mse: 0.011 
+Epoch: [83/100] step: [44/6] time: 19.182s, mse: 0.018 
+Epoch: [83/100] step: [45/6] time: 19.153s, mse: 0.020 
+Epoch: [83/100] step: [46/6] time: 19.437s, mse: 0.022 
+Epoch: [83/100] step: [47/6] time: 19.135s, mse: 0.024 
+Epoch: [83/100] step: [48/6] time: 19.174s, mse: 0.013 
+Epoch: [83/100] step: [49/6] time: 19.277s, mse: 0.017 
+Epoch: [84/100] step: [0/6] time: 19.172s, mse: 0.024 
+Epoch: [84/100] step: [1/6] time: 19.248s, mse: 0.019 
+Epoch: [84/100] step: [2/6] time: 19.236s, mse: 0.021 
+Epoch: [84/100] step: [3/6] time: 19.215s, mse: 0.021 
+Epoch: [84/100] step: [4/6] time: 19.225s, mse: 0.021 
+Epoch: [84/100] step: [5/6] time: 19.417s, mse: 0.019 
+Epoch: [84/100] step: [6/6] time: 19.191s, mse: 0.016 
+Epoch: [84/100] step: [7/6] time: 19.233s, mse: 0.015 
+Epoch: [84/100] step: [8/6] time: 19.469s, mse: 0.024 
+Epoch: [84/100] step: [9/6] time: 19.142s, mse: 0.019 
+Epoch: [84/100] step: [10/6] time: 19.514s, mse: 0.018 
+Epoch: [84/100] step: [11/6] time: 19.441s, mse: 0.025 
+Epoch: [84/100] step: [12/6] time: 19.261s, mse: 0.034 
+Epoch: [84/100] step: [13/6] time: 19.306s, mse: 0.028 
+Epoch: [84/100] step: [14/6] time: 19.330s, mse: 0.022 
+Epoch: [84/100] step: [15/6] time: 19.439s, mse: 0.020 
+Epoch: [84/100] step: [16/6] time: 19.504s, mse: 0.011 
+Epoch: [84/100] step: [17/6] time: 19.230s, mse: 0.015 
+Epoch: [84/100] step: [18/6] time: 19.103s, mse: 0.020 
+Epoch: [84/100] step: [19/6] time: 19.208s, mse: 0.021 
+Epoch: [84/100] step: [20/6] time: 19.110s, mse: 0.020 
+Epoch: [84/100] step: [21/6] time: 19.465s, mse: 0.020 
+Epoch: [84/100] step: [22/6] time: 19.221s, mse: 0.019 
+Epoch: [84/100] step: [23/6] time: 19.156s, mse: 0.018 
+Epoch: [84/100] step: [24/6] time: 19.274s, mse: 0.017 
+Epoch: [84/100] step: [25/6] time: 19.215s, mse: 0.018 
+Epoch: [84/100] step: [26/6] time: 19.197s, mse: 0.028 
+Epoch: [84/100] step: [27/6] time: 19.330s, mse: 0.022 
+Epoch: [84/100] step: [28/6] time: 19.200s, mse: 0.018 
+Epoch: [84/100] step: [29/6] time: 19.038s, mse: 0.020 
+Epoch: [84/100] step: [30/6] time: 19.331s, mse: 0.019 
+Epoch: [84/100] step: [31/6] time: 19.292s, mse: 0.020 
+Epoch: [84/100] step: [32/6] time: 19.230s, mse: 0.025 
+Epoch: [84/100] step: [33/6] time: 19.252s, mse: 0.022 
+Epoch: [84/100] step: [34/6] time: 19.239s, mse: 0.016 
+Epoch: [84/100] step: [35/6] time: 19.205s, mse: 0.024 
+Epoch: [84/100] step: [36/6] time: 19.328s, mse: 0.017 
+Epoch: [84/100] step: [37/6] time: 19.245s, mse: 0.020 
+Epoch: [84/100] step: [38/6] time: 19.130s, mse: 0.018 
+Epoch: [84/100] step: [39/6] time: 19.354s, mse: 0.035 
+Epoch: [84/100] step: [40/6] time: 19.378s, mse: 0.027 
+Epoch: [84/100] step: [41/6] time: 19.089s, mse: 0.015 
+Epoch: [84/100] step: [42/6] time: 19.185s, mse: 0.020 
+Epoch: [84/100] step: [43/6] time: 19.149s, mse: 0.017 
+Epoch: [84/100] step: [44/6] time: 19.160s, mse: 0.024 
+Epoch: [84/100] step: [45/6] time: 19.269s, mse: 0.021 
+Epoch: [84/100] step: [46/6] time: 19.202s, mse: 0.014 
+Epoch: [84/100] step: [47/6] time: 19.175s, mse: 0.022 
+Epoch: [84/100] step: [48/6] time: 19.307s, mse: 0.020 
+Epoch: [84/100] step: [49/6] time: 19.315s, mse: 0.017 
+Epoch: [85/100] step: [0/6] time: 19.168s, mse: 0.014 
+Epoch: [85/100] step: [1/6] time: 19.306s, mse: 0.012 
+Epoch: [85/100] step: [2/6] time: 19.247s, mse: 0.019 
+Epoch: [85/100] step: [3/6] time: 19.197s, mse: 0.026 
+Epoch: [85/100] step: [4/6] time: 19.104s, mse: 0.020 
+Epoch: [85/100] step: [5/6] time: 19.368s, mse: 0.035 
+Epoch: [85/100] step: [6/6] time: 19.182s, mse: 0.015 
+Epoch: [85/100] step: [7/6] time: 19.149s, mse: 0.015 
+Epoch: [85/100] step: [8/6] time: 19.258s, mse: 0.020 
+Epoch: [85/100] step: [9/6] time: 19.065s, mse: 0.017 
+Epoch: [85/100] step: [10/6] time: 19.238s, mse: 0.020 
+Epoch: [85/100] step: [11/6] time: 19.323s, mse: 0.022 
+Epoch: [85/100] step: [12/6] time: 19.298s, mse: 0.023 
+Epoch: [85/100] step: [13/6] time: 19.302s, mse: 0.016 
+Epoch: [85/100] step: [14/6] time: 19.429s, mse: 0.018 
+Epoch: [85/100] step: [15/6] time: 19.176s, mse: 0.015 
+Epoch: [85/100] step: [16/6] time: 18.987s, mse: 0.019 
+Epoch: [85/100] step: [17/6] time: 19.440s, mse: 0.020 
+Epoch: [85/100] step: [18/6] time: 19.276s, mse: 0.026 
+Epoch: [85/100] step: [19/6] time: 19.208s, mse: 0.025 
+Epoch: [85/100] step: [20/6] time: 19.260s, mse: 0.020 
+Epoch: [85/100] step: [21/6] time: 19.187s, mse: 0.025 
+Epoch: [85/100] step: [22/6] time: 19.063s, mse: 0.019 
+Epoch: [85/100] step: [23/6] time: 19.406s, mse: 0.015 
+Epoch: [85/100] step: [24/6] time: 19.274s, mse: 0.027 
+Epoch: [85/100] step: [25/6] time: 19.200s, mse: 0.017 
+Epoch: [85/100] step: [26/6] time: 19.373s, mse: 0.021 
+Epoch: [85/100] step: [27/6] time: 19.295s, mse: 0.029 
+Epoch: [85/100] step: [28/6] time: 19.408s, mse: 0.018 
+Epoch: [85/100] step: [29/6] time: 19.242s, mse: 0.015 
+Epoch: [85/100] step: [30/6] time: 19.251s, mse: 0.019 
+Epoch: [85/100] step: [31/6] time: 19.289s, mse: 0.022 
+Epoch: [85/100] step: [32/6] time: 19.285s, mse: 0.018 
+Epoch: [85/100] step: [33/6] time: 19.211s, mse: 0.017 
+Epoch: [85/100] step: [34/6] time: 19.298s, mse: 0.025 
+Epoch: [85/100] step: [35/6] time: 19.261s, mse: 0.026 
+Epoch: [85/100] step: [36/6] time: 19.226s, mse: 0.020 
+Epoch: [85/100] step: [37/6] time: 19.180s, mse: 0.018 
+Epoch: [85/100] step: [38/6] time: 19.174s, mse: 0.020 
+Epoch: [85/100] step: [39/6] time: 19.302s, mse: 0.013 
+Epoch: [85/100] step: [40/6] time: 19.218s, mse: 0.009 
+Epoch: [85/100] step: [41/6] time: 19.131s, mse: 0.017 
+Epoch: [85/100] step: [42/6] time: 19.157s, mse: 0.025 
+Epoch: [85/100] step: [43/6] time: 19.163s, mse: 0.019 
+Epoch: [85/100] step: [44/6] time: 19.141s, mse: 0.032 
+Epoch: [85/100] step: [45/6] time: 19.076s, mse: 0.013 
+Epoch: [85/100] step: [46/6] time: 19.116s, mse: 0.016 
+Epoch: [85/100] step: [47/6] time: 19.081s, mse: 0.026 
+Epoch: [85/100] step: [48/6] time: 19.174s, mse: 0.021 
+Epoch: [85/100] step: [49/6] time: 19.191s, mse: 0.014 
+Epoch: [86/100] step: [0/6] time: 19.117s, mse: 0.011 
+Epoch: [86/100] step: [1/6] time: 19.362s, mse: 0.026 
+Epoch: [86/100] step: [2/6] time: 19.094s, mse: 0.022 
+Epoch: [86/100] step: [3/6] time: 19.257s, mse: 0.017 
+Epoch: [86/100] step: [4/6] time: 19.385s, mse: 0.032 
+Epoch: [86/100] step: [5/6] time: 19.169s, mse: 0.026 
+Epoch: [86/100] step: [6/6] time: 19.215s, mse: 0.020 
+Epoch: [86/100] step: [7/6] time: 19.242s, mse: 0.019 
+Epoch: [86/100] step: [8/6] time: 19.443s, mse: 0.018 
+Epoch: [86/100] step: [9/6] time: 19.282s, mse: 0.023 
+Epoch: [86/100] step: [10/6] time: 19.202s, mse: 0.015 
+Epoch: [86/100] step: [11/6] time: 19.274s, mse: 0.012 
+Epoch: [86/100] step: [12/6] time: 19.261s, mse: 0.019 
+Epoch: [86/100] step: [13/6] time: 19.311s, mse: 0.017 
+Epoch: [86/100] step: [14/6] time: 19.228s, mse: 0.022 
+Epoch: [86/100] step: [15/6] time: 19.248s, mse: 0.016 
+Epoch: [86/100] step: [16/6] time: 19.277s, mse: 0.021 
+Epoch: [86/100] step: [17/6] time: 19.222s, mse: 0.031 
+Epoch: [86/100] step: [18/6] time: 19.319s, mse: 0.020 
+Epoch: [86/100] step: [19/6] time: 19.307s, mse: 0.015 
+Epoch: [86/100] step: [20/6] time: 19.309s, mse: 0.018 
+Epoch: [86/100] step: [21/6] time: 19.254s, mse: 0.022 
+Epoch: [86/100] step: [22/6] time: 19.246s, mse: 0.018 
+Epoch: [86/100] step: [23/6] time: 19.312s, mse: 0.031 
+Epoch: [86/100] step: [24/6] time: 19.336s, mse: 0.020 
+Epoch: [86/100] step: [25/6] time: 19.213s, mse: 0.023 
+Epoch: [86/100] step: [26/6] time: 19.270s, mse: 0.016 
+Epoch: [86/100] step: [27/6] time: 19.242s, mse: 0.024 
+Epoch: [86/100] step: [28/6] time: 19.368s, mse: 0.022 
+Epoch: [86/100] step: [29/6] time: 19.339s, mse: 0.023 
+Epoch: [86/100] step: [30/6] time: 19.274s, mse: 0.020 
+Epoch: [86/100] step: [31/6] time: 19.267s, mse: 0.023 
+Epoch: [86/100] step: [32/6] time: 19.258s, mse: 0.012 
+Epoch: [86/100] step: [33/6] time: 19.262s, mse: 0.019 
+Epoch: [86/100] step: [34/6] time: 19.232s, mse: 0.018 
+Epoch: [86/100] step: [35/6] time: 19.433s, mse: 0.017 
+Epoch: [86/100] step: [36/6] time: 19.344s, mse: 0.023 
+Epoch: [86/100] step: [37/6] time: 19.237s, mse: 0.027 
+Epoch: [86/100] step: [38/6] time: 19.222s, mse: 0.024 
+Epoch: [86/100] step: [39/6] time: 19.254s, mse: 0.019 
+Epoch: [86/100] step: [40/6] time: 19.310s, mse: 0.017 
+Epoch: [86/100] step: [41/6] time: 19.238s, mse: 0.017 
+Epoch: [86/100] step: [42/6] time: 19.225s, mse: 0.019 
+Epoch: [86/100] step: [43/6] time: 19.149s, mse: 0.016 
+Epoch: [86/100] step: [44/6] time: 19.274s, mse: 0.026 
+Epoch: [86/100] step: [45/6] time: 19.138s, mse: 0.019 
+Epoch: [86/100] step: [46/6] time: 19.106s, mse: 0.018 
+Epoch: [86/100] step: [47/6] time: 19.258s, mse: 0.019 
+Epoch: [86/100] step: [48/6] time: 19.166s, mse: 0.019 
+Epoch: [86/100] step: [49/6] time: 19.192s, mse: 0.018 
+Epoch: [87/100] step: [0/6] time: 19.480s, mse: 0.013 
+Epoch: [87/100] step: [1/6] time: 19.313s, mse: 0.015 
+Epoch: [87/100] step: [2/6] time: 19.317s, mse: 0.031 
+Epoch: [87/100] step: [3/6] time: 19.413s, mse: 0.009 
+Epoch: [87/100] step: [4/6] time: 19.232s, mse: 0.037 
+Epoch: [87/100] step: [5/6] time: 19.382s, mse: 0.018 
+Epoch: [87/100] step: [6/6] time: 19.221s, mse: 0.013 
+Epoch: [87/100] step: [7/6] time: 19.227s, mse: 0.013 
+Epoch: [87/100] step: [8/6] time: 19.311s, mse: 0.026 
+Epoch: [87/100] step: [9/6] time: 19.285s, mse: 0.021 
+Epoch: [87/100] step: [10/6] time: 19.171s, mse: 0.016 
+Epoch: [87/100] step: [11/6] time: 19.215s, mse: 0.018 
+Epoch: [87/100] step: [12/6] time: 19.050s, mse: 0.019 
+Epoch: [87/100] step: [13/6] time: 19.254s, mse: 0.032 
+Epoch: [87/100] step: [14/6] time: 19.199s, mse: 0.025 
+Epoch: [87/100] step: [15/6] time: 19.175s, mse: 0.019 
+Epoch: [87/100] step: [16/6] time: 19.386s, mse: 0.027 
+Epoch: [87/100] step: [17/6] time: 19.260s, mse: 0.029 
+Epoch: [87/100] step: [18/6] time: 19.081s, mse: 0.022 
+Epoch: [87/100] step: [19/6] time: 19.195s, mse: 0.023 
+Epoch: [87/100] step: [20/6] time: 19.276s, mse: 0.015 
+Epoch: [87/100] step: [21/6] time: 19.444s, mse: 0.019 
+Epoch: [87/100] step: [22/6] time: 19.291s, mse: 0.018 
+Epoch: [87/100] step: [23/6] time: 19.170s, mse: 0.023 
+Epoch: [87/100] step: [24/6] time: 19.154s, mse: 0.031 
+Epoch: [87/100] step: [25/6] time: 19.018s, mse: 0.018 
+Epoch: [87/100] step: [26/6] time: 19.202s, mse: 0.020 
+Epoch: [87/100] step: [27/6] time: 19.118s, mse: 0.018 
+Epoch: [87/100] step: [28/6] time: 19.219s, mse: 0.015 
+Epoch: [87/100] step: [29/6] time: 19.254s, mse: 0.023 
+Epoch: [87/100] step: [30/6] time: 19.229s, mse: 0.019 
+Epoch: [87/100] step: [31/6] time: 19.286s, mse: 0.021 
+Epoch: [87/100] step: [32/6] time: 19.186s, mse: 0.027 
+Epoch: [87/100] step: [33/6] time: 19.305s, mse: 0.027 
+Epoch: [87/100] step: [34/6] time: 19.269s, mse: 0.019 
+Epoch: [87/100] step: [35/6] time: 19.154s, mse: 0.026 
+Epoch: [87/100] step: [36/6] time: 19.249s, mse: 0.018 
+Epoch: [87/100] step: [37/6] time: 19.384s, mse: 0.014 
+Epoch: [87/100] step: [38/6] time: 19.347s, mse: 0.014 
+Epoch: [87/100] step: [39/6] time: 19.324s, mse: 0.022 
+Epoch: [87/100] step: [40/6] time: 19.275s, mse: 0.018 
+Epoch: [87/100] step: [41/6] time: 19.241s, mse: 0.027 
+Epoch: [87/100] step: [42/6] time: 19.102s, mse: 0.022 
+Epoch: [87/100] step: [43/6] time: 19.124s, mse: 0.017 
+Epoch: [87/100] step: [44/6] time: 19.257s, mse: 0.022 
+Epoch: [87/100] step: [45/6] time: 19.268s, mse: 0.024 
+Epoch: [87/100] step: [46/6] time: 19.084s, mse: 0.019 
+Epoch: [87/100] step: [47/6] time: 19.296s, mse: 0.026 
+Epoch: [87/100] step: [48/6] time: 19.136s, mse: 0.016 
+Epoch: [87/100] step: [49/6] time: 19.067s, mse: 0.017 
+Epoch: [88/100] step: [0/6] time: 19.244s, mse: 0.031 
+Epoch: [88/100] step: [1/6] time: 19.307s, mse: 0.019 
+Epoch: [88/100] step: [2/6] time: 19.110s, mse: 0.022 
+Epoch: [88/100] step: [3/6] time: 19.338s, mse: 0.024 
+Epoch: [88/100] step: [4/6] time: 19.235s, mse: 0.022 
+Epoch: [88/100] step: [5/6] time: 19.176s, mse: 0.021 
+Epoch: [88/100] step: [6/6] time: 19.297s, mse: 0.020 
+Epoch: [88/100] step: [7/6] time: 19.338s, mse: 0.021 
+Epoch: [88/100] step: [8/6] time: 19.094s, mse: 0.030 
+Epoch: [88/100] step: [9/6] time: 19.274s, mse: 0.019 
+Epoch: [88/100] step: [10/6] time: 19.097s, mse: 0.014 
+Epoch: [88/100] step: [11/6] time: 19.304s, mse: 0.015 
+Epoch: [88/100] step: [12/6] time: 19.326s, mse: 0.030 
+Epoch: [88/100] step: [13/6] time: 19.125s, mse: 0.016 
+Epoch: [88/100] step: [14/6] time: 19.278s, mse: 0.028 
+Epoch: [88/100] step: [15/6] time: 19.315s, mse: 0.020 
+Epoch: [88/100] step: [16/6] time: 19.075s, mse: 0.016 
+Epoch: [88/100] step: [17/6] time: 19.287s, mse: 0.018 
+Epoch: [88/100] step: [18/6] time: 19.257s, mse: 0.015 
+Epoch: [88/100] step: [19/6] time: 19.473s, mse: 0.029 
+Epoch: [88/100] step: [20/6] time: 19.211s, mse: 0.023 
+Epoch: [88/100] step: [21/6] time: 19.177s, mse: 0.021 
+Epoch: [88/100] step: [22/6] time: 19.194s, mse: 0.023 
+Epoch: [88/100] step: [23/6] time: 19.175s, mse: 0.025 
+Epoch: [88/100] step: [24/6] time: 19.228s, mse: 0.020 
+Epoch: [88/100] step: [25/6] time: 19.215s, mse: 0.025 
+Epoch: [88/100] step: [26/6] time: 19.324s, mse: 0.032 
+Epoch: [88/100] step: [27/6] time: 19.159s, mse: 0.021 
+Epoch: [88/100] step: [28/6] time: 19.375s, mse: 0.022 
+Epoch: [88/100] step: [29/6] time: 19.237s, mse: 0.024 
+Epoch: [88/100] step: [30/6] time: 19.398s, mse: 0.024 
+Epoch: [88/100] step: [31/6] time: 19.556s, mse: 0.012 
+Epoch: [88/100] step: [32/6] time: 19.388s, mse: 0.019 
+Epoch: [88/100] step: [33/6] time: 19.293s, mse: 0.027 
+Epoch: [88/100] step: [34/6] time: 19.103s, mse: 0.023 
+Epoch: [88/100] step: [35/6] time: 19.244s, mse: 0.026 
+Epoch: [88/100] step: [36/6] time: 19.309s, mse: 0.021 
+Epoch: [88/100] step: [37/6] time: 19.225s, mse: 0.021 
+Epoch: [88/100] step: [38/6] time: 19.132s, mse: 0.010 
+Epoch: [88/100] step: [39/6] time: 19.325s, mse: 0.028 
+Epoch: [88/100] step: [40/6] time: 19.271s, mse: 0.033 
+Epoch: [88/100] step: [41/6] time: 19.132s, mse: 0.016 
+Epoch: [88/100] step: [42/6] time: 19.125s, mse: 0.026 
+Epoch: [88/100] step: [43/6] time: 19.352s, mse: 0.019 
+Epoch: [88/100] step: [44/6] time: 19.107s, mse: 0.012 
+Epoch: [88/100] step: [45/6] time: 19.079s, mse: 0.021 
+Epoch: [88/100] step: [46/6] time: 19.179s, mse: 0.031 
+Epoch: [88/100] step: [47/6] time: 19.227s, mse: 0.010 
+Epoch: [88/100] step: [48/6] time: 19.259s, mse: 0.021 
+Epoch: [88/100] step: [49/6] time: 19.190s, mse: 0.026 
+Epoch: [89/100] step: [0/6] time: 19.125s, mse: 0.022 
+Epoch: [89/100] step: [1/6] time: 19.245s, mse: 0.019 
+Epoch: [89/100] step: [2/6] time: 19.399s, mse: 0.017 
+Epoch: [89/100] step: [3/6] time: 19.237s, mse: 0.019 
+Epoch: [89/100] step: [4/6] time: 19.176s, mse: 0.027 
+Epoch: [89/100] step: [5/6] time: 19.140s, mse: 0.018 
+Epoch: [89/100] step: [6/6] time: 19.411s, mse: 0.022 
+Epoch: [89/100] step: [7/6] time: 19.305s, mse: 0.019 
+Epoch: [89/100] step: [8/6] time: 19.206s, mse: 0.012 
+Epoch: [89/100] step: [9/6] time: 19.159s, mse: 0.017 
+Epoch: [89/100] step: [10/6] time: 19.213s, mse: 0.018 
+Epoch: [89/100] step: [11/6] time: 19.224s, mse: 0.018 
+Epoch: [89/100] step: [12/6] time: 19.204s, mse: 0.027 
+Epoch: [89/100] step: [13/6] time: 19.209s, mse: 0.019 
+Epoch: [89/100] step: [14/6] time: 19.391s, mse: 0.017 
+Epoch: [89/100] step: [15/6] time: 19.327s, mse: 0.010 
+Epoch: [89/100] step: [16/6] time: 19.206s, mse: 0.020 
+Epoch: [89/100] step: [17/6] time: 19.051s, mse: 0.018 
+Epoch: [89/100] step: [18/6] time: 19.332s, mse: 0.024 
+Epoch: [89/100] step: [19/6] time: 19.261s, mse: 0.022 
+Epoch: [89/100] step: [20/6] time: 19.227s, mse: 0.024 
+Epoch: [89/100] step: [21/6] time: 19.232s, mse: 0.027 
+Epoch: [89/100] step: [22/6] time: 19.220s, mse: 0.012 
+Epoch: [89/100] step: [23/6] time: 19.270s, mse: 0.027 
+Epoch: [89/100] step: [24/6] time: 19.376s, mse: 0.013 
+Epoch: [89/100] step: [25/6] time: 19.223s, mse: 0.022 
+Epoch: [89/100] step: [26/6] time: 19.206s, mse: 0.026 
+Epoch: [89/100] step: [27/6] time: 19.202s, mse: 0.032 
+Epoch: [89/100] step: [28/6] time: 19.216s, mse: 0.031 
+Epoch: [89/100] step: [29/6] time: 19.292s, mse: 0.018 
+Epoch: [89/100] step: [30/6] time: 19.323s, mse: 0.016 
+Epoch: [89/100] step: [31/6] time: 19.188s, mse: 0.019 
+Epoch: [89/100] step: [32/6] time: 19.167s, mse: 0.020 
+Epoch: [89/100] step: [33/6] time: 19.234s, mse: 0.030 
+Epoch: [89/100] step: [34/6] time: 19.237s, mse: 0.015 
+Epoch: [89/100] step: [35/6] time: 19.198s, mse: 0.020 
+Epoch: [89/100] step: [36/6] time: 19.065s, mse: 0.018 
+Epoch: [89/100] step: [37/6] time: 19.032s, mse: 0.031 
+Epoch: [89/100] step: [38/6] time: 19.217s, mse: 0.023 
+Epoch: [89/100] step: [39/6] time: 19.243s, mse: 0.026 
+Epoch: [89/100] step: [40/6] time: 19.183s, mse: 0.014 
+Epoch: [89/100] step: [41/6] time: 19.240s, mse: 0.025 
+Epoch: [89/100] step: [42/6] time: 19.136s, mse: 0.017 
+Epoch: [89/100] step: [43/6] time: 19.163s, mse: 0.020 
+Epoch: [89/100] step: [44/6] time: 19.185s, mse: 0.018 
+Epoch: [89/100] step: [45/6] time: 19.035s, mse: 0.015 
+Epoch: [89/100] step: [46/6] time: 19.161s, mse: 0.021 
+Epoch: [89/100] step: [47/6] time: 18.943s, mse: 0.024 
+Epoch: [89/100] step: [48/6] time: 19.178s, mse: 0.017 
+Epoch: [89/100] step: [49/6] time: 19.179s, mse: 0.025 
+Epoch: [90/100] step: [0/6] time: 19.240s, mse: 0.015 
+Epoch: [90/100] step: [1/6] time: 19.292s, mse: 0.017 
+Epoch: [90/100] step: [2/6] time: 19.316s, mse: 0.018 
+Epoch: [90/100] step: [3/6] time: 19.310s, mse: 0.026 
+Epoch: [90/100] step: [4/6] time: 19.221s, mse: 0.020 
+Epoch: [90/100] step: [5/6] time: 19.286s, mse: 0.019 
+Epoch: [90/100] step: [6/6] time: 19.258s, mse: 0.025 
+Epoch: [90/100] step: [7/6] time: 19.093s, mse: 0.027 
+Epoch: [90/100] step: [8/6] time: 19.219s, mse: 0.028 
+Epoch: [90/100] step: [9/6] time: 19.161s, mse: 0.010 
+Epoch: [90/100] step: [10/6] time: 19.191s, mse: 0.033 
+Epoch: [90/100] step: [11/6] time: 19.378s, mse: 0.023 
+Epoch: [90/100] step: [12/6] time: 19.224s, mse: 0.020 
+Epoch: [90/100] step: [13/6] time: 19.324s, mse: 0.019 
+Epoch: [90/100] step: [14/6] time: 19.361s, mse: 0.020 
+Epoch: [90/100] step: [15/6] time: 19.073s, mse: 0.021 
+Epoch: [90/100] step: [16/6] time: 19.250s, mse: 0.010 
+Epoch: [90/100] step: [17/6] time: 19.233s, mse: 0.024 
+Epoch: [90/100] step: [18/6] time: 19.296s, mse: 0.020 
+Epoch: [90/100] step: [19/6] time: 19.105s, mse: 0.022 
+Epoch: [90/100] step: [20/6] time: 19.126s, mse: 0.021 
+Epoch: [90/100] step: [21/6] time: 19.334s, mse: 0.024 
+Epoch: [90/100] step: [22/6] time: 19.164s, mse: 0.023 
+Epoch: [90/100] step: [23/6] time: 19.290s, mse: 0.021 
+Epoch: [90/100] step: [24/6] time: 19.274s, mse: 0.014 
+Epoch: [90/100] step: [25/6] time: 19.263s, mse: 0.021 
+Epoch: [90/100] step: [26/6] time: 19.251s, mse: 0.017 
+Epoch: [90/100] step: [27/6] time: 19.101s, mse: 0.047 
+Epoch: [90/100] step: [28/6] time: 19.245s, mse: 0.028 
+Epoch: [90/100] step: [29/6] time: 19.153s, mse: 0.016 
+Epoch: [90/100] step: [30/6] time: 19.155s, mse: 0.015 
+Epoch: [90/100] step: [31/6] time: 19.249s, mse: 0.018 
+Epoch: [90/100] step: [32/6] time: 19.229s, mse: 0.019 
+Epoch: [90/100] step: [33/6] time: 19.192s, mse: 0.020 
+Epoch: [90/100] step: [34/6] time: 19.260s, mse: 0.030 
+Epoch: [90/100] step: [35/6] time: 19.044s, mse: 0.024 
+Epoch: [90/100] step: [36/6] time: 19.287s, mse: 0.027 
+Epoch: [90/100] step: [37/6] time: 19.280s, mse: 0.022 
+Epoch: [90/100] step: [38/6] time: 19.284s, mse: 0.022 
+Epoch: [90/100] step: [39/6] time: 19.367s, mse: 0.019 
+Epoch: [90/100] step: [40/6] time: 19.239s, mse: 0.017 
+Epoch: [90/100] step: [41/6] time: 19.105s, mse: 0.019 
+Epoch: [90/100] step: [42/6] time: 19.370s, mse: 0.019 
+Epoch: [90/100] step: [43/6] time: 19.095s, mse: 0.010 
+Epoch: [90/100] step: [44/6] time: 19.196s, mse: 0.018 
+Epoch: [90/100] step: [45/6] time: 19.242s, mse: 0.013 
+Epoch: [90/100] step: [46/6] time: 19.170s, mse: 0.024 
+Epoch: [90/100] step: [47/6] time: 19.214s, mse: 0.020 
+Epoch: [90/100] step: [48/6] time: 19.239s, mse: 0.026 
+Epoch: [90/100] step: [49/6] time: 19.291s, mse: 0.027 
+Epoch: [91/100] step: [0/6] time: 19.252s, mse: 0.017 
+Epoch: [91/100] step: [1/6] time: 19.483s, mse: 0.023 
+Epoch: [91/100] step: [2/6] time: 19.392s, mse: 0.018 
+Epoch: [91/100] step: [3/6] time: 19.356s, mse: 0.013 
+Epoch: [91/100] step: [4/6] time: 19.388s, mse: 0.018 
+Epoch: [91/100] step: [5/6] time: 19.326s, mse: 0.031 
+Epoch: [91/100] step: [6/6] time: 18.929s, mse: 0.020 
+Epoch: [91/100] step: [7/6] time: 19.232s, mse: 0.020 
+Epoch: [91/100] step: [8/6] time: 19.365s, mse: 0.016 
+Epoch: [91/100] step: [9/6] time: 19.216s, mse: 0.022 
+Epoch: [91/100] step: [10/6] time: 19.282s, mse: 0.015 
+Epoch: [91/100] step: [11/6] time: 19.074s, mse: 0.016 
+Epoch: [91/100] step: [12/6] time: 19.182s, mse: 0.034 
+Epoch: [91/100] step: [13/6] time: 19.268s, mse: 0.020 
+Epoch: [91/100] step: [14/6] time: 19.368s, mse: 0.022 
+Epoch: [91/100] step: [15/6] time: 19.117s, mse: 0.028 
+Epoch: [91/100] step: [16/6] time: 19.229s, mse: 0.039 
+Epoch: [91/100] step: [17/6] time: 19.253s, mse: 0.029 
+Epoch: [91/100] step: [18/6] time: 19.171s, mse: 0.017 
+Epoch: [91/100] step: [19/6] time: 19.280s, mse: 0.012 
+Epoch: [91/100] step: [20/6] time: 19.276s, mse: 0.020 
+Epoch: [91/100] step: [21/6] time: 19.341s, mse: 0.020 
+Epoch: [91/100] step: [22/6] time: 19.212s, mse: 0.022 
+Epoch: [91/100] step: [23/6] time: 19.357s, mse: 0.018 
+Epoch: [91/100] step: [24/6] time: 19.237s, mse: 0.018 
+Epoch: [91/100] step: [25/6] time: 19.246s, mse: 0.020 
+Epoch: [91/100] step: [26/6] time: 19.350s, mse: 0.010 
+Epoch: [91/100] step: [27/6] time: 19.356s, mse: 0.035 
+Epoch: [91/100] step: [28/6] time: 19.241s, mse: 0.022 
+Epoch: [91/100] step: [29/6] time: 19.481s, mse: 0.021 
+Epoch: [91/100] step: [30/6] time: 19.172s, mse: 0.023 
+Epoch: [91/100] step: [31/6] time: 19.281s, mse: 0.033 
+Epoch: [91/100] step: [32/6] time: 19.384s, mse: 0.022 
+Epoch: [91/100] step: [33/6] time: 19.219s, mse: 0.023 
+Epoch: [91/100] step: [34/6] time: 19.028s, mse: 0.013 
+Epoch: [91/100] step: [35/6] time: 19.350s, mse: 0.013 
+Epoch: [91/100] step: [36/6] time: 19.152s, mse: 0.018 
+Epoch: [91/100] step: [37/6] time: 19.124s, mse: 0.012 
+Epoch: [91/100] step: [38/6] time: 19.304s, mse: 0.015 
+Epoch: [91/100] step: [39/6] time: 19.314s, mse: 0.024 
+Epoch: [91/100] step: [40/6] time: 19.183s, mse: 0.020 
+Epoch: [91/100] step: [41/6] time: 19.155s, mse: 0.016 
+Epoch: [91/100] step: [42/6] time: 19.137s, mse: 0.025 
+Epoch: [91/100] step: [43/6] time: 19.033s, mse: 0.015 
+Epoch: [91/100] step: [44/6] time: 19.214s, mse: 0.019 
+Epoch: [91/100] step: [45/6] time: 19.227s, mse: 0.022 
+Epoch: [91/100] step: [46/6] time: 19.221s, mse: 0.013 
+Epoch: [91/100] step: [47/6] time: 19.130s, mse: 0.022 
+Epoch: [91/100] step: [48/6] time: 19.320s, mse: 0.015 
+Epoch: [91/100] step: [49/6] time: 19.150s, mse: 0.024 
+Epoch: [92/100] step: [0/6] time: 19.330s, mse: 0.025 
+Epoch: [92/100] step: [1/6] time: 19.491s, mse: 0.016 
+Epoch: [92/100] step: [2/6] time: 19.140s, mse: 0.019 
+Epoch: [92/100] step: [3/6] time: 19.365s, mse: 0.020 
+Epoch: [92/100] step: [4/6] time: 19.424s, mse: 0.022 
+Epoch: [92/100] step: [5/6] time: 19.192s, mse: 0.014 
+Epoch: [92/100] step: [6/6] time: 19.152s, mse: 0.020 
+Epoch: [92/100] step: [7/6] time: 19.173s, mse: 0.031 
+Epoch: [92/100] step: [8/6] time: 19.172s, mse: 0.022 
+Epoch: [92/100] step: [9/6] time: 19.259s, mse: 0.022 
+Epoch: [92/100] step: [10/6] time: 19.236s, mse: 0.016 
+Epoch: [92/100] step: [11/6] time: 19.223s, mse: 0.024 
+Epoch: [92/100] step: [12/6] time: 19.162s, mse: 0.018 
+Epoch: [92/100] step: [13/6] time: 19.365s, mse: 0.023 
+Epoch: [92/100] step: [14/6] time: 19.190s, mse: 0.021 
+Epoch: [92/100] step: [15/6] time: 19.280s, mse: 0.016 
+Epoch: [92/100] step: [16/6] time: 19.399s, mse: 0.026 
+Epoch: [92/100] step: [17/6] time: 19.221s, mse: 0.013 
+Epoch: [92/100] step: [18/6] time: 19.317s, mse: 0.019 
+Epoch: [92/100] step: [19/6] time: 19.334s, mse: 0.022 
+Epoch: [92/100] step: [20/6] time: 19.153s, mse: 0.025 
+Epoch: [92/100] step: [21/6] time: 19.231s, mse: 0.017 
+Epoch: [92/100] step: [22/6] time: 19.300s, mse: 0.022 
+Epoch: [92/100] step: [23/6] time: 19.298s, mse: 0.017 
+Epoch: [92/100] step: [24/6] time: 19.225s, mse: 0.021 
+Epoch: [92/100] step: [25/6] time: 19.175s, mse: 0.019 
+Epoch: [92/100] step: [26/6] time: 19.402s, mse: 0.014 
+Epoch: [92/100] step: [27/6] time: 19.174s, mse: 0.021 
+Epoch: [92/100] step: [28/6] time: 19.206s, mse: 0.017 
+Epoch: [92/100] step: [29/6] time: 19.316s, mse: 0.012 
+Epoch: [92/100] step: [30/6] time: 19.255s, mse: 0.019 
+Epoch: [92/100] step: [31/6] time: 19.237s, mse: 0.018 
+Epoch: [92/100] step: [32/6] time: 19.352s, mse: 0.024 
+Epoch: [92/100] step: [33/6] time: 19.220s, mse: 0.027 
+Epoch: [92/100] step: [34/6] time: 19.167s, mse: 0.022 
+Epoch: [92/100] step: [35/6] time: 19.252s, mse: 0.018 
+Epoch: [92/100] step: [36/6] time: 19.173s, mse: 0.024 
+Epoch: [92/100] step: [37/6] time: 19.384s, mse: 0.025 
+Epoch: [92/100] step: [38/6] time: 19.264s, mse: 0.030 
+Epoch: [92/100] step: [39/6] time: 19.186s, mse: 0.014 
+Epoch: [92/100] step: [40/6] time: 19.188s, mse: 0.023 
+Epoch: [92/100] step: [41/6] time: 19.292s, mse: 0.026 
+Epoch: [92/100] step: [42/6] time: 19.212s, mse: 0.010 
+Epoch: [92/100] step: [43/6] time: 19.184s, mse: 0.015 
+Epoch: [92/100] step: [44/6] time: 19.340s, mse: 0.017 
+Epoch: [92/100] step: [45/6] time: 19.079s, mse: 0.025 
+Epoch: [92/100] step: [46/6] time: 19.131s, mse: 0.019 
+Epoch: [92/100] step: [47/6] time: 19.162s, mse: 0.011 
+Epoch: [92/100] step: [48/6] time: 19.127s, mse: 0.021 
+Epoch: [92/100] step: [49/6] time: 19.155s, mse: 0.013 
+Epoch: [93/100] step: [0/6] time: 19.369s, mse: 0.020 
+Epoch: [93/100] step: [1/6] time: 19.170s, mse: 0.019 
+Epoch: [93/100] step: [2/6] time: 19.112s, mse: 0.021 
+Epoch: [93/100] step: [3/6] time: 19.296s, mse: 0.014 
+Epoch: [93/100] step: [4/6] time: 19.424s, mse: 0.029 
+Epoch: [93/100] step: [5/6] time: 19.141s, mse: 0.018 
+Epoch: [93/100] step: [6/6] time: 19.302s, mse: 0.029 
+Epoch: [93/100] step: [7/6] time: 19.409s, mse: 0.016 
+Epoch: [93/100] step: [8/6] time: 19.166s, mse: 0.021 
+Epoch: [93/100] step: [9/6] time: 19.363s, mse: 0.019 
+Epoch: [93/100] step: [10/6] time: 19.277s, mse: 0.008 
+Epoch: [93/100] step: [11/6] time: 19.265s, mse: 0.031 
+Epoch: [93/100] step: [12/6] time: 19.186s, mse: 0.020 
+Epoch: [93/100] step: [13/6] time: 19.087s, mse: 0.026 
+Epoch: [93/100] step: [14/6] time: 19.189s, mse: 0.023 
+Epoch: [93/100] step: [15/6] time: 19.209s, mse: 0.017 
+Epoch: [93/100] step: [16/6] time: 19.110s, mse: 0.019 
+Epoch: [93/100] step: [17/6] time: 19.107s, mse: 0.016 
+Epoch: [93/100] step: [18/6] time: 19.024s, mse: 0.018 
+Epoch: [93/100] step: [19/6] time: 19.348s, mse: 0.015 
+Epoch: [93/100] step: [20/6] time: 19.347s, mse: 0.025 
+Epoch: [93/100] step: [21/6] time: 19.209s, mse: 0.018 
+Epoch: [93/100] step: [22/6] time: 19.340s, mse: 0.018 
+Epoch: [93/100] step: [23/6] time: 19.152s, mse: 0.020 
+Epoch: [93/100] step: [24/6] time: 19.272s, mse: 0.023 
+Epoch: [93/100] step: [25/6] time: 19.246s, mse: 0.019 
+Epoch: [93/100] step: [26/6] time: 19.217s, mse: 0.025 
+Epoch: [93/100] step: [27/6] time: 19.176s, mse: 0.015 
+Epoch: [93/100] step: [28/6] time: 19.314s, mse: 0.021 
+Epoch: [93/100] step: [29/6] time: 19.167s, mse: 0.021 
+Epoch: [93/100] step: [30/6] time: 19.252s, mse: 0.020 
+Epoch: [93/100] step: [31/6] time: 19.232s, mse: 0.031 
+Epoch: [93/100] step: [32/6] time: 19.283s, mse: 0.016 
+Epoch: [93/100] step: [33/6] time: 19.326s, mse: 0.023 
+Epoch: [93/100] step: [34/6] time: 19.304s, mse: 0.017 
+Epoch: [93/100] step: [35/6] time: 19.222s, mse: 0.028 
+Epoch: [93/100] step: [36/6] time: 19.337s, mse: 0.021 
+Epoch: [93/100] step: [37/6] time: 19.281s, mse: 0.026 
+Epoch: [93/100] step: [38/6] time: 19.246s, mse: 0.024 
+Epoch: [93/100] step: [39/6] time: 19.262s, mse: 0.024 
+Epoch: [93/100] step: [40/6] time: 19.320s, mse: 0.018 
+Epoch: [93/100] step: [41/6] time: 19.371s, mse: 0.026 
+Epoch: [93/100] step: [42/6] time: 19.029s, mse: 0.033 
+Epoch: [93/100] step: [43/6] time: 19.188s, mse: 0.021 
+Epoch: [93/100] step: [44/6] time: 19.021s, mse: 0.015 
+Epoch: [93/100] step: [45/6] time: 18.921s, mse: 0.017 
+Epoch: [93/100] step: [46/6] time: 19.179s, mse: 0.024 
+Epoch: [93/100] step: [47/6] time: 19.363s, mse: 0.027 
+Epoch: [93/100] step: [48/6] time: 19.127s, mse: 0.013 
+Epoch: [93/100] step: [49/6] time: 19.087s, mse: 0.017 
+Epoch: [94/100] step: [0/6] time: 19.457s, mse: 0.022 
+Epoch: [94/100] step: [1/6] time: 19.248s, mse: 0.026 
+Epoch: [94/100] step: [2/6] time: 19.317s, mse: 0.026 
+Epoch: [94/100] step: [3/6] time: 19.301s, mse: 0.025 
+Epoch: [94/100] step: [4/6] time: 19.206s, mse: 0.031 
+Epoch: [94/100] step: [5/6] time: 19.262s, mse: 0.015 
+Epoch: [94/100] step: [6/6] time: 19.466s, mse: 0.016 
+Epoch: [94/100] step: [7/6] time: 19.195s, mse: 0.020 
+Epoch: [94/100] step: [8/6] time: 19.189s, mse: 0.014 
+Epoch: [94/100] step: [9/6] time: 19.418s, mse: 0.020 
+Epoch: [94/100] step: [10/6] time: 19.251s, mse: 0.023 
+Epoch: [94/100] step: [11/6] time: 19.460s, mse: 0.016 
+Epoch: [94/100] step: [12/6] time: 19.379s, mse: 0.021 
+Epoch: [94/100] step: [13/6] time: 19.235s, mse: 0.018 
+Epoch: [94/100] step: [14/6] time: 19.173s, mse: 0.017 
+Epoch: [94/100] step: [15/6] time: 19.414s, mse: 0.019 
+Epoch: [94/100] step: [16/6] time: 19.241s, mse: 0.020 
+Epoch: [94/100] step: [17/6] time: 19.316s, mse: 0.013 
+Epoch: [94/100] step: [18/6] time: 19.281s, mse: 0.014 
+Epoch: [94/100] step: [19/6] time: 19.288s, mse: 0.018 
+Epoch: [94/100] step: [20/6] time: 18.922s, mse: 0.010 
+Epoch: [94/100] step: [21/6] time: 19.358s, mse: 0.024 
+Epoch: [94/100] step: [22/6] time: 19.381s, mse: 0.019 
+Epoch: [94/100] step: [23/6] time: 19.331s, mse: 0.020 
+Epoch: [94/100] step: [24/6] time: 19.302s, mse: 0.025 
+Epoch: [94/100] step: [25/6] time: 19.406s, mse: 0.011 
+Epoch: [94/100] step: [26/6] time: 19.206s, mse: 0.022 
+Epoch: [94/100] step: [27/6] time: 19.170s, mse: 0.021 
+Epoch: [94/100] step: [28/6] time: 19.289s, mse: 0.025 
+Epoch: [94/100] step: [29/6] time: 19.366s, mse: 0.020 
+Epoch: [94/100] step: [30/6] time: 19.254s, mse: 0.022 
+Epoch: [94/100] step: [31/6] time: 19.165s, mse: 0.016 
+Epoch: [94/100] step: [32/6] time: 19.197s, mse: 0.017 
+Epoch: [94/100] step: [33/6] time: 19.305s, mse: 0.020 
+Epoch: [94/100] step: [34/6] time: 19.319s, mse: 0.016 
+Epoch: [94/100] step: [35/6] time: 19.303s, mse: 0.023 
+Epoch: [94/100] step: [36/6] time: 19.158s, mse: 0.017 
+Epoch: [94/100] step: [37/6] time: 19.272s, mse: 0.022 
+Epoch: [94/100] step: [38/6] time: 19.148s, mse: 0.030 
+Epoch: [94/100] step: [39/6] time: 19.081s, mse: 0.018 
+Epoch: [94/100] step: [40/6] time: 19.280s, mse: 0.014 
+Epoch: [94/100] step: [41/6] time: 19.190s, mse: 0.017 
+Epoch: [94/100] step: [42/6] time: 19.198s, mse: 0.025 
+Epoch: [94/100] step: [43/6] time: 19.150s, mse: 0.028 
+Epoch: [94/100] step: [44/6] time: 19.092s, mse: 0.030 
+Epoch: [94/100] step: [45/6] time: 19.133s, mse: 0.030 
+Epoch: [94/100] step: [46/6] time: 19.224s, mse: 0.016 
+Epoch: [94/100] step: [47/6] time: 19.334s, mse: 0.026 
+Epoch: [94/100] step: [48/6] time: 18.989s, mse: 0.021 
+Epoch: [94/100] step: [49/6] time: 19.138s, mse: 0.024 
+Epoch: [95/100] step: [0/6] time: 19.298s, mse: 0.012 
+Epoch: [95/100] step: [1/6] time: 19.327s, mse: 0.017 
+Epoch: [95/100] step: [2/6] time: 19.358s, mse: 0.013 
+Epoch: [95/100] step: [3/6] time: 19.295s, mse: 0.022 
+Epoch: [95/100] step: [4/6] time: 19.196s, mse: 0.020 
+Epoch: [95/100] step: [5/6] time: 19.214s, mse: 0.011 
+Epoch: [95/100] step: [6/6] time: 19.268s, mse: 0.028 
+Epoch: [95/100] step: [7/6] time: 19.213s, mse: 0.017 
+Epoch: [95/100] step: [8/6] time: 19.265s, mse: 0.023 
+Epoch: [95/100] step: [9/6] time: 18.991s, mse: 0.015 
+Epoch: [95/100] step: [10/6] time: 19.168s, mse: 0.012 
+Epoch: [95/100] step: [11/6] time: 19.095s, mse: 0.017 
+Epoch: [95/100] step: [12/6] time: 19.135s, mse: 0.014 
+Epoch: [95/100] step: [13/6] time: 19.205s, mse: 0.018 
+Epoch: [95/100] step: [14/6] time: 19.168s, mse: 0.022 
+Epoch: [95/100] step: [15/6] time: 19.173s, mse: 0.021 
+Epoch: [95/100] step: [16/6] time: 19.331s, mse: 0.021 
+Epoch: [95/100] step: [17/6] time: 19.312s, mse: 0.025 
+Epoch: [95/100] step: [18/6] time: 19.373s, mse: 0.018 
+Epoch: [95/100] step: [19/6] time: 19.461s, mse: 0.028 
+Epoch: [95/100] step: [20/6] time: 19.488s, mse: 0.014 
+Epoch: [95/100] step: [21/6] time: 19.461s, mse: 0.025 
+Epoch: [95/100] step: [22/6] time: 19.389s, mse: 0.012 
+Epoch: [95/100] step: [23/6] time: 19.338s, mse: 0.013 
+Epoch: [95/100] step: [24/6] time: 19.219s, mse: 0.017 
+Epoch: [95/100] step: [25/6] time: 19.133s, mse: 0.024 
+Epoch: [95/100] step: [26/6] time: 19.254s, mse: 0.019 
+Epoch: [95/100] step: [27/6] time: 19.110s, mse: 0.022 
+Epoch: [95/100] step: [28/6] time: 19.267s, mse: 0.021 
+Epoch: [95/100] step: [29/6] time: 19.246s, mse: 0.019 
+Epoch: [95/100] step: [30/6] time: 19.299s, mse: 0.023 
+Epoch: [95/100] step: [31/6] time: 19.316s, mse: 0.013 
+Epoch: [95/100] step: [32/6] time: 19.264s, mse: 0.018 
+Epoch: [95/100] step: [33/6] time: 19.330s, mse: 0.025 
+Epoch: [95/100] step: [34/6] time: 19.216s, mse: 0.027 
+Epoch: [95/100] step: [35/6] time: 19.186s, mse: 0.020 
+Epoch: [95/100] step: [36/6] time: 19.074s, mse: 0.013 
+Epoch: [95/100] step: [37/6] time: 19.324s, mse: 0.015 
+Epoch: [95/100] step: [38/6] time: 19.190s, mse: 0.028 
+Epoch: [95/100] step: [39/6] time: 19.243s, mse: 0.015 
+Epoch: [95/100] step: [40/6] time: 19.222s, mse: 0.021 
+Epoch: [95/100] step: [41/6] time: 19.216s, mse: 0.013 
+Epoch: [95/100] step: [42/6] time: 19.022s, mse: 0.019 
+Epoch: [95/100] step: [43/6] time: 19.194s, mse: 0.031 
+Epoch: [95/100] step: [44/6] time: 19.181s, mse: 0.020 
+Epoch: [95/100] step: [45/6] time: 19.011s, mse: 0.021 
+Epoch: [95/100] step: [46/6] time: 19.320s, mse: 0.018 
+Epoch: [95/100] step: [47/6] time: 19.067s, mse: 0.017 
+Epoch: [95/100] step: [48/6] time: 18.926s, mse: 0.034 
+Epoch: [95/100] step: [49/6] time: 19.322s, mse: 0.023 
+Epoch: [96/100] step: [0/6] time: 19.277s, mse: 0.022 
+Epoch: [96/100] step: [1/6] time: 19.214s, mse: 0.016 
+Epoch: [96/100] step: [2/6] time: 19.320s, mse: 0.013 
+Epoch: [96/100] step: [3/6] time: 19.300s, mse: 0.015 
+Epoch: [96/100] step: [4/6] time: 19.247s, mse: 0.017 
+Epoch: [96/100] step: [5/6] time: 19.306s, mse: 0.033 
+Epoch: [96/100] step: [6/6] time: 19.243s, mse: 0.011 
+Epoch: [96/100] step: [7/6] time: 19.182s, mse: 0.029 
+Epoch: [96/100] step: [8/6] time: 19.273s, mse: 0.017 
+Epoch: [96/100] step: [9/6] time: 19.244s, mse: 0.020 
+Epoch: [96/100] step: [10/6] time: 19.294s, mse: 0.018 
+Epoch: [96/100] step: [11/6] time: 19.321s, mse: 0.018 
+Epoch: [96/100] step: [12/6] time: 19.276s, mse: 0.019 
+Epoch: [96/100] step: [13/6] time: 19.188s, mse: 0.024 
+Epoch: [96/100] step: [14/6] time: 19.268s, mse: 0.021 
+Epoch: [96/100] step: [15/6] time: 19.097s, mse: 0.019 
+Epoch: [96/100] step: [16/6] time: 19.176s, mse: 0.025 
+Epoch: [96/100] step: [17/6] time: 19.118s, mse: 0.019 
+Epoch: [96/100] step: [18/6] time: 19.251s, mse: 0.017 
+Epoch: [96/100] step: [19/6] time: 19.248s, mse: 0.020 
+Epoch: [96/100] step: [20/6] time: 19.223s, mse: 0.025 
+Epoch: [96/100] step: [21/6] time: 19.133s, mse: 0.019 
+Epoch: [96/100] step: [22/6] time: 19.335s, mse: 0.023 
+Epoch: [96/100] step: [23/6] time: 19.324s, mse: 0.023 
+Epoch: [96/100] step: [24/6] time: 19.266s, mse: 0.021 
+Epoch: [96/100] step: [25/6] time: 19.043s, mse: 0.018 
+Epoch: [96/100] step: [26/6] time: 19.136s, mse: 0.020 
+Epoch: [96/100] step: [27/6] time: 19.240s, mse: 0.021 
+Epoch: [96/100] step: [28/6] time: 19.314s, mse: 0.021 
+Epoch: [96/100] step: [29/6] time: 19.314s, mse: 0.028 
+Epoch: [96/100] step: [30/6] time: 19.319s, mse: 0.026 
+Epoch: [96/100] step: [31/6] time: 19.276s, mse: 0.012 
+Epoch: [96/100] step: [32/6] time: 19.303s, mse: 0.027 
+Epoch: [96/100] step: [33/6] time: 19.257s, mse: 0.032 
+Epoch: [96/100] step: [34/6] time: 19.290s, mse: 0.022 
+Epoch: [96/100] step: [35/6] time: 19.292s, mse: 0.010 
+Epoch: [96/100] step: [36/6] time: 19.307s, mse: 0.023 
+Epoch: [96/100] step: [37/6] time: 19.148s, mse: 0.015 
+Epoch: [96/100] step: [38/6] time: 19.271s, mse: 0.016 
+Epoch: [96/100] step: [39/6] time: 19.249s, mse: 0.012 
+Epoch: [96/100] step: [40/6] time: 19.196s, mse: 0.022 
+Epoch: [96/100] step: [41/6] time: 19.081s, mse: 0.021 
+Epoch: [96/100] step: [42/6] time: 19.236s, mse: 0.018 
+Epoch: [96/100] step: [43/6] time: 19.025s, mse: 0.025 
+Epoch: [96/100] step: [44/6] time: 19.233s, mse: 0.015 
+Epoch: [96/100] step: [45/6] time: 19.173s, mse: 0.028 
+Epoch: [96/100] step: [46/6] time: 19.128s, mse: 0.021 
+Epoch: [96/100] step: [47/6] time: 19.171s, mse: 0.016 
+Epoch: [96/100] step: [48/6] time: 19.144s, mse: 0.023 
+Epoch: [96/100] step: [49/6] time: 19.169s, mse: 0.015 
+Epoch: [97/100] step: [0/6] time: 19.143s, mse: 0.019 
+Epoch: [97/100] step: [1/6] time: 18.965s, mse: 0.021 
+Epoch: [97/100] step: [2/6] time: 19.075s, mse: 0.020 
+Epoch: [97/100] step: [3/6] time: 19.407s, mse: 0.021 
+Epoch: [97/100] step: [4/6] time: 19.228s, mse: 0.018 
+Epoch: [97/100] step: [5/6] time: 19.474s, mse: 0.020 
+Epoch: [97/100] step: [6/6] time: 19.149s, mse: 0.017 
+Epoch: [97/100] step: [7/6] time: 19.111s, mse: 0.023 
+Epoch: [97/100] step: [8/6] time: 19.340s, mse: 0.027 
+Epoch: [97/100] step: [9/6] time: 19.333s, mse: 0.022 
+Epoch: [97/100] step: [10/6] time: 19.244s, mse: 0.020 
+Epoch: [97/100] step: [11/6] time: 19.289s, mse: 0.026 
+Epoch: [97/100] step: [12/6] time: 19.189s, mse: 0.018 
+Epoch: [97/100] step: [13/6] time: 19.108s, mse: 0.015 
+Epoch: [97/100] step: [14/6] time: 19.235s, mse: 0.016 
+Epoch: [97/100] step: [15/6] time: 19.073s, mse: 0.014 
+Epoch: [97/100] step: [16/6] time: 19.205s, mse: 0.015 
+Epoch: [97/100] step: [17/6] time: 19.328s, mse: 0.016 
+Epoch: [97/100] step: [18/6] time: 19.164s, mse: 0.027 
+Epoch: [97/100] step: [19/6] time: 19.305s, mse: 0.020 
+Epoch: [97/100] step: [20/6] time: 19.179s, mse: 0.020 
+Epoch: [97/100] step: [21/6] time: 19.194s, mse: 0.021 
+Epoch: [97/100] step: [22/6] time: 19.205s, mse: 0.020 
+Epoch: [97/100] step: [23/6] time: 19.173s, mse: 0.022 
+Epoch: [97/100] step: [24/6] time: 19.174s, mse: 0.018 
+Epoch: [97/100] step: [25/6] time: 19.177s, mse: 0.025 
+Epoch: [97/100] step: [26/6] time: 19.219s, mse: 0.019 
+Epoch: [97/100] step: [27/6] time: 19.226s, mse: 0.018 
+Epoch: [97/100] step: [28/6] time: 19.268s, mse: 0.020 
+Epoch: [97/100] step: [29/6] time: 19.198s, mse: 0.022 
+Epoch: [97/100] step: [30/6] time: 19.117s, mse: 0.028 
+Epoch: [97/100] step: [31/6] time: 19.338s, mse: 0.018 
+Epoch: [97/100] step: [32/6] time: 19.179s, mse: 0.017 
+Epoch: [97/100] step: [33/6] time: 19.173s, mse: 0.019 
+Epoch: [97/100] step: [34/6] time: 19.261s, mse: 0.014 
+Epoch: [97/100] step: [35/6] time: 19.101s, mse: 0.014 
+Epoch: [97/100] step: [36/6] time: 19.297s, mse: 0.017 
+Epoch: [97/100] step: [37/6] time: 19.174s, mse: 0.016 
+Epoch: [97/100] step: [38/6] time: 19.107s, mse: 0.020 
+Epoch: [97/100] step: [39/6] time: 19.306s, mse: 0.020 
+Epoch: [97/100] step: [40/6] time: 19.241s, mse: 0.012 
+Epoch: [97/100] step: [41/6] time: 19.084s, mse: 0.020 
+Epoch: [97/100] step: [42/6] time: 19.237s, mse: 0.011 
+Epoch: [97/100] step: [43/6] time: 19.116s, mse: 0.031 
+Epoch: [97/100] step: [44/6] time: 19.196s, mse: 0.018 
+Epoch: [97/100] step: [45/6] time: 19.174s, mse: 0.031 
+Epoch: [97/100] step: [46/6] time: 19.044s, mse: 0.027 
+Epoch: [97/100] step: [47/6] time: 19.169s, mse: 0.021 
+Epoch: [97/100] step: [48/6] time: 19.084s, mse: 0.016 
+Epoch: [97/100] step: [49/6] time: 19.112s, mse: 0.012 
+Epoch: [98/100] step: [0/6] time: 19.032s, mse: 0.022 
+Epoch: [98/100] step: [1/6] time: 19.353s, mse: 0.015 
+Epoch: [98/100] step: [2/6] time: 19.253s, mse: 0.017 
+Epoch: [98/100] step: [3/6] time: 19.165s, mse: 0.024 
+Epoch: [98/100] step: [4/6] time: 19.336s, mse: 0.028 
+Epoch: [98/100] step: [5/6] time: 19.324s, mse: 0.012 
+Epoch: [98/100] step: [6/6] time: 19.335s, mse: 0.016 
+Epoch: [98/100] step: [7/6] time: 19.171s, mse: 0.015 
+Epoch: [98/100] step: [8/6] time: 19.278s, mse: 0.020 
+Epoch: [98/100] step: [9/6] time: 19.237s, mse: 0.027 
+Epoch: [98/100] step: [10/6] time: 19.230s, mse: 0.024 
+Epoch: [98/100] step: [11/6] time: 19.324s, mse: 0.016 
+Epoch: [98/100] step: [12/6] time: 19.318s, mse: 0.021 
+Epoch: [98/100] step: [13/6] time: 19.308s, mse: 0.013 
+Epoch: [98/100] step: [14/6] time: 19.407s, mse: 0.016 
+Epoch: [98/100] step: [15/6] time: 19.276s, mse: 0.024 
+Epoch: [98/100] step: [16/6] time: 19.291s, mse: 0.020 
+Epoch: [98/100] step: [17/6] time: 19.311s, mse: 0.016 
+Epoch: [98/100] step: [18/6] time: 19.196s, mse: 0.016 
+Epoch: [98/100] step: [19/6] time: 19.307s, mse: 0.012 
+Epoch: [98/100] step: [20/6] time: 19.306s, mse: 0.016 
+Epoch: [98/100] step: [21/6] time: 19.228s, mse: 0.017 
+Epoch: [98/100] step: [22/6] time: 19.352s, mse: 0.010 
+Epoch: [98/100] step: [23/6] time: 19.260s, mse: 0.026 
+Epoch: [98/100] step: [24/6] time: 19.121s, mse: 0.023 
+Epoch: [98/100] step: [25/6] time: 19.293s, mse: 0.025 
+Epoch: [98/100] step: [26/6] time: 19.151s, mse: 0.022 
+Epoch: [98/100] step: [27/6] time: 19.409s, mse: 0.023 
+Epoch: [98/100] step: [28/6] time: 19.318s, mse: 0.024 
+Epoch: [98/100] step: [29/6] time: 19.179s, mse: 0.024 
+Epoch: [98/100] step: [30/6] time: 19.341s, mse: 0.017 
+Epoch: [98/100] step: [31/6] time: 19.362s, mse: 0.024 
+Epoch: [98/100] step: [32/6] time: 19.411s, mse: 0.016 
+Epoch: [98/100] step: [33/6] time: 19.286s, mse: 0.018 
+Epoch: [98/100] step: [34/6] time: 19.249s, mse: 0.046 
+Epoch: [98/100] step: [35/6] time: 19.271s, mse: 0.020 
+Epoch: [98/100] step: [36/6] time: 19.211s, mse: 0.032 
+Epoch: [98/100] step: [37/6] time: 19.236s, mse: 0.014 
+Epoch: [98/100] step: [38/6] time: 19.359s, mse: 0.015 
+Epoch: [98/100] step: [39/6] time: 19.157s, mse: 0.016 
+Epoch: [98/100] step: [40/6] time: 19.250s, mse: 0.018 
+Epoch: [98/100] step: [41/6] time: 19.187s, mse: 0.024 
+Epoch: [98/100] step: [42/6] time: 19.166s, mse: 0.018 
+Epoch: [98/100] step: [43/6] time: 19.285s, mse: 0.019 
+Epoch: [98/100] step: [44/6] time: 19.227s, mse: 0.033 
+Epoch: [98/100] step: [45/6] time: 19.032s, mse: 0.012 
+Epoch: [98/100] step: [46/6] time: 19.163s, mse: 0.020 
+Epoch: [98/100] step: [47/6] time: 19.278s, mse: 0.031 
+Epoch: [98/100] step: [48/6] time: 19.287s, mse: 0.021 
+Epoch: [98/100] step: [49/6] time: 19.154s, mse: 0.016 
+Epoch: [99/100] step: [0/6] time: 19.152s, mse: 0.019 
+Epoch: [99/100] step: [1/6] time: 19.284s, mse: 0.020 
+Epoch: [99/100] step: [2/6] time: 19.232s, mse: 0.019 
+Epoch: [99/100] step: [3/6] time: 19.227s, mse: 0.018 
+Epoch: [99/100] step: [4/6] time: 19.310s, mse: 0.024 
+Epoch: [99/100] step: [5/6] time: 19.179s, mse: 0.014 
+Epoch: [99/100] step: [6/6] time: 19.239s, mse: 0.018 
+Epoch: [99/100] step: [7/6] time: 19.300s, mse: 0.020 
+Epoch: [99/100] step: [8/6] time: 19.331s, mse: 0.033 
+Epoch: [99/100] step: [9/6] time: 19.328s, mse: 0.025 
+Epoch: [99/100] step: [10/6] time: 19.396s, mse: 0.019 
+Epoch: [99/100] step: [11/6] time: 19.315s, mse: 0.021 
+Epoch: [99/100] step: [12/6] time: 19.456s, mse: 0.021 
+Epoch: [99/100] step: [13/6] time: 19.345s, mse: 0.019 
+Epoch: [99/100] step: [14/6] time: 19.336s, mse: 0.020 
+Epoch: [99/100] step: [15/6] time: 19.181s, mse: 0.016 
+Epoch: [99/100] step: [16/6] time: 19.305s, mse: 0.026 
+Epoch: [99/100] step: [17/6] time: 19.321s, mse: 0.013 
+Epoch: [99/100] step: [18/6] time: 19.274s, mse: 0.023 
+Epoch: [99/100] step: [19/6] time: 19.344s, mse: 0.027 
+Epoch: [99/100] step: [20/6] time: 19.300s, mse: 0.024 
+Epoch: [99/100] step: [21/6] time: 19.260s, mse: 0.018 
+Epoch: [99/100] step: [22/6] time: 19.496s, mse: 0.014 
+Epoch: [99/100] step: [23/6] time: 19.135s, mse: 0.021 
+Epoch: [99/100] step: [24/6] time: 19.394s, mse: 0.021 
+Epoch: [99/100] step: [25/6] time: 19.166s, mse: 0.018 
+Epoch: [99/100] step: [26/6] time: 19.263s, mse: 0.021 
+Epoch: [99/100] step: [27/6] time: 19.321s, mse: 0.012 
+Epoch: [99/100] step: [28/6] time: 19.448s, mse: 0.021 
+Epoch: [99/100] step: [29/6] time: 19.211s, mse: 0.014 
+Epoch: [99/100] step: [30/6] time: 19.207s, mse: 0.023 
+Epoch: [99/100] step: [31/6] time: 19.365s, mse: 0.020 
+Epoch: [99/100] step: [32/6] time: 19.363s, mse: 0.015 
+Epoch: [99/100] step: [33/6] time: 19.146s, mse: 0.024 
+Epoch: [99/100] step: [34/6] time: 19.291s, mse: 0.028 
+Epoch: [99/100] step: [35/6] time: 19.186s, mse: 0.015 
+Epoch: [99/100] step: [36/6] time: 19.252s, mse: 0.031 
+Epoch: [99/100] step: [37/6] time: 19.306s, mse: 0.014 
+Epoch: [99/100] step: [38/6] time: 19.350s, mse: 0.017 
+Epoch: [99/100] step: [39/6] time: 19.275s, mse: 0.026 
+Epoch: [99/100] step: [40/6] time: 19.279s, mse: 0.014 
+Epoch: [99/100] step: [41/6] time: 19.160s, mse: 0.022 
+Epoch: [99/100] step: [42/6] time: 19.239s, mse: 0.012 
+Epoch: [99/100] step: [43/6] time: 19.322s, mse: 0.025 
+Epoch: [99/100] step: [44/6] time: 19.428s, mse: 0.017 
+Epoch: [99/100] step: [45/6] time: 19.254s, mse: 0.024 
+Epoch: [99/100] step: [46/6] time: 19.368s, mse: 0.013 
+Epoch: [99/100] step: [47/6] time: 19.210s, mse: 0.020 
+Epoch: [99/100] step: [48/6] time: 19.035s, mse: 0.013 
+Epoch: [99/100] step: [49/6] time: 19.139s, mse: 0.023 
+Epoch: [0/100] step: [0/125] time: 109.185s, g_loss(mse:1.247, vgg:0.046, adv:0.002) d_loss: 2.648
+Epoch: [0/100] step: [1/125] time: 108.951s, g_loss(mse:1.209, vgg:0.043, adv:0.001) d_loss: 6.421
+Epoch: [0/100] step: [2/125] time: 109.239s, g_loss(mse:1.360, vgg:0.054, adv:0.000) d_loss: 3.756
+Epoch: [0/100] step: [3/125] time: 108.989s, g_loss(mse:1.104, vgg:0.056, adv:0.002) d_loss: 3.109
+Epoch: [0/100] step: [4/125] time: 108.901s, g_loss(mse:1.419, vgg:0.049, adv:0.004) d_loss: 4.717
+Epoch: [0/100] step: [5/125] time: 109.442s, g_loss(mse:0.943, vgg:0.040, adv:0.004) d_loss: 4.499
+Epoch: [0/100] step: [6/125] time: 109.172s, g_loss(mse:1.128, vgg:0.038, adv:0.003) d_loss: 3.205
+Epoch: [0/100] step: [7/125] time: 109.215s, g_loss(mse:1.185, vgg:0.056, adv:0.001) d_loss: 2.726
+Epoch: [0/100] step: [8/125] time: 109.133s, g_loss(mse:1.222, vgg:0.040, adv:0.001) d_loss: 3.231
+Epoch: [0/100] step: [9/125] time: 109.196s, g_loss(mse:1.000, vgg:0.059, adv:0.000) d_loss: 3.968
+Epoch: [0/100] step: [10/125] time: 109.334s, g_loss(mse:1.201, vgg:0.036, adv:0.001) d_loss: 4.440
+Epoch: [0/100] step: [11/125] time: 109.029s, g_loss(mse:1.371, vgg:0.048, adv:0.001) d_loss: 3.672
+Epoch: [0/100] step: [12/125] time: 109.407s, g_loss(mse:1.169, vgg:0.049, adv:0.001) d_loss: 3.297
+Epoch: [0/100] step: [13/125] time: 109.388s, g_loss(mse:0.893, vgg:0.051, adv:0.002) d_loss: 2.137
+Epoch: [0/100] step: [14/125] time: 109.604s, g_loss(mse:1.126, vgg:0.043, adv:0.002) d_loss: 3.082
+Epoch: [0/100] step: [15/125] time: 109.697s, g_loss(mse:1.207, vgg:0.050, adv:0.003) d_loss: 3.223
+Epoch: [0/100] step: [16/125] time: 109.554s, g_loss(mse:1.114, vgg:0.039, adv:0.002) d_loss: 2.957
+Epoch: [0/100] step: [17/125] time: 109.321s, g_loss(mse:1.071, vgg:0.046, adv:0.001) d_loss: 2.881
+Epoch: [0/100] step: [18/125] time: 109.497s, g_loss(mse:1.365, vgg:0.035, adv:0.001) d_loss: 2.244
+Epoch: [0/100] step: [19/125] time: 109.082s, g_loss(mse:1.109, vgg:0.046, adv:0.000) d_loss: 2.990
+Epoch: [0/100] step: [20/125] time: 108.971s, g_loss(mse:1.306, vgg:0.050, adv:0.001) d_loss: 2.434
+Epoch: [0/100] step: [21/125] time: 109.317s, g_loss(mse:1.498, vgg:0.048, adv:0.001) d_loss: 2.013
+Epoch: [0/100] step: [22/125] time: 109.283s, g_loss(mse:1.072, vgg:0.045, adv:0.001) d_loss: 2.281
+Epoch: [0/100] step: [23/125] time: 109.183s, g_loss(mse:1.017, vgg:0.046, adv:0.001) d_loss: 2.211
+Epoch: [0/100] step: [24/125] time: 109.127s, g_loss(mse:1.095, vgg:0.058, adv:0.003) d_loss: 3.847
+Epoch: [0/100] step: [25/125] time: 108.921s, g_loss(mse:0.983, vgg:0.051, adv:0.001) d_loss: 2.254
+Epoch: [0/100] step: [26/125] time: 109.111s, g_loss(mse:1.177, vgg:0.043, adv:0.002) d_loss: 3.096
+Epoch: [0/100] step: [27/125] time: 109.432s, g_loss(mse:1.134, vgg:0.057, adv:0.002) d_loss: 2.921
+Epoch: [0/100] step: [28/125] time: 108.975s, g_loss(mse:1.466, vgg:0.050, adv:0.001) d_loss: 2.112
+Epoch: [0/100] step: [29/125] time: 109.242s, g_loss(mse:1.368, vgg:0.037, adv:0.001) d_loss: 2.112
+Epoch: [0/100] step: [30/125] time: 108.782s, g_loss(mse:1.033, vgg:0.045, adv:0.001) d_loss: 3.354
+Epoch: [0/100] step: [31/125] time: 109.346s, g_loss(mse:1.300, vgg:0.047, adv:0.001) d_loss: 2.509
+Epoch: [0/100] step: [32/125] time: 109.358s, g_loss(mse:1.420, vgg:0.051, adv:0.001) d_loss: 2.470
+Epoch: [0/100] step: [33/125] time: 109.148s, g_loss(mse:1.216, vgg:0.032, adv:0.001) d_loss: 2.602
+Epoch: [0/100] step: [34/125] time: 109.436s, g_loss(mse:1.221, vgg:0.032, adv:0.001) d_loss: 1.958
+Epoch: [0/100] step: [35/125] time: 109.614s, g_loss(mse:1.302, vgg:0.032, adv:0.002) d_loss: 2.376
+Epoch: [0/100] step: [36/125] time: 109.063s, g_loss(mse:1.220, vgg:0.059, adv:0.001) d_loss: 2.772
+Epoch: [0/100] step: [37/125] time: 108.878s, g_loss(mse:1.260, vgg:0.024, adv:0.001) d_loss: 2.563
+Epoch: [0/100] step: [38/125] time: 109.312s, g_loss(mse:1.017, vgg:0.046, adv:0.001) d_loss: 2.437
+Epoch: [0/100] step: [39/125] time: 109.352s, g_loss(mse:1.219, vgg:0.053, adv:0.001) d_loss: 2.670
+Epoch: [0/100] step: [40/125] time: 109.000s, g_loss(mse:1.179, vgg:0.042, adv:0.001) d_loss: 2.149
+Epoch: [0/100] step: [41/125] time: 108.943s, g_loss(mse:0.940, vgg:0.045, adv:0.001) d_loss: 2.192
+Epoch: [0/100] step: [42/125] time: 109.147s, g_loss(mse:0.968, vgg:0.044, adv:0.001) d_loss: 1.892
+Epoch: [0/100] step: [43/125] time: 108.879s, g_loss(mse:1.113, vgg:0.051, adv:0.002) d_loss: 2.616
+Epoch: [0/100] step: [44/125] time: 109.207s, g_loss(mse:1.380, vgg:0.033, adv:0.001) d_loss: 2.097
+Epoch: [0/100] step: [45/125] time: 109.131s, g_loss(mse:1.178, vgg:0.060, adv:0.002) d_loss: 2.589
+Epoch: [0/100] step: [46/125] time: 109.022s, g_loss(mse:1.030, vgg:0.044, adv:0.001) d_loss: 2.769
+Epoch: [0/100] step: [47/125] time: 108.592s, g_loss(mse:1.175, vgg:0.030, adv:0.001) d_loss: 2.945
+Epoch: [0/100] step: [48/125] time: 108.818s, g_loss(mse:1.337, vgg:0.041, adv:0.001) d_loss: 2.501
+Epoch: [0/100] step: [49/125] time: 109.050s, g_loss(mse:1.140, vgg:0.046, adv:0.002) d_loss: 2.616
+Epoch: [1/100] step: [0/125] time: 109.154s, g_loss(mse:1.177, vgg:0.047, adv:0.001) d_loss: 2.941
+Epoch: [1/100] step: [1/125] time: 108.953s, g_loss(mse:1.135, vgg:0.053, adv:0.001) d_loss: 2.501
+Epoch: [1/100] step: [2/125] time: 109.009s, g_loss(mse:1.099, vgg:0.053, adv:0.002) d_loss: 2.394
+Epoch: [1/100] step: [3/125] time: 108.283s, g_loss(mse:0.842, vgg:0.043, adv:0.001) d_loss: 2.707
+Epoch: [1/100] step: [4/125] time: 109.243s, g_loss(mse:1.061, vgg:0.053, adv:0.001) d_loss: 2.139
+Epoch: [1/100] step: [5/125] time: 109.048s, g_loss(mse:1.206, vgg:0.057, adv:0.002) d_loss: 2.941
+Epoch: [1/100] step: [6/125] time: 108.500s, g_loss(mse:1.176, vgg:0.038, adv:0.002) d_loss: 2.603
+Epoch: [1/100] step: [7/125] time: 109.023s, g_loss(mse:1.317, vgg:0.054, adv:0.001) d_loss: 1.860
+Epoch: [1/100] step: [8/125] time: 109.008s, g_loss(mse:1.166, vgg:0.042, adv:0.001) d_loss: 2.165
+Epoch: [1/100] step: [9/125] time: 109.317s, g_loss(mse:1.169, vgg:0.038, adv:0.001) d_loss: 2.202
+Epoch: [1/100] step: [10/125] time: 108.548s, g_loss(mse:1.155, vgg:0.033, adv:0.001) d_loss: 2.097
+Epoch: [1/100] step: [11/125] time: 109.018s, g_loss(mse:1.044, vgg:0.045, adv:0.001) d_loss: 2.659
+Epoch: [1/100] step: [12/125] time: 108.505s, g_loss(mse:1.005, vgg:0.056, adv:0.001) d_loss: 2.290
+Epoch: [1/100] step: [13/125] time: 109.184s, g_loss(mse:1.219, vgg:0.032, adv:0.001) d_loss: 2.253
+Epoch: [1/100] step: [14/125] time: 109.287s, g_loss(mse:1.224, vgg:0.048, adv:0.001) d_loss: 1.862
+Epoch: [1/100] step: [15/125] time: 108.823s, g_loss(mse:1.048, vgg:0.042, adv:0.001) d_loss: 1.688
+Epoch: [1/100] step: [16/125] time: 108.687s, g_loss(mse:1.088, vgg:0.053, adv:0.001) d_loss: 2.310
+Epoch: [1/100] step: [17/125] time: 109.020s, g_loss(mse:1.065, vgg:0.033, adv:0.001) d_loss: 2.136
+Epoch: [1/100] step: [18/125] time: 108.798s, g_loss(mse:0.929, vgg:0.024, adv:0.001) d_loss: 2.306
+Epoch: [1/100] step: [19/125] time: 108.747s, g_loss(mse:1.432, vgg:0.045, adv:0.001) d_loss: 2.114
+Epoch: [1/100] step: [20/125] time: 108.271s, g_loss(mse:1.136, vgg:0.042, adv:0.002) d_loss: 2.441
+Epoch: [1/100] step: [21/125] time: 108.989s, g_loss(mse:1.136, vgg:0.037, adv:0.001) d_loss: 1.614
+Epoch: [1/100] step: [22/125] time: 108.600s, g_loss(mse:1.219, vgg:0.059, adv:0.002) d_loss: 2.164
+Epoch: [1/100] step: [23/125] time: 108.665s, g_loss(mse:0.996, vgg:0.040, adv:0.001) d_loss: 1.903
+Epoch: [1/100] step: [24/125] time: 109.163s, g_loss(mse:1.342, vgg:0.045, adv:0.001) d_loss: 1.951
+Epoch: [1/100] step: [25/125] time: 109.014s, g_loss(mse:0.959, vgg:0.038, adv:0.001) d_loss: 2.273
+Epoch: [1/100] step: [26/125] time: 108.751s, g_loss(mse:1.291, vgg:0.048, adv:0.001) d_loss: 2.542
+Epoch: [1/100] step: [27/125] time: 108.561s, g_loss(mse:1.002, vgg:0.056, adv:0.001) d_loss: 2.228
+Epoch: [1/100] step: [28/125] time: 109.232s, g_loss(mse:0.972, vgg:0.039, adv:0.001) d_loss: 1.648
+Epoch: [1/100] step: [29/125] time: 109.259s, g_loss(mse:1.022, vgg:0.045, adv:0.002) d_loss: 1.803
+Epoch: [1/100] step: [30/125] time: 108.594s, g_loss(mse:1.339, vgg:0.047, adv:0.001) d_loss: 1.970
+Epoch: [1/100] step: [31/125] time: 109.020s, g_loss(mse:1.114, vgg:0.062, adv:0.001) d_loss: 1.742
+Epoch: [1/100] step: [32/125] time: 108.951s, g_loss(mse:1.106, vgg:0.039, adv:0.001) d_loss: 1.884
+Epoch: [1/100] step: [33/125] time: 109.050s, g_loss(mse:1.374, vgg:0.060, adv:0.001) d_loss: 1.777
+Epoch: [1/100] step: [34/125] time: 108.821s, g_loss(mse:1.277, vgg:0.048, adv:0.001) d_loss: 2.025
+Epoch: [1/100] step: [35/125] time: 109.284s, g_loss(mse:1.305, vgg:0.036, adv:0.001) d_loss: 2.247
+Epoch: [1/100] step: [36/125] time: 108.994s, g_loss(mse:1.247, vgg:0.042, adv:0.001) d_loss: 1.820
+Epoch: [1/100] step: [37/125] time: 108.810s, g_loss(mse:1.029, vgg:0.043, adv:0.002) d_loss: 2.184
+Epoch: [1/100] step: [38/125] time: 109.048s, g_loss(mse:1.184, vgg:0.034, adv:0.001) d_loss: 1.768
+Epoch: [1/100] step: [39/125] time: 109.164s, g_loss(mse:1.146, vgg:0.048, adv:0.001) d_loss: 1.797
+Epoch: [1/100] step: [40/125] time: 109.065s, g_loss(mse:1.286, vgg:0.054, adv:0.001) d_loss: 1.666
+Epoch: [1/100] step: [41/125] time: 108.934s, g_loss(mse:1.185, vgg:0.034, adv:0.001) d_loss: 2.035
+Epoch: [1/100] step: [42/125] time: 108.890s, g_loss(mse:1.279, vgg:0.040, adv:0.001) d_loss: 1.689
+Epoch: [1/100] step: [43/125] time: 108.611s, g_loss(mse:1.464, vgg:0.057, adv:0.001) d_loss: 1.617
+Epoch: [1/100] step: [44/125] time: 108.885s, g_loss(mse:1.195, vgg:0.057, adv:0.001) d_loss: 2.195
+Epoch: [1/100] step: [45/125] time: 108.833s, g_loss(mse:1.110, vgg:0.039, adv:0.001) d_loss: 2.272
+Epoch: [1/100] step: [46/125] time: 108.998s, g_loss(mse:0.959, vgg:0.054, adv:0.001) d_loss: 1.686
+Epoch: [1/100] step: [47/125] time: 108.851s, g_loss(mse:1.026, vgg:0.042, adv:0.001) d_loss: 1.658
+Epoch: [1/100] step: [48/125] time: 109.041s, g_loss(mse:1.116, vgg:0.066, adv:0.001) d_loss: 1.783
+Epoch: [1/100] step: [49/125] time: 108.863s, g_loss(mse:1.104, vgg:0.034, adv:0.001) d_loss: 1.989
+Epoch: [2/100] step: [0/125] time: 109.114s, g_loss(mse:1.456, vgg:0.025, adv:0.001) d_loss: 1.580
+Epoch: [2/100] step: [1/125] time: 108.877s, g_loss(mse:1.109, vgg:0.053, adv:0.001) d_loss: 1.610
+Epoch: [2/100] step: [2/125] time: 108.841s, g_loss(mse:1.264, vgg:0.048, adv:0.001) d_loss: 1.867
+Epoch: [2/100] step: [3/125] time: 109.258s, g_loss(mse:1.103, vgg:0.032, adv:0.001) d_loss: 1.926
+Epoch: [2/100] step: [4/125] time: 108.972s, g_loss(mse:1.203, vgg:0.059, adv:0.001) d_loss: 1.701
+Epoch: [2/100] step: [5/125] time: 108.728s, g_loss(mse:1.071, vgg:0.033, adv:0.001) d_loss: 1.896
+Epoch: [2/100] step: [6/125] time: 109.330s, g_loss(mse:1.124, vgg:0.037, adv:0.001) d_loss: 1.800
+Epoch: [2/100] step: [7/125] time: 108.883s, g_loss(mse:1.216, vgg:0.029, adv:0.001) d_loss: 1.663
+Epoch: [2/100] step: [8/125] time: 109.082s, g_loss(mse:1.255, vgg:0.037, adv:0.001) d_loss: 1.660
+Epoch: [2/100] step: [9/125] time: 108.961s, g_loss(mse:1.300, vgg:0.047, adv:0.001) d_loss: 1.629
+Epoch: [2/100] step: [10/125] time: 108.745s, g_loss(mse:1.367, vgg:0.040, adv:0.001) d_loss: 1.644
+Epoch: [2/100] step: [11/125] time: 109.114s, g_loss(mse:1.204, vgg:0.042, adv:0.001) d_loss: 1.730
+Epoch: [2/100] step: [12/125] time: 108.803s, g_loss(mse:0.892, vgg:0.048, adv:0.001) d_loss: 1.714
+Epoch: [2/100] step: [13/125] time: 108.761s, g_loss(mse:1.064, vgg:0.045, adv:0.001) d_loss: 1.791
+Epoch: [2/100] step: [14/125] time: 108.985s, g_loss(mse:1.209, vgg:0.055, adv:0.000) d_loss: 1.838
+Epoch: [2/100] step: [15/125] time: 108.780s, g_loss(mse:1.183, vgg:0.052, adv:0.001) d_loss: 1.632
+Epoch: [2/100] step: [16/125] time: 109.155s, g_loss(mse:1.197, vgg:0.047, adv:0.001) d_loss: 1.612
+Epoch: [2/100] step: [17/125] time: 108.825s, g_loss(mse:1.081, vgg:0.041, adv:0.001) d_loss: 1.969
+Epoch: [2/100] step: [18/125] time: 108.746s, g_loss(mse:1.026, vgg:0.053, adv:0.001) d_loss: 2.110
+Epoch: [2/100] step: [19/125] time: 109.030s, g_loss(mse:1.150, vgg:0.042, adv:0.001) d_loss: 1.929
+Epoch: [2/100] step: [20/125] time: 108.775s, g_loss(mse:1.158, vgg:0.045, adv:0.002) d_loss: 1.910
+Epoch: [2/100] step: [21/125] time: 108.419s, g_loss(mse:1.156, vgg:0.065, adv:0.001) d_loss: 1.679
+Epoch: [2/100] step: [22/125] time: 109.101s, g_loss(mse:1.168, vgg:0.045, adv:0.001) d_loss: 2.004
+Epoch: [2/100] step: [23/125] time: 109.198s, g_loss(mse:0.999, vgg:0.037, adv:0.001) d_loss: 1.960
+Epoch: [2/100] step: [24/125] time: 108.839s, g_loss(mse:1.097, vgg:0.042, adv:0.001) d_loss: 2.018
+Epoch: [2/100] step: [25/125] time: 108.497s, g_loss(mse:1.269, vgg:0.053, adv:0.001) d_loss: 2.074
+Epoch: [2/100] step: [26/125] time: 109.107s, g_loss(mse:1.200, vgg:0.035, adv:0.001) d_loss: 1.741
+Epoch: [2/100] step: [27/125] time: 109.178s, g_loss(mse:1.190, vgg:0.044, adv:0.001) d_loss: 1.843
+Epoch: [2/100] step: [28/125] time: 109.011s, g_loss(mse:1.117, vgg:0.034, adv:0.001) d_loss: 1.941
+Epoch: [2/100] step: [29/125] time: 108.837s, g_loss(mse:1.381, vgg:0.037, adv:0.002) d_loss: 2.472
+Epoch: [2/100] step: [30/125] time: 108.715s, g_loss(mse:1.297, vgg:0.042, adv:0.001) d_loss: 1.812
+Epoch: [2/100] step: [31/125] time: 109.267s, g_loss(mse:1.121, vgg:0.050, adv:0.001) d_loss: 1.526
+Epoch: [2/100] step: [32/125] time: 108.930s, g_loss(mse:1.241, vgg:0.043, adv:0.001) d_loss: 1.845
+Epoch: [2/100] step: [33/125] time: 109.173s, g_loss(mse:1.139, vgg:0.046, adv:0.001) d_loss: 1.694
+Epoch: [2/100] step: [34/125] time: 109.493s, g_loss(mse:1.192, vgg:0.029, adv:0.001) d_loss: 1.904
+Epoch: [2/100] step: [35/125] time: 108.752s, g_loss(mse:1.205, vgg:0.038, adv:0.001) d_loss: 1.884
+Epoch: [2/100] step: [36/125] time: 108.682s, g_loss(mse:1.089, vgg:0.047, adv:0.001) d_loss: 1.776
+Epoch: [2/100] step: [37/125] time: 108.704s, g_loss(mse:1.335, vgg:0.045, adv:0.001) d_loss: 1.817
+Epoch: [2/100] step: [38/125] time: 108.580s, g_loss(mse:1.068, vgg:0.051, adv:0.001) d_loss: 1.566
+Epoch: [2/100] step: [39/125] time: 108.623s, g_loss(mse:1.224, vgg:0.044, adv:0.001) d_loss: 1.611
+Epoch: [2/100] step: [40/125] time: 108.990s, g_loss(mse:1.294, vgg:0.040, adv:0.001) d_loss: 1.919
+Epoch: [2/100] step: [41/125] time: 108.911s, g_loss(mse:1.222, vgg:0.059, adv:0.001) d_loss: 2.028
+Epoch: [2/100] step: [42/125] time: 108.301s, g_loss(mse:1.198, vgg:0.049, adv:0.002) d_loss: 2.431
+Epoch: [2/100] step: [43/125] time: 108.578s, g_loss(mse:1.107, vgg:0.038, adv:0.001) d_loss: 1.857
+Epoch: [2/100] step: [44/125] time: 108.575s, g_loss(mse:1.117, vgg:0.049, adv:0.001) d_loss: 1.986
+Epoch: [2/100] step: [45/125] time: 108.744s, g_loss(mse:1.006, vgg:0.043, adv:0.001) d_loss: 1.526
+Epoch: [2/100] step: [46/125] time: 109.006s, g_loss(mse:1.210, vgg:0.039, adv:0.001) d_loss: 2.265
+Epoch: [2/100] step: [47/125] time: 109.189s, g_loss(mse:1.201, vgg:0.048, adv:0.000) d_loss: 1.867
+Epoch: [2/100] step: [48/125] time: 108.240s, g_loss(mse:1.046, vgg:0.044, adv:0.001) d_loss: 2.007
+Epoch: [2/100] step: [49/125] time: 108.820s, g_loss(mse:1.054, vgg:0.048, adv:0.001) d_loss: 1.860
+Epoch: [3/100] step: [0/125] time: 108.889s, g_loss(mse:1.189, vgg:0.050, adv:0.001) d_loss: 1.624
+Epoch: [3/100] step: [1/125] time: 108.727s, g_loss(mse:1.159, vgg:0.036, adv:0.001) d_loss: 1.861
+Epoch: [3/100] step: [2/125] time: 108.846s, g_loss(mse:1.186, vgg:0.040, adv:0.001) d_loss: 1.940
+Epoch: [3/100] step: [3/125] time: 109.268s, g_loss(mse:1.275, vgg:0.042, adv:0.001) d_loss: 1.641
+Epoch: [3/100] step: [4/125] time: 109.015s, g_loss(mse:1.114, vgg:0.045, adv:0.001) d_loss: 1.392
+Epoch: [3/100] step: [5/125] time: 109.149s, g_loss(mse:1.104, vgg:0.043, adv:0.001) d_loss: 1.843
+Epoch: [3/100] step: [6/125] time: 108.991s, g_loss(mse:1.123, vgg:0.036, adv:0.001) d_loss: 1.988
+Epoch: [3/100] step: [7/125] time: 109.055s, g_loss(mse:1.150, vgg:0.027, adv:0.001) d_loss: 1.720
+Epoch: [3/100] step: [8/125] time: 108.717s, g_loss(mse:1.119, vgg:0.062, adv:0.001) d_loss: 1.663
+Epoch: [3/100] step: [9/125] time: 109.086s, g_loss(mse:1.029, vgg:0.044, adv:0.001) d_loss: 1.581
+Epoch: [3/100] step: [10/125] time: 109.037s, g_loss(mse:1.095, vgg:0.039, adv:0.001) d_loss: 1.578
+Epoch: [3/100] step: [11/125] time: 108.867s, g_loss(mse:1.060, vgg:0.056, adv:0.001) d_loss: 1.842
+Epoch: [3/100] step: [12/125] time: 108.607s, g_loss(mse:1.134, vgg:0.037, adv:0.001) d_loss: 1.812
+Epoch: [3/100] step: [13/125] time: 108.830s, g_loss(mse:1.300, vgg:0.035, adv:0.001) d_loss: 1.519
+Epoch: [3/100] step: [14/125] time: 108.542s, g_loss(mse:1.312, vgg:0.051, adv:0.001) d_loss: 1.690
+Epoch: [3/100] step: [15/125] time: 108.347s, g_loss(mse:1.228, vgg:0.041, adv:0.001) d_loss: 1.564
+Epoch: [3/100] step: [16/125] time: 108.896s, g_loss(mse:1.365, vgg:0.053, adv:0.001) d_loss: 1.975
+Epoch: [3/100] step: [17/125] time: 108.805s, g_loss(mse:1.082, vgg:0.042, adv:0.001) d_loss: 1.737
+Epoch: [3/100] step: [18/125] time: 109.029s, g_loss(mse:1.550, vgg:0.041, adv:0.001) d_loss: 1.659
+Epoch: [3/100] step: [19/125] time: 108.503s, g_loss(mse:1.150, vgg:0.053, adv:0.001) d_loss: 1.508
+Epoch: [3/100] step: [20/125] time: 107.867s, g_loss(mse:1.045, vgg:0.031, adv:0.001) d_loss: 1.903
+Epoch: [3/100] step: [21/125] time: 108.902s, g_loss(mse:1.159, vgg:0.035, adv:0.001) d_loss: 1.696
+Epoch: [3/100] step: [22/125] time: 108.207s, g_loss(mse:1.156, vgg:0.052, adv:0.001) d_loss: 1.698
+Epoch: [3/100] step: [23/125] time: 108.620s, g_loss(mse:1.208, vgg:0.044, adv:0.001) d_loss: 1.771
+Epoch: [3/100] step: [24/125] time: 108.525s, g_loss(mse:1.250, vgg:0.044, adv:0.001) d_loss: 1.859
+Epoch: [3/100] step: [25/125] time: 108.591s, g_loss(mse:1.237, vgg:0.042, adv:0.001) d_loss: 1.495
+Epoch: [3/100] step: [26/125] time: 108.401s, g_loss(mse:1.129, vgg:0.039, adv:0.001) d_loss: 1.612
+Epoch: [3/100] step: [27/125] time: 108.217s, g_loss(mse:1.325, vgg:0.059, adv:0.001) d_loss: 1.928
+Epoch: [3/100] step: [28/125] time: 109.030s, g_loss(mse:1.288, vgg:0.049, adv:0.001) d_loss: 1.905
+Epoch: [3/100] step: [29/125] time: 108.609s, g_loss(mse:1.092, vgg:0.049, adv:0.001) d_loss: 1.706
+Epoch: [3/100] step: [30/125] time: 109.017s, g_loss(mse:1.372, vgg:0.034, adv:0.001) d_loss: 1.820
+Epoch: [3/100] step: [31/125] time: 108.678s, g_loss(mse:0.980, vgg:0.040, adv:0.001) d_loss: 1.568
+Epoch: [3/100] step: [32/125] time: 108.864s, g_loss(mse:0.954, vgg:0.040, adv:0.001) d_loss: 1.562
+Epoch: [3/100] step: [33/125] time: 109.112s, g_loss(mse:1.273, vgg:0.059, adv:0.001) d_loss: 1.476
+Epoch: [3/100] step: [34/125] time: 108.662s, g_loss(mse:1.496, vgg:0.036, adv:0.001) d_loss: 1.764
+Epoch: [3/100] step: [35/125] time: 108.950s, g_loss(mse:0.949, vgg:0.032, adv:0.001) d_loss: 1.729
+Epoch: [3/100] step: [36/125] time: 108.470s, g_loss(mse:1.100, vgg:0.054, adv:0.000) d_loss: 1.782
+Epoch: [3/100] step: [37/125] time: 108.681s, g_loss(mse:1.190, vgg:0.033, adv:0.001) d_loss: 1.586
+Epoch: [3/100] step: [38/125] time: 109.033s, g_loss(mse:0.979, vgg:0.043, adv:0.001) d_loss: 1.636
+Epoch: [3/100] step: [39/125] time: 108.687s, g_loss(mse:1.072, vgg:0.033, adv:0.001) d_loss: 1.943
+Epoch: [3/100] step: [40/125] time: 108.946s, g_loss(mse:1.349, vgg:0.035, adv:0.001) d_loss: 1.661
+Epoch: [3/100] step: [41/125] time: 108.482s, g_loss(mse:1.174, vgg:0.030, adv:0.001) d_loss: 1.590
+Epoch: [3/100] step: [42/125] time: 108.658s, g_loss(mse:1.194, vgg:0.047, adv:0.001) d_loss: 1.669
+Epoch: [3/100] step: [43/125] time: 108.834s, g_loss(mse:1.365, vgg:0.039, adv:0.001) d_loss: 1.647
+Epoch: [3/100] step: [44/125] time: 108.700s, g_loss(mse:1.474, vgg:0.050, adv:0.001) d_loss: 1.912
+Epoch: [3/100] step: [45/125] time: 109.145s, g_loss(mse:0.994, vgg:0.038, adv:0.001) d_loss: 1.655
+Epoch: [3/100] step: [46/125] time: 109.046s, g_loss(mse:1.230, vgg:0.048, adv:0.001) d_loss: 1.573
+Epoch: [3/100] step: [47/125] time: 109.227s, g_loss(mse:1.387, vgg:0.043, adv:0.001) d_loss: 1.784
+Epoch: [3/100] step: [48/125] time: 109.182s, g_loss(mse:0.941, vgg:0.041, adv:0.001) d_loss: 1.956
+Epoch: [3/100] step: [49/125] time: 108.646s, g_loss(mse:1.099, vgg:0.039, adv:0.001) d_loss: 1.625
+Epoch: [4/100] step: [0/125] time: 108.839s, g_loss(mse:1.027, vgg:0.042, adv:0.001) d_loss: 1.708
+Epoch: [4/100] step: [1/125] time: 108.515s, g_loss(mse:1.000, vgg:0.040, adv:0.001) d_loss: 1.581
+Epoch: [4/100] step: [2/125] time: 108.651s, g_loss(mse:1.162, vgg:0.028, adv:0.001) d_loss: 1.698
+Epoch: [4/100] step: [3/125] time: 108.768s, g_loss(mse:1.240, vgg:0.041, adv:0.001) d_loss: 1.494
+Epoch: [4/100] step: [4/125] time: 108.411s, g_loss(mse:1.271, vgg:0.036, adv:0.001) d_loss: 1.536
+Epoch: [4/100] step: [5/125] time: 109.037s, g_loss(mse:1.195, vgg:0.037, adv:0.001) d_loss: 1.697
+Epoch: [4/100] step: [6/125] time: 108.464s, g_loss(mse:0.903, vgg:0.044, adv:0.001) d_loss: 1.651
+Epoch: [4/100] step: [7/125] time: 108.592s, g_loss(mse:1.024, vgg:0.037, adv:0.001) d_loss: 1.615
+Epoch: [4/100] step: [8/125] time: 108.856s, g_loss(mse:1.000, vgg:0.051, adv:0.000) d_loss: 1.824
+Epoch: [4/100] step: [9/125] time: 109.153s, g_loss(mse:1.165, vgg:0.051, adv:0.001) d_loss: 1.735
+Epoch: [4/100] step: [10/125] time: 108.820s, g_loss(mse:1.183, vgg:0.068, adv:0.001) d_loss: 1.756
+Epoch: [4/100] step: [11/125] time: 109.138s, g_loss(mse:1.370, vgg:0.042, adv:0.001) d_loss: 1.453
+Epoch: [4/100] step: [12/125] time: 109.066s, g_loss(mse:1.228, vgg:0.050, adv:0.001) d_loss: 1.433
+Epoch: [4/100] step: [13/125] time: 108.802s, g_loss(mse:1.174, vgg:0.042, adv:0.001) d_loss: 1.588
+Epoch: [4/100] step: [14/125] time: 109.308s, g_loss(mse:0.971, vgg:0.037, adv:0.001) d_loss: 1.659
+Epoch: [4/100] step: [15/125] time: 108.854s, g_loss(mse:1.020, vgg:0.044, adv:0.001) d_loss: 1.579
+Epoch: [4/100] step: [16/125] time: 108.700s, g_loss(mse:0.961, vgg:0.040, adv:0.001) d_loss: 1.499
+Epoch: [4/100] step: [17/125] time: 108.808s, g_loss(mse:1.240, vgg:0.034, adv:0.001) d_loss: 1.424
+Epoch: [4/100] step: [18/125] time: 109.014s, g_loss(mse:1.168, vgg:0.037, adv:0.001) d_loss: 1.593
+Epoch: [4/100] step: [19/125] time: 108.927s, g_loss(mse:1.168, vgg:0.035, adv:0.001) d_loss: 1.616
+Epoch: [4/100] step: [20/125] time: 109.034s, g_loss(mse:1.237, vgg:0.051, adv:0.001) d_loss: 1.420
+Epoch: [4/100] step: [21/125] time: 108.851s, g_loss(mse:1.126, vgg:0.064, adv:0.001) d_loss: 1.625
+Epoch: [4/100] step: [22/125] time: 108.995s, g_loss(mse:1.137, vgg:0.061, adv:0.001) d_loss: 1.325
+Epoch: [4/100] step: [23/125] time: 108.761s, g_loss(mse:1.057, vgg:0.031, adv:0.001) d_loss: 1.580
+Epoch: [4/100] step: [24/125] time: 108.809s, g_loss(mse:1.311, vgg:0.048, adv:0.001) d_loss: 1.501
+Epoch: [4/100] step: [25/125] time: 109.036s, g_loss(mse:1.339, vgg:0.036, adv:0.001) d_loss: 1.616
+Epoch: [4/100] step: [26/125] time: 108.669s, g_loss(mse:1.529, vgg:0.037, adv:0.001) d_loss: 1.676
+Epoch: [4/100] step: [27/125] time: 108.846s, g_loss(mse:1.194, vgg:0.046, adv:0.001) d_loss: 1.561
+Epoch: [4/100] step: [28/125] time: 109.046s, g_loss(mse:1.504, vgg:0.040, adv:0.001) d_loss: 1.544
+Epoch: [4/100] step: [29/125] time: 109.357s, g_loss(mse:0.939, vgg:0.044, adv:0.001) d_loss: 1.498
+Epoch: [4/100] step: [30/125] time: 108.586s, g_loss(mse:1.060, vgg:0.050, adv:0.001) d_loss: 1.597
+Epoch: [4/100] step: [31/125] time: 109.141s, g_loss(mse:1.154, vgg:0.035, adv:0.001) d_loss: 1.468
+Epoch: [4/100] step: [32/125] time: 108.735s, g_loss(mse:1.201, vgg:0.040, adv:0.001) d_loss: 1.391
+Epoch: [4/100] step: [33/125] time: 108.549s, g_loss(mse:1.356, vgg:0.044, adv:0.001) d_loss: 1.378
+Epoch: [4/100] step: [34/125] time: 108.451s, g_loss(mse:1.472, vgg:0.032, adv:0.001) d_loss: 1.496
+Epoch: [4/100] step: [35/125] time: 108.534s, g_loss(mse:1.035, vgg:0.043, adv:0.001) d_loss: 1.447
+Epoch: [4/100] step: [36/125] time: 108.932s, g_loss(mse:1.216, vgg:0.055, adv:0.001) d_loss: 1.510
+Epoch: [4/100] step: [37/125] time: 108.816s, g_loss(mse:1.147, vgg:0.034, adv:0.001) d_loss: 1.444
+Epoch: [4/100] step: [38/125] time: 109.078s, g_loss(mse:1.183, vgg:0.054, adv:0.001) d_loss: 1.506
+Epoch: [4/100] step: [39/125] time: 108.653s, g_loss(mse:1.199, vgg:0.044, adv:0.001) d_loss: 1.479
+Epoch: [4/100] step: [40/125] time: 108.633s, g_loss(mse:1.135, vgg:0.034, adv:0.001) d_loss: 1.638
+Epoch: [4/100] step: [41/125] time: 108.963s, g_loss(mse:1.113, vgg:0.046, adv:0.001) d_loss: 1.516
+Epoch: [4/100] step: [42/125] time: 108.887s, g_loss(mse:1.333, vgg:0.046, adv:0.001) d_loss: 1.388
+Epoch: [4/100] step: [43/125] time: 109.082s, g_loss(mse:1.116, vgg:0.035, adv:0.001) d_loss: 1.401
+Epoch: [4/100] step: [44/125] time: 108.908s, g_loss(mse:1.192, vgg:0.038, adv:0.001) d_loss: 1.373
+Epoch: [4/100] step: [45/125] time: 108.672s, g_loss(mse:1.285, vgg:0.035, adv:0.001) d_loss: 1.513
+Epoch: [4/100] step: [46/125] time: 108.905s, g_loss(mse:1.339, vgg:0.046, adv:0.001) d_loss: 1.515
+Epoch: [4/100] step: [47/125] time: 108.739s, g_loss(mse:1.042, vgg:0.037, adv:0.001) d_loss: 1.539
+Epoch: [4/100] step: [48/125] time: 108.723s, g_loss(mse:1.031, vgg:0.050, adv:0.001) d_loss: 1.389
+Epoch: [4/100] step: [49/125] time: 109.115s, g_loss(mse:1.079, vgg:0.052, adv:0.001) d_loss: 1.405
+Epoch: [5/100] step: [0/125] time: 109.046s, g_loss(mse:1.121, vgg:0.046, adv:0.001) d_loss: 1.431
+Epoch: [5/100] step: [1/125] time: 109.016s, g_loss(mse:1.353, vgg:0.037, adv:0.001) d_loss: 1.461
+Epoch: [5/100] step: [2/125] time: 108.813s, g_loss(mse:0.946, vgg:0.044, adv:0.001) d_loss: 1.612
+Epoch: [5/100] step: [3/125] time: 108.794s, g_loss(mse:1.230, vgg:0.038, adv:0.001) d_loss: 1.459
+Epoch: [5/100] step: [4/125] time: 108.772s, g_loss(mse:1.384, vgg:0.051, adv:0.001) d_loss: 1.479
+Epoch: [5/100] step: [5/125] time: 109.088s, g_loss(mse:1.182, vgg:0.045, adv:0.001) d_loss: 1.493
+Epoch: [5/100] step: [6/125] time: 109.215s, g_loss(mse:1.075, vgg:0.051, adv:0.001) d_loss: 1.742
+Epoch: [5/100] step: [7/125] time: 109.096s, g_loss(mse:1.234, vgg:0.042, adv:0.001) d_loss: 1.376
+Epoch: [5/100] step: [8/125] time: 109.113s, g_loss(mse:1.257, vgg:0.035, adv:0.001) d_loss: 1.495
+Epoch: [5/100] step: [9/125] time: 108.958s, g_loss(mse:1.060, vgg:0.037, adv:0.001) d_loss: 1.406
+Epoch: [5/100] step: [10/125] time: 109.167s, g_loss(mse:1.426, vgg:0.036, adv:0.001) d_loss: 1.595
+Epoch: [5/100] step: [11/125] time: 108.707s, g_loss(mse:1.204, vgg:0.042, adv:0.001) d_loss: 1.506
+Epoch: [5/100] step: [12/125] time: 109.087s, g_loss(mse:1.084, vgg:0.049, adv:0.002) d_loss: 1.706
+Epoch: [5/100] step: [13/125] time: 109.026s, g_loss(mse:1.210, vgg:0.047, adv:0.001) d_loss: 1.399
+Epoch: [5/100] step: [14/125] time: 108.564s, g_loss(mse:1.060, vgg:0.027, adv:0.001) d_loss: 1.551
+Epoch: [5/100] step: [15/125] time: 108.726s, g_loss(mse:1.064, vgg:0.029, adv:0.001) d_loss: 1.599
+Epoch: [5/100] step: [16/125] time: 109.306s, g_loss(mse:1.334, vgg:0.050, adv:0.001) d_loss: 1.851
+Epoch: [5/100] step: [17/125] time: 108.501s, g_loss(mse:1.018, vgg:0.055, adv:0.001) d_loss: 1.719
+Epoch: [5/100] step: [18/125] time: 108.392s, g_loss(mse:0.948, vgg:0.043, adv:0.001) d_loss: 1.651
+Epoch: [5/100] step: [19/125] time: 108.724s, g_loss(mse:1.128, vgg:0.056, adv:0.000) d_loss: 2.140
+Epoch: [5/100] step: [20/125] time: 108.952s, g_loss(mse:1.360, vgg:0.041, adv:0.001) d_loss: 1.639
+Epoch: [5/100] step: [21/125] time: 108.550s, g_loss(mse:0.999, vgg:0.049, adv:0.001) d_loss: 1.550
+Epoch: [5/100] step: [22/125] time: 108.903s, g_loss(mse:1.216, vgg:0.038, adv:0.001) d_loss: 1.590
+Epoch: [5/100] step: [23/125] time: 108.878s, g_loss(mse:0.999, vgg:0.032, adv:0.001) d_loss: 1.560
+Epoch: [5/100] step: [24/125] time: 108.932s, g_loss(mse:1.133, vgg:0.032, adv:0.001) d_loss: 1.896
+Epoch: [5/100] step: [25/125] time: 109.187s, g_loss(mse:1.372, vgg:0.033, adv:0.001) d_loss: 1.596
+Epoch: [5/100] step: [26/125] time: 108.787s, g_loss(mse:1.194, vgg:0.031, adv:0.001) d_loss: 1.727
+Epoch: [5/100] step: [27/125] time: 109.164s, g_loss(mse:1.110, vgg:0.045, adv:0.001) d_loss: 1.610
+Epoch: [5/100] step: [28/125] time: 108.471s, g_loss(mse:1.220, vgg:0.046, adv:0.001) d_loss: 1.529
+Epoch: [5/100] step: [29/125] time: 108.961s, g_loss(mse:1.265, vgg:0.049, adv:0.001) d_loss: 1.578
+Epoch: [5/100] step: [30/125] time: 108.761s, g_loss(mse:1.116, vgg:0.046, adv:0.001) d_loss: 1.709
+Epoch: [5/100] step: [31/125] time: 108.851s, g_loss(mse:1.228, vgg:0.041, adv:0.001) d_loss: 1.536
+Epoch: [5/100] step: [32/125] time: 108.945s, g_loss(mse:1.501, vgg:0.040, adv:0.001) d_loss: 1.711
+Epoch: [5/100] step: [33/125] time: 109.048s, g_loss(mse:1.226, vgg:0.037, adv:0.001) d_loss: 1.505
+Epoch: [5/100] step: [34/125] time: 108.381s, g_loss(mse:0.956, vgg:0.039, adv:0.001) d_loss: 1.567
+Epoch: [5/100] step: [35/125] time: 109.000s, g_loss(mse:1.193, vgg:0.045, adv:0.001) d_loss: 1.805
+Epoch: [5/100] step: [36/125] time: 108.668s, g_loss(mse:1.346, vgg:0.050, adv:0.001) d_loss: 1.773
+Epoch: [5/100] step: [37/125] time: 109.077s, g_loss(mse:1.188, vgg:0.050, adv:0.001) d_loss: 1.665
+Epoch: [5/100] step: [38/125] time: 109.025s, g_loss(mse:1.293, vgg:0.047, adv:0.001) d_loss: 1.524
+Epoch: [5/100] step: [39/125] time: 109.336s, g_loss(mse:1.088, vgg:0.049, adv:0.001) d_loss: 1.776
+Epoch: [5/100] step: [40/125] time: 109.012s, g_loss(mse:1.085, vgg:0.031, adv:0.001) d_loss: 1.725
+Epoch: [5/100] step: [41/125] time: 109.205s, g_loss(mse:1.135, vgg:0.044, adv:0.001) d_loss: 1.617
+Epoch: [5/100] step: [42/125] time: 108.436s, g_loss(mse:1.120, vgg:0.048, adv:0.001) d_loss: 1.461
+Epoch: [5/100] step: [43/125] time: 108.980s, g_loss(mse:1.137, vgg:0.045, adv:0.001) d_loss: 1.489
+Epoch: [5/100] step: [44/125] time: 108.862s, g_loss(mse:1.266, vgg:0.044, adv:0.001) d_loss: 1.445
+Epoch: [5/100] step: [45/125] time: 108.281s, g_loss(mse:1.266, vgg:0.039, adv:0.001) d_loss: 1.473
+Epoch: [5/100] step: [46/125] time: 108.662s, g_loss(mse:1.152, vgg:0.042, adv:0.001) d_loss: 1.484
+Epoch: [5/100] step: [47/125] time: 108.816s, g_loss(mse:1.198, vgg:0.039, adv:0.001) d_loss: 1.364
+Epoch: [5/100] step: [48/125] time: 108.898s, g_loss(mse:1.099, vgg:0.044, adv:0.001) d_loss: 1.436
+Epoch: [5/100] step: [49/125] time: 108.523s, g_loss(mse:0.975, vgg:0.046, adv:0.001) d_loss: 1.467
+Epoch: [6/100] step: [0/125] time: 108.671s, g_loss(mse:1.514, vgg:0.036, adv:0.001) d_loss: 1.531
+Epoch: [6/100] step: [1/125] time: 108.860s, g_loss(mse:1.169, vgg:0.034, adv:0.001) d_loss: 1.365
+Epoch: [6/100] step: [2/125] time: 108.661s, g_loss(mse:1.288, vgg:0.046, adv:0.001) d_loss: 1.465
+Epoch: [6/100] step: [3/125] time: 109.106s, g_loss(mse:1.276, vgg:0.039, adv:0.001) d_loss: 1.498
+Epoch: [6/100] step: [4/125] time: 109.107s, g_loss(mse:1.099, vgg:0.034, adv:0.001) d_loss: 1.572
+Epoch: [6/100] step: [5/125] time: 108.719s, g_loss(mse:1.274, vgg:0.053, adv:0.001) d_loss: 1.672
+Epoch: [6/100] step: [6/125] time: 108.517s, g_loss(mse:1.012, vgg:0.051, adv:0.001) d_loss: 1.549
+Epoch: [6/100] step: [7/125] time: 108.651s, g_loss(mse:1.187, vgg:0.049, adv:0.001) d_loss: 1.428
+Epoch: [6/100] step: [8/125] time: 109.081s, g_loss(mse:1.261, vgg:0.051, adv:0.001) d_loss: 1.364
+Epoch: [6/100] step: [9/125] time: 108.747s, g_loss(mse:1.078, vgg:0.035, adv:0.001) d_loss: 1.404
+Epoch: [6/100] step: [10/125] time: 109.022s, g_loss(mse:1.138, vgg:0.038, adv:0.000) d_loss: 1.733
+Epoch: [6/100] step: [11/125] time: 109.033s, g_loss(mse:1.083, vgg:0.037, adv:0.001) d_loss: 1.439
+Epoch: [6/100] step: [12/125] time: 109.049s, g_loss(mse:1.144, vgg:0.043, adv:0.001) d_loss: 1.304
+Epoch: [6/100] step: [13/125] time: 109.203s, g_loss(mse:1.173, vgg:0.035, adv:0.001) d_loss: 1.412
+Epoch: [6/100] step: [14/125] time: 109.095s, g_loss(mse:1.231, vgg:0.036, adv:0.001) d_loss: 1.410
+Epoch: [6/100] step: [15/125] time: 108.788s, g_loss(mse:1.186, vgg:0.053, adv:0.001) d_loss: 1.377
+Epoch: [6/100] step: [16/125] time: 108.999s, g_loss(mse:1.120, vgg:0.031, adv:0.001) d_loss: 1.574
+Epoch: [6/100] step: [17/125] time: 108.852s, g_loss(mse:1.077, vgg:0.035, adv:0.001) d_loss: 1.408
+Epoch: [6/100] step: [18/125] time: 108.756s, g_loss(mse:1.254, vgg:0.039, adv:0.001) d_loss: 1.382
+Epoch: [6/100] step: [19/125] time: 108.712s, g_loss(mse:1.366, vgg:0.040, adv:0.001) d_loss: 1.325
+Epoch: [6/100] step: [20/125] time: 109.421s, g_loss(mse:1.066, vgg:0.048, adv:0.001) d_loss: 1.326
+Epoch: [6/100] step: [21/125] time: 108.705s, g_loss(mse:0.996, vgg:0.033, adv:0.000) d_loss: 1.783
+Epoch: [6/100] step: [22/125] time: 109.241s, g_loss(mse:1.276, vgg:0.047, adv:0.001) d_loss: 1.319
+Epoch: [6/100] step: [23/125] time: 109.246s, g_loss(mse:1.168, vgg:0.042, adv:0.001) d_loss: 1.221
+Epoch: [6/100] step: [24/125] time: 109.003s, g_loss(mse:1.085, vgg:0.038, adv:0.001) d_loss: 1.670
+Epoch: [6/100] step: [25/125] time: 109.043s, g_loss(mse:1.308, vgg:0.028, adv:0.001) d_loss: 1.484
+Epoch: [6/100] step: [26/125] time: 109.245s, g_loss(mse:1.151, vgg:0.054, adv:0.001) d_loss: 1.334
+Epoch: [6/100] step: [27/125] time: 109.074s, g_loss(mse:1.255, vgg:0.043, adv:0.001) d_loss: 1.582
+Epoch: [6/100] step: [28/125] time: 108.509s, g_loss(mse:1.114, vgg:0.047, adv:0.001) d_loss: 1.684
+Epoch: [6/100] step: [29/125] time: 108.574s, g_loss(mse:1.157, vgg:0.050, adv:0.001) d_loss: 1.812
+Epoch: [6/100] step: [30/125] time: 109.029s, g_loss(mse:1.010, vgg:0.046, adv:0.001) d_loss: 1.498
+Epoch: [6/100] step: [31/125] time: 108.953s, g_loss(mse:1.132, vgg:0.052, adv:0.001) d_loss: 1.386
+Epoch: [6/100] step: [32/125] time: 108.841s, g_loss(mse:1.189, vgg:0.046, adv:0.001) d_loss: 1.372
+Epoch: [6/100] step: [33/125] time: 108.660s, g_loss(mse:1.054, vgg:0.043, adv:0.001) d_loss: 1.739
+Epoch: [6/100] step: [34/125] time: 108.962s, g_loss(mse:1.104, vgg:0.037, adv:0.001) d_loss: 1.647
+Epoch: [6/100] step: [35/125] time: 108.648s, g_loss(mse:1.128, vgg:0.042, adv:0.001) d_loss: 1.276
+Epoch: [6/100] step: [36/125] time: 109.151s, g_loss(mse:1.315, vgg:0.035, adv:0.001) d_loss: 1.134
