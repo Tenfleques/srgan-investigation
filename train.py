@@ -29,26 +29,15 @@ shuffle_buffer_size = 128
 # create folders to save result images and trained models
 save_dir = "samples"
 tl.files.exists_or_mkdir(save_dir)
-checkpoint_dir = "models"
+checkpoint_dir = "checkpoint"
 tl.files.exists_or_mkdir(checkpoint_dir)
 
 def get_train_data():
     # load dataset
-    train_hr_img_list = sorted(tl.files.load_file_list(path=config.TRAIN.hr_img_path, regx='.*.png', printable=False))#[0:20]
-        # train_lr_img_list = sorted(tl.files.load_file_list(path=config.TRAIN.lr_img_path, regx='.*.png', printable=False))
-        # valid_hr_img_list = sorted(tl.files.load_file_list(path=config.VALID.hr_img_path, regx='.*.png', printable=False))
-        # valid_lr_img_list = sorted(tl.files.load_file_list(path=config.VALID.lr_img_path, regx='.*.png', printable=False))
+    train_hr_img_list = sorted(tl.files.load_file_list(path=config.TRAIN.hr_img_path, regx='.*.png', printable=False))[0:200]
 
     ## If your machine have enough memory, please pre-load the entire train set.
     train_hr_imgs = tl.vis.read_images(train_hr_img_list, path=config.TRAIN.hr_img_path, n_threads=32)
-        # for im in train_hr_imgs:
-        #     print(im.shape)
-        # valid_lr_imgs = tl.vis.read_images(valid_lr_img_list, path=config.VALID.lr_img_path, n_threads=32)
-        # for im in valid_lr_imgs:
-        #     print(im.shape)
-        # valid_hr_imgs = tl.vis.read_images(valid_hr_img_list, path=config.VALID.hr_img_path, n_threads=32)
-        # for im in valid_hr_imgs:
-        #     print(im.shape)
         
     # dataset API and augmentation
     def generator_train():
@@ -159,8 +148,8 @@ def train():
 
         if (epoch != 0) and (epoch % 10 == 0):
             tl.vis.save_images(fake_patchs.numpy(), [4, 4], os.path.join(save_dir, 'train_g_{}.png'.format(epoch)))
-            G.save_weights(os.path.join(checkpoint_dir, 'g.h5'))
-            D.save_weights(os.path.join(checkpoint_dir, 'd.h5'))
+            G.save_weights(os.path.join(checkpoint_dir, 'g-{epoch}.h5'.format(epoch=epoch)))
+            D.save_weights(os.path.join(checkpoint_dir, 'd-{epoch}.h5'.format(epoch=epoch)))
 
 def evaluate():
     ###====================== PRE-LOAD DATA ===========================###
