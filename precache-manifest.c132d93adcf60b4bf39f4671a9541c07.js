@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "065941e38c3830152a42572450715807",
+    "revision": "f4a5ee45d7bdeeb1593fbeed2ada7098",
     "url": "/srgan-investigation/index.html"
   },
   {
-    "revision": "5590e23ab18583e0dc64",
+    "revision": "034a300c1d62221de3fb",
     "url": "/srgan-investigation/static/css/main.7e935d6b.chunk.css"
   },
   {
-    "revision": "aad23ef552917cdf47d7",
-    "url": "/srgan-investigation/static/js/2.034fd358.chunk.js"
+    "revision": "74c314d2d50684255468",
+    "url": "/srgan-investigation/static/js/2.851315f0.chunk.js"
   },
   {
     "revision": "488f21879f2cc026bc096126e88a8b04",
-    "url": "/srgan-investigation/static/js/2.034fd358.chunk.js.LICENSE"
+    "url": "/srgan-investigation/static/js/2.851315f0.chunk.js.LICENSE"
   },
   {
-    "revision": "5590e23ab18583e0dc64",
-    "url": "/srgan-investigation/static/js/main.9106ab0c.chunk.js"
+    "revision": "034a300c1d62221de3fb",
+    "url": "/srgan-investigation/static/js/main.3f895ef5.chunk.js"
   },
   {
     "revision": "ae3e94eabf6308f19f33",
