@@ -7,7 +7,7 @@ class ImageExplorer extends Component {
         super(props);
         
         this.state = {
-            active : 0,
+            active : this.props.start,
             interval : 5000,
             list : this.props.list
         }
@@ -20,6 +20,18 @@ class ImageExplorer extends Component {
         if(oldProps.list !== this.props.list){
             this.setState({
                 list : this.props.list
+            })
+        }
+        if(oldProps.start !== this.props.start ){
+            let active = oldProps.start
+            if(active >= this.state.list.length - 1){
+                active -= 1;
+            }
+            if(active < 0){
+                active = 0;
+            }
+            this.setState({
+                active : active
             })
         }
     }
@@ -42,7 +54,9 @@ class ImageExplorer extends Component {
     }
 
     showCarousel(){
-        let img = this.state.list[this.state.active];
+        let img = this.state.list[this.state.active || 0];
+        console.log(this.state.active)
+        
         let name = img.replace(".png", "").replace(".jpg", "").split("/").pop();
         
         return <ImageCtrl name={name} src={img} />
