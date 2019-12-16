@@ -6,7 +6,7 @@ import tensorlayer as tl
 from tensorlayer.layers import (Input, Conv2d, BatchNorm2d, Elementwise, SubpixelConv2d, Flatten, Dense)
 from tensorlayer.models import Model
 
-def get_G(input_shape):
+def get_G(input_shape, name="generator"):
     w_init = tf.random_normal_initializer(stddev=0.02)
     g_init = tf.random_normal_initializer(1., 0.02)
 
@@ -35,10 +35,10 @@ def get_G(input_shape):
     n = SubpixelConv2d(scale=2, n_out_channels=None, act=tf.nn.relu)(n)
 
     nn = Conv2d(3, (1, 1), (1, 1), act=tf.nn.tanh, padding='SAME', W_init=w_init)(n)
-    G = Model(inputs=nin, outputs=nn, name="generator")
+    G = Model(inputs=nin, outputs=nn, name=name)
     return G
 
-def get_D(input_shape):
+def get_D(input_shape, name="discriminator"):
     w_init = tf.random_normal_initializer(stddev=0.02)
     gamma_init = tf.random_normal_initializer(1., 0.02)
     df_dim = 64
@@ -72,7 +72,7 @@ def get_D(input_shape):
 
     n = Flatten()(n)
     no = Dense(n_units=1, W_init=w_init)(n)
-    D = Model(inputs=nin, outputs=no, name="discriminator")
+    D = Model(inputs=nin, outputs=no, name=name)
     return D
 
 # state of the art generator network 
