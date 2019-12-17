@@ -4,7 +4,7 @@
 *.npz
 models/vgg19.npy
 sample/
-samples/
 checkpoint/
 __pycache__/
 DIV2K
+core*

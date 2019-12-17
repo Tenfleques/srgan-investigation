@@ -7,7 +7,7 @@ config.TRAIN = edict()
 ## adversarial loss inclusive of LR vs fake LR
 config.DOWNSCALE_COMPARE = True
 ## Adam
-config.TRAIN.batch_size = 16 # [16] use 8 if your GPU memory is small, and use [2, 4] in tl.vis.save_images / use 16 for faster training
+config.TRAIN.batch_size = 8 # [16] use 8 if your GPU memory is small, and use [2, 4] in tl.vis.save_images / use 16 for faster training
 config.TRAIN.lr_init = 1e-4
 config.TRAIN.beta1 = 0.9
 
