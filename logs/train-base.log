@@ -2474,4 +2474,4 @@ Epoch: [99/100] step: [20/12] time: 9.260s, mse: 0.023
 Epoch: [99/100] step: [21/12] time: 9.414s, mse: 0.022 
 Epoch: [99/100] step: [22/12] time: 9.291s, mse: 0.017 
 Epoch: [99/100] step: [23/12] time: 9.195s, mse: 0.018 
-Epoch: [99/100] step: [24/12] time: 9.211s, mse: 0.012
+Epoch: [99/100] step: [24/12] time: 9.211s, mse: 0.012 

@@ -21,14 +21,18 @@ class  Home  extends React.Component {
     getImages(){
         let imgs = [];
         let init_images = [];
+        let imgs_base = [];
+        let init_images_base = [];
         let path = "/srgan-investigation/samples/";
+        let base_path = "/srgan-investigation/samples/";
         // let path = "/samples/";
 
         for(let i = 10; i < 1000; i += 10){
             if (i < 100){
                 init_images.push( path + "train_g_init_" + i + ".png");
             }
-            imgs.push( path + "train_g_"+i + ".png");
+            if(i > 200)
+                imgs.push( path + "train_g_"+i + ".png");
         }
         return {
             "images" : imgs,
@@ -62,6 +66,8 @@ class  Home  extends React.Component {
     }
     render(){
         let images = this.getImages()[this.state.images.list]
+
+        // let images_base = this.getImages()["base"][this.state.images.list]
         
         let options = [
             {
@@ -88,6 +94,7 @@ class  Home  extends React.Component {
                             <div className="col-4">
                                 <SelectCtrl name="select-view"  caption="Select image set" onChange={this.onSelectChange} value={this.state.images.list} options={options}/>
                             </div>
+                            
                             <div className="col-4 d-none">
                                 <input 
                                     type = "number"
@@ -102,6 +109,9 @@ class  Home  extends React.Component {
                             <div className="col-12 px-0">
                                 <ImageExplorer list={images} start = {this.state.images.start} title={this.state.images.title}/>
                             </div>
+                            {/* <div className="col-12 px-0">
+                                <ImageExplorer list={images_base} start = {this.state.images.start} title={this.state.images.title}/>
+                            </div> */}
                         </div>                                            
                     </div>
                 </div>

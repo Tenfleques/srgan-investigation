@@ -1,0 +1,326 @@
+Central
+!
+ipv6 unicast-routing
+!
+interface Serial0/0/0
+ description Any description text.
+ bandwidth 2000
+ ip address 192.168.100.9 255.255.255.252
+ ipv6 address FE80::1 link-local
+ ipv6 address 2001:DB8:1A::1/64
+ ipv6 eigrp 99
+ clock rate 2000000
+!
+interface Serial0/0/1
+ description Any description text.
+ bandwidth 2000
+ ip address 192.168.100.21 255.255.255.252
+ ipv6 address FE80::1 link-local
+ ipv6 address 200:DB8:1B::1/64
+ ipv6 eigrp 99
+ clock rate 128000
+!
+interface Serial0/1/0
+ description Any description text.
+ ip address 203.0.113.18 255.255.255.252
+ ipv6 address FE80::1 link-local
+ ipv6 address 2001:DB8:99::2/64
+!
+router eigrp 99
+ eigrp router-id 1.1.1.1
+ redistribute static 
+ network 192.168.100.8 0.0.0.3
+ network 192.168.100.20 0.0.0.3
+!
+ipv6 router eigrp 99
+ eigrp router-id 1.1.1.1
+ no shutdown 
+ redistribute static
+!
+ip route 0.0.0.0 0.0.0.0 Serial0/1/0 
+!
+ipv6 route ::/0 Serial0/1/0
+!
+end
+ 
+East
+!
+ipv6 unicast-routing
+!
+interface GigabitEthernet0/0
+ ip address 10.1.0.3 255.255.255.0
+ duplex auto
+ speed auto
+ ipv6 address FE80::2 link-local
+ ipv6 address 2001:DB8:20::3/64
+ ipv6 eigrp 99
+ standby version 2
+ standby 1 ip 10.1.0.1
+ standby 1 priority 150
+ standby 1 preempt
+!
+interface Serial0/0/0
+ description Any description text.
+ bandwidth 2000
+ ip address 192.168.100.10 255.255.255.252
+ ipv6 address FE80::2 link-local
+ ipv6 address 2001:DB8:1A::2/64
+ ipv6 eigrp 99
+!
+interface Serial0/0/1
+ description Any description text.
+ ip address 192.168.100.33 255.255.255.252
+ ipv6 address FE80::2 link-local
+ ipv6 address 2001:DB8:2::1/64
+ ipv6 eigrp 99
+ clock rate 2000000
+!
+router eigrp 99
+ eigrp router-id 2.2.2.2
+ passive-interface GigabitEthernet0/0
+ network 10.1.0.0 0.0.0.255
+ network 192.168.100.8 0.0.0.3
+ network 192.168.100.32 0.0.0.3
+!
+ipv6 router eigrp 99
+ eigrp router-id 2.2.2.2
+ no shutdown 
+ passive-interface GigabitEthernet0/0
+!
+end
+ 
+East-2
+!
+ipv6 unicast-routing
+!
+interface GigabitEthernet0/0
+ standby version 2
+ standby 1 ip 10.1.0.1
+!
+ip route 0.0.0.0 0.0.0.0 Serial0/0/0 
+!
+end
+West
+!
+ipv6 unicast-routing
+!
+interface GigabitEthernet0/0.10
+ encapsulation dot1Q 10
+ ip address 10.10.0.1 255.255.255.0
+ ipv6 address FE80::3 link-local
+ ipv6 address 2001:DB8:3:10::1/64
+ ipv6 eigrp 99
+!
+interface GigabitEthernet0/0.15
+ encapsulation dot1Q 15
+ ip address 10.15.0.1 255.255.255.0
+ ipv6 address FE80::3 link-local
+ ipv6 address 2001:DB8:3:15::1/64
+ ipv6 eigrp 99
+!
+interface GigabitEthernet0/0.20
+ encapsulation dot1Q 20
+ ip address 10.20.0.1 255.255.255.0
+ ipv6 address FE80::3 link-local
+ ipv6 address 2001:DB8:3:20::1/64
+ ipv6 eigrp 99
+!
+interface GigabitEthernet0/0.99
+ encapsulation dot1Q 99 native
+ no ip address
+!
+interface Serial0/0/0
+ ip address 192.168.100.34 255.255.255.252
+ ipv6 address FE80::3 link-local
+ ipv6 address 2001:DB8:2::2/64
+ ipv6 eigrp 99
+!
+interface Serial0/0/1
+ bandwidth 2000
+ ip address 192.168.100.22 255.255.255.252
+ ipv6 address FE80::3 link-local
+ ipv6 address 2001:DB8:1B::2/64
+ ipv6 eigrp 99
+!
+router eigrp 99
+ eigrp router-id 3.3.3.3
+ passive-interface GigabitEthernet0/0.10
+ passive-interface GigabitEthernet0/0.15
+ passive-interface GigabitEthernet0/0.20
+ network 10.10.0.0 0.0.0.255
+ network 10.15.0.0 0.0.0.255
+ network 10.20.0.0 0.0.0.255
+ network 192.168.100.32 0.0.0.3
+ network 192.168.100.20 0.0.0.3
+!
+ipv6 router eigrp 99
+ eigrp router-id 3.3.3.3
+ no shutdown 
+ passive-interface GigabitEthernet0/0.10
+ passive-interface GigabitEthernet0/0.15
+ passive-interface GigabitEthernet0/0.20
+!
+no cdp run
+!
+end
+ 
+Test Cloud  (Password :  admin)
+!
+interface GigabitEthernet0/0
+no sh
+!
+end
+ 
+DataCent
+!
+spanning-tree mode rapid-pvst
+spanning-tree vlan 10,15,20 priority 24576
+!
+interface range FastEthernet0/3-4
+ switchport trunk native vlan 99
+ channel-group 1 mode active
+ switchport mode trunk
+!
+interface range FastEthernet0/5-6
+ switchport trunk native vlan 99
+ channel-group 2 mode active
+ switchport mode trunk
+!
+interface GigabitEthernet0/1
+ no sh
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+interface Port-channel 1
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+interface Port-channel 2
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+vtp domain EW-access
+vtp password EWabc!
+vtp mode server 
+!
+end
+ 
+Bklg-1
+!
+spanning-tree mode rapid-pvst
+!
+interface range FastEthernet0/1-2
+ switchport trunk native vlan 99
+ channel-group 3 mode active
+ switchport mode trunk
+!
+interface range FastEthernet0/3-4
+ switchport trunk native vlan 99
+ channel-group 1 mode active
+ switchport mode trunk
+!
+interface range FastEthernet0/5-9
+ switchport access vlan 999
+ shutdown
+!
+interface range FastEthernet0/10-14
+ switchport access vlan 10
+ switchport mode access
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface range FastEthernet0/15-19
+ switchport access vlan 15
+ switchport mode access
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface range FastEthernet0/20-24
+ switchport access vlan 20
+ switchport mode access
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface range GigabitEthernet0/1-2
+ switchport access vlan 999
+ shutdown
+!
+interface Port-channel 1
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+interface Port-channel 3
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+vtp domain EW-access
+vtp password EWabc!
+vtp mode client
+!
+end
+ 
+Bldg-2
+!
+spanning-tree mode rapid-pvst
+spanning-tree vlan 10,15,20 priority 28672
+!
+interface range FastEthernet0/1-2
+ switchport trunk native vlan 99
+ channel-group 3 mode active
+ switchport mode trunk
+!
+interface range FastEthernet0/3-4
+ switchport access vlan 999
+ shutdown
+!
+interface range FastEthernet0/5-6
+ switchport trunk native vlan 99
+ channel-group 2 mode active
+ switchport mode trunk
+!
+interface range FastEthernet0/7-9
+ switchport access vlan 999
+ shutdown
+!
+interface range FastEthernet0/10-13
+ switchport access vlan 10
+ switchport mode access
+ spanning-tree portfast
+ spanning-tree bpduguard enable
+!
+interface FastEthernet0/14
+ switchport access vlan 10
+ switchport mode access
+!
+interface range FastEthernet0/15-19
+ switchport access vlan 15
+ switchport mode access
+!
+interface range FastEthernet0/20-24
+ switchport access vlan 20
+ switchport mode access
+!
+interface range GigabitEthernet0/1-2
+ switchport access vlan 999
+ shutdown
+!
+interface Port-channel 2
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+interface Port-channel 3
+ switchport trunk native vlan 99
+ switchport mode trunk
+ switchport nonegotiate
+!
+vtp domain EW-access
+vtp password EWabc!
+vtp mode client
+!
+end
