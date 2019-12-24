@@ -208,6 +208,8 @@ if __name__ == '__main__':
     if tl.global_flag['mode'] == 'srgan':
         train()
     elif tl.global_flag['mode'] == 'evaluate':
+        save_dir = "validate"
+        tl.files.exists_or_mkdir(save_dir)
         evaluate()
     else:
-        raise Exception("Unknow --mode")
+        raise Exception("Unknown --mode")
