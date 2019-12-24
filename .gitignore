@@ -9,3 +9,5 @@ checkpoint/
 __pycache__/
 DIV2K
 core*
+node_modules
+public
