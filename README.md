@@ -20,20 +20,6 @@ This investigation adds to the descriminator the difference between the LR versi
 </a>
 
 
-### Results
-
-<a href="http://tensorlayer.readthedocs.io">
-<div align="center">
-	<!--<img src="img/SRGAN_Result2.png" width="80%" height="50%"/> -->
-</div>
-</a>
-
-<a href="http://tensorlayer.readthedocs.io">
-<div align="center">
-	<!--<img src="img/SRGAN_Result3.png" width="80%" height="50%"/> -->
-</div>
-</a>
-
 ### Prepare Data and Pre-trained VGG
 
 - 1. You need to have the high resolution images for training.
@@ -44,6 +30,10 @@ This investigation adds to the descriminator the difference between the LR versi
 
 ### Run
 - Set your image folder in `config.py`
+
+- Change the `config.DOWNSCALE_COMPARE` to `True` to enable the "cyclic hack" and False to disable it. 
+
+- Use the notebook in `evaluation.ipnyb` to compare cyclic and non cyclic models. You may have to change branches to find the latest one! :-)
 
 - Other links for DIV2K, in case you can't find it : [test\_LR\_bicubic_X4](https://data.vision.ee.ethz.ch/cvl/DIV2K/validation_release/DIV2K_test_LR_bicubic_X4.zip), [train_HR](https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_HR.zip), [train\_LR\_bicubic_X4](https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_LR_bicubic_X4.zip), [valid_HR](https://data.vision.ee.ethz.ch/cvl/DIV2K/validation_release/DIV2K_valid_HR.zip), [valid\_LR\_bicubic_X4](https://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_LR_bicubic_X4.zip).
 
@@ -59,24 +49,42 @@ python train.py
 
 - Start evaluation. 
 
-<!--([pretrained model](https://github.com/tensorlayer/srgan/releases/tag/1.2.0) for DIV2K)-->
-
 ```bash
 python train.py --mode=evaluate 
 ```
 
 ### citations 
-@InProceedings{Agustsson_2017_CVPR_Workshops,
-	author = {Agustsson, Eirikur and Timofte, Radu},
-	title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study},
-	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-	month = {July},
-	year = {2017}
+@InProceedings{
+	
+	Agustsson_2017_CVPR_Workshops,
+	author = {
+		Agustsson, 
+		Eirikur 
+		and Timofte, Radu
+	},
+	title = {
+		NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study
+	},
+	booktitle = {
+		The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+	},
+	month = {
+		July
+	},
+	year = {
+		2017
+	}
 } 
 
-@InProceedings{Timofte_2017_CVPR_Workshops,
-author = {Timofte, Radu and Agustsson, Eirikur and Van Gool, Luc and Yang, Ming-Hsuan and Zhang, Lei and Lim, Bee and others},
-title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results},
+@InProceedings{
+	
+	Timofte_2017_CVPR_Workshops,
+author = {
+	Timofte, Radu and Agustsson, Eirikur and Van Gool, Luc and Yang, Ming-Hsuan and Zhang, Lei and Lim, Bee and others
+	},
+title = {
+	NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results
+	},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
 month = {July},
 year = {2017}
