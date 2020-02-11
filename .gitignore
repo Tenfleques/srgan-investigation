@@ -1,0 +1,17 @@
+._*
+*.pyc
+.DS_Store
+*.npz
+models/vgg19.npy
+__pycache__/
+DIV2K
+DIV2
+core*
+checkpoint
+node_modules
+samples
+src
+public
+build
+ipynb_checkpoints/
+.style.yapf
