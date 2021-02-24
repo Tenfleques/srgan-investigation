@@ -13,6 +13,9 @@ from the paper:
 
 This investigation adds to the descriminator the difference between the LR version of the generated image from the input LR image as well. 
 
+The investigation includes a network based image downscaling instead of the ordinary im_resize functions. The target is to avoid learning the inverse of im_resize function.
+
+
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
 	<img src="img/model.jpeg" width="80%" height="10%"/>
@@ -55,36 +58,19 @@ python train.py --mode=evaluate
 
 ### citations 
 @InProceedings{
-	
 	Agustsson_2017_CVPR_Workshops,
-	author = {
-		Agustsson, 
-		Eirikur 
-		and Timofte, Radu
-	},
-	title = {
-		NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study
-	},
-	booktitle = {
-		The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
-	},
-	month = {
-		July
-	},
-	year = {
-		2017
-	}
+	author = {Agustsson, 
+		Eirikur
+		and Timofte, Radu},
+	title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study},
+	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+	month = {July},
+	year = {2017}
 } 
 
-@InProceedings{
-	
-	Timofte_2017_CVPR_Workshops,
-author = {
-	Timofte, Radu and Agustsson, Eirikur and Van Gool, Luc and Yang, Ming-Hsuan and Zhang, Lei and Lim, Bee and others
-	},
-title = {
-	NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results
-	},
+@InProceedings{Timofte_2017_CVPR_Workshops,
+author = {Timofte, Radu and Agustsson, Eirikur and Van Gool, Luc and Yang, Ming-Hsuan and Zhang, Lei and Lim, Bee and others},
+title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
 month = {July},
 year = {2017}
@@ -119,9 +105,6 @@ year = {2019}
 
 ### Reference
 * [1] [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
-
-### Author
-- [Tenfleques](https://github.com/tenfleques)
 
 ### License
 
